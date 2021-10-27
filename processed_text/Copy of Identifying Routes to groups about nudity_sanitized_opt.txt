@@ -1,0 +1,371 @@
+it
+fying pathways to harmful groups about nudity
+Identifying pathways to harmful
+dity
+; fi A pre | CO Ce CL
+Peco mee sea RRC Rd Coe oo eee i ! ; baal 4
+yo at Sopa ted Peplethot aves biases be
+Tea a en? Ht Ld ea et pertee ta re
+D tee See ap tee Pee age © ep fae ate th. totes we
+Meld Nierr mCeN $210) CLR RC ca nl :
+wate yt Somnath eh da do bt, dea ie Te ity
+Ele) 9) VR Thr S1 (0) 7
+COT] (care\ce (16) 0] DRM Ee S| MP eT CC
+i CoM aYela tac -cemm €108)5] © omar CR CES |e Ce Ce ee 8
+te a Gat ecco At] Cores rc a | PT
+Colo Tal(c-r- thes ACT CA a
+¢ Specific interventions 26 prope ee ite tbe ri eed iter yp nicl ten tor and ULL ary
+Y= Ke (rato (elem aC: LC cn ate de Le |e PLT de es pernEnts — Cf)
+both at entity-level and at the edue-h- el Td
+Rae Bic to relocate a eT ee DREN Ua SLce) Soden te | Coan) 2
+Cates ma nity Aa ere] OVC Mele aTy sna vt haem fe.g , number of members ro)
+flagged as non-rec, group demotion score et. dine erunctian to determine the ones ©O
+that we want to consider enforcing on more aggressively w
+us addition, we believe Gateway groups can he used as (sparse) features to improve 4
+recall of existing models. We are working with the Entty & Actor Understanding team to oO
+evaluate models using these groups as features uu)
+-
+in Gateway groups e
+jays to harmful entities, we wanted to explore the question “Are there it
+Cuter sehr probability of a user Joining harmful groups?” We call aa
+C7 i
+Identifying pathways to harmful
+bout nudity
+PA Ree ay ee est 20) Ok 9) °c) hannmstubentities a user might
+rey oM in saRcnre ee iale RL akel0 Coe EMSAs ee BL
+workflow to identify entities that act as aateways bene ogy sed carn pentities: In this note, we
+E97 A ayIoM 018 010) ym COm (M0 \-R ORES cece] S REMERLN DATS CTS te eee PC CO DO LR Sree OPT ean (01 0
+Comey), 7-) me (cole) oso) male ey XCrae tt) Ee Os ee Ce ee CO
+to non-rec Groups. We should Corder inte: sen tons tab ane either targeted towards
+Utst-]e-Mlam dat=ti-mers | one rs\ ae 1200] ore RC | ee Bs Oe OO
+downstream connections from happutiig
+¢ Specific interventions we propose inc hide: Gad J weed tite: ep iste triction and entity-
+level demotion. We are working with the Deampitic ation team to pursue experiments ”
+both at entity-level and at the edge-level. i
+¢ We should stress however, that not aif gateway qruups are potentially problematic in a
+and of themselves; we should use other signals of harm (e.g., number of members ra
+flagged as non-rec, group demotion score etc ) in conjunction to determine the ones O
+that we want to consider enforcing on more aggressively. -
+~
+*,in addition, we believe Gateway groups can be used as (sparse) features to improve 4
+recall of existing models. We are working with the Entity & Actor Understanding team to a
+evaluate models using these groups as features. a
+a
+in Gateway groups e
+: a)
+hways to harmful entities, we wanted to explore the question “Are there ae
+and increased the probability of a user joining harmful roups?” We call a"
+"® addition, we believe Gateway groups can be used as (sparse) features to improve
+Pe oe A RS) TR RCE OMe eC Uk
+evaluate models using these groups as features
+Quick refresher on Gateway groups
+Pye ke foes] pathways to harmful entities. we en Cenrs sere cke es me e ots
+Pee Bur mu Cotr Le) increased the probability of a user joining harmtul roles Yaa Aker
+Pet etek CCE eee Ray often lead people to jain harmful groups
+Pee ey ent Et eh CE AS For thorough details see this
+CeCe
+re eee
+haem -yrsugs
+Oye er
+a PA Oe hear]
+Group , ioe’ et To
+OS pani Benign A ” a) 7 Gateway ek ~
+: Group | "| Group eer a MH
+/ \r . Y
+7 t g
+_ + . oO
+on ‘ a O
+, oe <)
+Cn eka)
+cach Ledhielblaiel shia chained pore da anal De ra) a
+Probability of joining =
+L albdiivel: ahasaubedh men's)
+the gateway groups P
+‘Wo anawr the question, we first build a classifier that, gi , mT
+J ee joined an
+Sey priate peng enyrnppnnnienpripodieieteipesaaaeleiah pylon ela
+a er | oe
+To answer the question, we first build a casstier that aver a HRT CERO MA ll
+Peer ee Ae oe ee ‘acqet harmful group Fora
+peregte Ar koe NR 0] oa 1, “thers oining a harmful
+reese oD eRe RUT COULD 01°) SL Ma EC Sc
+Pore Mtn? Ae Rel VA US 8 a CR eh MAR Sta 2
+pee UN RIE Ee Ree aC ES 601018)
+ee RL eS CAR RUS 0a LtC-R rak ae |
+(i) Coe Oma 00 (LVR La\6 eee 10: | A a |
+CYL Vm fA ACT =>, g TN oe
+What pathways lead from gateway groups to harmful nudity groups?
+source a alia) c confirmed joins
+os tee g tTte hs ie]
+hi iy
+mobile_group. join or any re)
+a
+mobile_add_members 653997 408187 iS
+O
+Pv Reet 4123893 O
+aw
+Lor ie) 247682 225847 O
+re
+group _mall eh) Wed 207585 iT
+-
+newsfeed story header PhP 185000 Po
+newsteed_reshared_story 202309 182748 a
+le
+ny: ee ny groups to harmful PR Ld E
+]
+- . 7) 7 confirmed_joine
+- 7 1326540 1234089
+i aroup_join le bag TYRE DA
+ee RTT POTS
+7 orl) 423893
+. 247682 Pras LU
+i 239872 EYE Ch
+“”
+ie dpad Paya es Tite) om
+q Pax ape . a
+4 Tera h ae SS
+ba . ; Cr
+: Ee ore
+oom raed 93785
+a | fost) 58065
+. Caer aR
+eee 45458 CS ¥2<)
+a Ee stu Tat 38879 35208
+“ . seurces of joins of gateway group members to target harmful groups over all time. We
+oe ‘abate italia
+hs OL tv]
+. ae)
+a 351341 320524 me.
+7 meet -274 po ah _— o
+= hed |
+aie _ A whl
+~~ cman ee .
+Bt art
+—— 149/56 WII
+"] A ; : 7
+newsteed_story_header 148850 134951
+newsteed_reshared_story 142128 irr deh ))
+mobife_add_ members aR TREC) oxteilo)
+feed_attachment 62775 ad
+a
+groups _discover_tab 45399 38031
+' germalink 40290 ERTL]
+‘ i) 35605 29506
+2237
+"aa 375 ork ley.) Pi
+- ”)
+og TE Ea ad 21895 19170 Wy
+ee O
+hd ieee Z
+a ‘ 10827 rvvvy Oo
+a %.
+a Pe dete eer dt. Ts) Rae
+en here because some groups have been flagged as non_rec - bu RM: on
+; : Fi .
+ae bE le A RT
+aiteteeitl cel alin ae ee
+3 a pathway from nudity gateway Pree RM alata Pd
+ # Veers in gateway groups subsequently join non-rec groups because of exposure to
+GYSJ recommendations
+Py
+- © 10.77% of users who joined one of the top 100 gateway groups (ranked by highest
+7 gateway score) we identify, eventually joined a non-rec group through exposure to
+GYSJ vs. 8.78% of those who had no exposure to GYSJ
+MT et Pear aca eek Cc ater) Recher seeds
+sg y groups being targeted by “super-inviters”?
+item (defined as those who sent > 50 invites to our collection of target
+mite a big source of invitations from gateway groups i
+eee plaid Mak ea lah The a -
+a Pome cere ea Si
+. Fa
+eae oe oe : me e “ ae
+od tke RR a harmful groups went to members PC Mth Ald
+es mies Ca ee tele eR WO Sars Be ert
+» We did not see evidence supporting the PYMI hypothesis, roughly equal fractions tol
+7 users between control and testing in the long-term PYMI holdout eventually joined non-
+Cen eed
+‘ VO ATs eee te Rl RN oi ROR RL PYMK influences connections to
+, harmful groups either through featuring more users as candidates or showing them
+re Bit re RCo et OLE)
+Rocha UU a number of bulk invites that can be sent
+
+eee se BC ek Be ae le targeted by focusing only on invites going
+nein users in a gateway group but this ts a more intrusive ae ee ell) 7p)
+‘late thought about how we communicate this intervention to the actor. ”
+, aT
+
+male Non-rec groups an
+am ne eee Ee ee treme: pet | a
+- hasgpsegdealbilalia gel Anabel etdiae teiderht m
+OT De ee
+Shag aeepmanige dttaiealiesitene
+Soe aaaditoel anemia Re
++ Lt -=
+nt
+Pare e Ruck CnC Crt aaa teeqerc dt cata ett oe tet
+re UMTS SC LLU Ae PA CRC ULL
+PPT ciao ce aR Ua SL Ae Se a ToS RE
+Pea eats Rela ca ee ee ar
+rirert fe Ras (hSoROLe Mev RS Ce eae re es wooed dg
+Pr cevnye N1AC¢ oF) CSAC a
+Mitigations
+Pom care pee] 0 RO ECURA AT CSPrT Rc a Co CD
+RATT ELIT ATTA: RESET OLY Cet oe
+© Inconunction with Gther hae ta TOF a A cn)
+LA GLAM SLALCLE eS CEL ce peer oT er ee re eh
+Perera TSE CLOLICCTLUR LAL CARLY CL Os Cia Mn Fe Oe |
+PTTL ela ROT Lak] A eS [ke Re Pee
+”
+Y)
+eee
+Pree 0/9 0.23 -0.031 0.052 0.025 0.085 ro}
+rt
+Re 0.14 0.38 0.31 0.59 "4 O
+Oo
+Crurenee O23 O14 011 017 O12 O08? a
+ey oO
+Momo 0031 038 O11 i" 035 O37 0.25 oo
+3 O
+Sos 9052 @68') 017 035 MM ose 0.62 -
+—.
+O
+bY emnee 025 O31 012 O87 O58 i 0 46 i,t ¢
+a)
+ree 9 O85 0.59 0082 025 062 046 i P
+00 in
+Fae cat a ce a ie? bart eT LAL ° 18)
+Pate gh ty hh ee, , tt Peteedooot outa acd nas posit ve
+Se a TS
+Jat
+been, me 0.079 0.23 -0.031 0.052 0.025 0.085
+- 0.079 0.14 0.38 || 0.31 0.59 ug
+Stee 0.23 0.14 ; 0.11 0.17 012 0.082 le
+Pe 0.031 0.38 0.11 ; 0.35 0.37 0.25
+”
+rd Gy
+er 0.052 pS 0.17 0.35 ; 0.58 0.62 nt
+ad
+ROM 0025 0.31 (0.12 «0.37 0.58 [NEE 0.46 re oO
+O
+AO 0.085 «40.59 0.082 0.25 0.62 0.46 Tl ro)
+ome)
+~
+ar re fe
+cs é ; a A = Q
+7 : : ; LU
+cs : i B a
+a)
+ae
+) x
+nd
+| peers
+|
+=
+ee
+
+_
+
+Y
+
+Y
+
+a8)
+
+ag
+
+phopoamoad.deto be faetoou oat ay
+
+Ck ce , ner te de
+
+ee Oo
+
+Fe ee ‘ O
+
+Te x
+
+wetietp wee or rap oargpan en? oO
+
+ce
+
+yr A
+
+aa
+
+Ot an
+
+Pre re U0 Pee Le ee <x
+
+aris] a)
+
+vi
+
+Pe ee os pe er ee | wd
+parart . a hat. Par ”
+Notak beter te )
+je er er | rg
+foros we 9
+sestrad ford O
+aro Cn ee oO
+0 it ‘ad
+Tae oe eC e)
+Re ore a ec
+dents ae pete ats Lu
+38 tC cc 5
+TC oPrees puae yen. en ee 7
+TO eh a
+Qthage racghat § tae ted a . n
+DTA aL LESS
+
+; ~
+Pn Tn ee)
+Qitesaentte neat tt te gy
+Hatittapetad tate. ae
+ag
+tobe obey (@)
+ee 6
+Thay cn Spite tober trns brent oO
+trarsteratee tr. this attneeg tty ‘ad
+a) Uhre Ls ee] Se oO
+ACTS (SUS Ber | 7;
+aPProde Hobie Ae od Q
+Pe cell
+Liber beep, Oo O
+=?
+a a
+00 es ee aa
+AQomiaih wide petiderit spa ad
+
+Tree EAE WT Cee PP PS TESTOR OTT
+: re ee |
+Avs eek od
+Ree ere re toms
+baat Im te bo a
+ae eure [eee a a ar han ve au
+ns cs ae a
+~
+| ——————C—S EP
+apd Deedes teat Uh tent tue
+2 a
+a
+| oy arenes eran ee
+Teen ies Die] Seer oe Se
+Fey CATS oe ere Lee a
+Na retaye (eat RECO ee ee
+approach for sine eee |
+ee ce od 8
+ag
+a a
+Tee a ora O
+a oe re
+domain independent and O
+finds gateway qroups for any O
+given set at target groups. o
+We are already using 't to find 4
+gateways for the militia O
+network in Ethiopia We are LW
+looking for other areas to 5
+3 apply this workflow on and =
+would be great to collaborate! a
+Like Reply Oo ag
+7 pe Pela ee a) ana
+

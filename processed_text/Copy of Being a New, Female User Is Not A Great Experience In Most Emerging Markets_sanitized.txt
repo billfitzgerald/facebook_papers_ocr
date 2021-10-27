@@ -1,0 +1,419 @@
+> Civic Understanding (UXR, DS, CDS & Friends) ro
+September 10, 2020 - e
+
+Being a new, female user is not a great experience in most emerging
+markets
+
+| recently published a note about how we do not survey new users in TRIPS but should since
+they appear to have more negative experiences. At the suggestion of Ravi lyer | included a cut
+
+by country and, at = s suggestion, | also included a gender cut. The
+results are stark.
+
+In the US, women with <30d tenure on platform give ~30% more USI than men. In most
+European countries the gap is closer to 10%. In ID the gap is 170%. IN, BR, AR, PH, NG and ZA
+
+also have gaps of over 100%.
+
+for Congress
+
+One possible explanation is that women simply give more USI overall in these countries and it
+has nothing to do with tenure. The other plot below shows the relative USI ratio between the
+first month on the platform and months 9-12. That plot shows that, while there are overall
+gender effects, there is also a tenure-specific factor. For instance, women in ID give 3.3x more
+USI in their first month than in months 9-12, but for men the ratio is only 2.2x.
+
+| have not performed this analysis on civic-specific content, but | suspect we will see a similar
+(or worse) trend. Especially since we already have evidence that women are participating less in
+civic discussions. | do not have specific remediation recommendations at this point, but would
+be interested in collaborating further.
+
+Redacted
+
+Source: https://fburl.com/daiquery/48unx5te
+ 
+va)
+2
+rd
+Ms
+4
+Zz
+Le)
+a |
+
+©«* **Redacted for Congress” °°"
+
+) Like (J) Comment @ St Chats
+
+ 
+ 
+
+Deane a eee te oe
+LS
+a
+om
+EEE
+tee
+a
+Sinead ae
+eS
+1 iinet aed
+—_—_—___
+EIEN
+7
+ln
+—____ LL  /,
+——S |
+Lene ae eee ee
+££
+Ban Oe A 0 oO Ge ee
+
+|
+
+7
+3
+Ld
+
+@ female usi © male usi
+Normalized Overall USI
+
+-
+rv)
+
+Nn
+
+rs
+
+al
+
+0
+
+us
+
+J
+
+San
+
+   
+
+I
+
+ee a
+
+e ae
+
+@ female usi_norm © male usi_norm
+ms Fe aca ‘, Share
+fv Like Comment share
+
+ 
+
+Like - Reply
+
+ 
+
+Like - Reply
+
+(a Ravi lyer
+
+ 
+
+- this was the other finding | mentioned in our 1:1 today. Also perhaps of
+interest to
+Christopher
+
+   
+   
+
+- |'d love to consider a workstream toward improving the
+onboarding experience of women in lower literacy countries with a goal of reducing
+the disparities in the above graphs, perhaps by creating better initial sources to
+follow.
+
+Unlike many workstreams, we have a readily made metric already, though some
+have pointed out that a part of the above could be due to people signing up fake
+accounts to report others. Still, this converges with other findings co i note
+on how phone shops connect people to sources iii work on gendered
+harassment orf notes on how easy it is to rabbit hole in
+recommendations) such that I'm inclined to believe at least some of this is due to
+actually bad onboarding experiences for women in these markets. And there is an
+easy growth argument to be made for doing something about this as well as
+allowing bad experiences for new users seems like a poor long term growth tactic.
+Like -Renlyv .. 24w . Edited 9) 8
+
+Redacted for Congress
+Like - Reply - 34w - Edit
+
+= | think work is highly relevant here, since she actually looked at
+
+gender disparities in literacy around the world
+(https://fb.workplace.com/notes [ill /measuring-online-language-
+literacy-in-12-language/274339023863105/), as well as other work on
+
+ender differences in participation! (https://fb.workplace.com/notes iii
+BBB cender-bias-in-civic-interaction-part-1/14758117653889")
+
+ 
+
+6
+Like - Reply ©
+
+a Better onboarding experience of women inlower literacy countries sounds
+wise, and the Women in Emerging Markets team may have already done
+some onboarding work (cc
+
+Like | Reply
+
+& Ravi lyer
+
+ia Thanks! I'd be happy to learn that someone else is already doing this
+and perhaps we can contribute research/data to that effort.
+
+Like - Reply - 34w - Edited
+
+You should also check research with the WEM team on
+
+reducing gender gaps in civic participation through the locked profile:
+https://fb.workplace.com/notes/jack-blundell/enhanced-privacy-features-
+narrow-the-gender-gap-in-civic-engagement/2856060487833191
+
+  
+ 
+ 
+
+Redacted for Congress
+
+Like - Reply  34w O02
+
+=. Ravi would be great to connect. We have 2 teams in Growth
+
+focused on a) women (primarily Safety) and b) easier onboarding for recent
+internet adopters, so happy to connect about either/both jis our
+
+Research Lead who has a wealth of great information too
+i Mo
+Like - Reply . 34w
+
+\'m wondering if there's been work around Friending that can inform here? ce:
+
+Like Reply 34w
+
+The friending team is investing in more work on women in emerging markets
+cc
+
+Like - Reply » 34w
+
+a Friending is working on labeling/understanding uncomfortable/unwanted
+friend requests (especially in IN) and difficult ties.
+Like . Reply - 33w
+
+a a this be a helpful way to approach the B&H issues in MM
+
+Site | | Mammwlis | 2 Aion
+
+O2
+
+Redacted for Congress
+Like
+
+Reply - o4W
+
+Ravi lyer
+
+BE Maybe something you're already doing, but gender specific B&H
+can sometimes be caught better by the sexually suggestive classifier vs.
+B&H. e.g.
+https://fb.workplace.com/groups/655489201588520/permalink/9164725
+48823516]. Perhaps you could try to bootstrap such a classifier leveraging
+comments reported for B&H by women that are non-violating but have
+certain words? Or maybe there is a way to leverage green lantern/CIRD in this
+direction?
+
+Like - Reply  34w 0:
+
+Ravi lyer this is super helpful thank you!
+Like Reply - 34w
+
+Ravi lyer | wonder if looking at USI w/o filtering further would actually be
+informative. It's possible that negative interactions actually are not caught
+very well but our current classifiers. Probably depends on how overt the
+harassment is.
+
+©
+Redacted for Congress
+
+Like - Reply + B4w
+
+yes Rxactly - a lot of perceived harassment is explicitly non-
+violating per our current intervention standards. So it's very likely that people
+are seeing harassment which is decreasing their experience quality and
+
+‘potentially driving them off the platform that our classifiers do not identify as
+actionable or even borderline. This only goes double for markets and
+languages that we have poor or no coverage in for those classifieds.
+
+Like - Reply . 34w
+Like - Reply  34v
+
+ae ... chat about this thread later today
+o ©1
+
+Like . Reply
+
+| Write a reply... @o) </> @
+| fo Some kind of concerted approach to Gender Rights or Experience
+
+on Facebook would be amazing.
+
+O1
+
+Like - Reply - 34
+
+  
+ 
+ 
+ 
+
+Thank you for sharing! You should also reach out and share this with the WEM
+team in Growth which focuses on women in emerging markets, with safety being a
+primary barrier to participation: https://fb.workplace.com/groups/indiapac/
+
+Been Special Cohorts: Safety FY! (fka FY! WEM)
+
+O95
+
+Like - Reply . 34w
+
+ 
+
+Like - Reply -29w
+
+a Alicia Huang
+Do we know what % of USI comes from friending?
+
+ 
+
+>
+
+Like .Renly . 24w - Edited
+
+Redacted for Congress
+’ w
+Like Reply  34v
+
+| Another question: do we have data on whether these new users are dropping off
+the platform at higher levels by gender or in proportion to perceived
+
+harassment/USI?
+
+Like - Reply
+= |'m preparing another analysis of the churn/retention aspect, but it will
+probably be a few weeks before that is done. tl:dr is that yes, users who give
+more USI do have worse retention on the platform.
+Like - Reply . 34v °
+a a 2: aa | wonder whether Core growth has done some
+analysis to evaluate the impact of Integrity experiences (e.g.: as indicated by USI)
+on retention. | wonder whether tightening some of the controls (e.g.: Group
+preview feature that shows content to the user before they accept the invitation
+from the group) could improve retention for women in emerging countries (and
+some other demographics)
+Like - Reply - 32w OD
+Like - Reply - 32w o
+
+a we've definitely looked for India, looking into unwanted friending, comments,
+messaging etc for women. There's lot of correlative and some experimental
+evidence | believe between some of the work on locked profile and maybe
+even some live friending tests. are there any tests we can share?
+
+Ga 1
+
+ 
+
+Redacted for Congress
+a
+
+= There are quite a lot of correlational analysis linking integrity to retention In
+terms of causational evidence, 2 things | think of is (1) locked profiles led to
+DAP win, and (2) positive retention gain in our friending integrity holdout
+(link).
+Friending integrity for India female is one of the major areas in our India
+strategy. We are testing different integrity filters on male to female friending
+requests. We are also building a survey-based "uncomfortable friending
+classifier" to demote sketchy friending. But these are all still WIP, and we will
+have something to share later this quarter.
+
+Like Reply
+
+a Write a reply.. @o) </>
+
+Can we have the gap by US! breakdown? So that we know where is the problem
+really coming from.
+
+ 
+   
+   
+
+ 
+
+Like - Reply | 32w O01
+a... up in our thread around win-wins for Integrity and CG
+Like - Reply - 31w
+
+Like Reply . 29w
+
+ 
+
+Like - Reply . 29w
+
+Redacted for Congress
+ 
+ 
+  
+
+| wonder how we an rethink the experience for
+omen in developing countries, to ensure they can
+
+new users, particularly w
+Would be good to experiment with how that
+
+end up with higher quality feed.
+
+ 
+ 
+
+improves retention for the users,
+Like - Reply - 29v ©
+= lle
+Probably a sad novelty effect in play here - people would stop giving feedback ”
+once they've tried to do so without getting much in return. The difference of 3.3x ©
+on female vs 2.2x on male could be saying that females are more likely to be oO)
+discouraged from taking actions on negative experiences over time. 5
+Like Reply - 29w 5
+= 5
+that's a really interesting point and one that would probably be best ©
+
+answered via a survey. Ravi, - is this something that Digital Illiteracy/ TO
+CVI research might investigate? Seems very much relevant to the lightweight ©
+
+negative feedback work. oO
+
+Like ) Reply - 29w oO ©
+
+T
+
+7 Lv
+| have done the breakdown analysis, just haven't written ;tOC
+
+up yet. I'll try to post something later this week and link it here + tag you two. tl;dr
+is that friending is the biggest component, followed by starting FRX reports. L...
+
+See More
+Like - Reply . 29w 01
+
+a
+- FYI: follow up w/ US! breakdown - https://fb.workplace.com/notes iii
+HM deleted-friend-requests-and-frx-reports-drive-higher-usi-for-new-
+users/1053858258397082
+
+ 
+
