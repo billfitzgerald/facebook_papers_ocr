@@ -1,182 +1,296 @@
-> Community Standards Feedback
-; a Pry
-Policy for Misinformation - Climate Change Denial? i
-I'm writing to find out if we have a policy reqarding Climate Change denial, specifically a
-human involvement towards climate change Is this covered in our misinformation 0)
-Yat olert Tint Tal elm RiCOLeAMMCRreLULACURL Soa UAe elo L eR LTC 8 SLL: amas CRD ee CRE LO LER
-OFTEN ls BC Gn a CE eo | arta alae) oO
-Oh) ems 07  T ST Oe a1? O
-Beets arr tals eras Fa eae Ld article link to get a
-eo a ee a oO
-ample
-yamp a
-Mite ct i
--
-Article source” ; O
-<
-OQ
-re
-~
-. erica ta aes) ao)
-Ce
-a Thanks for the quest unm | eres MEE CTC 0) 00) 9b
-p ee Pe ee) ser tg eae fee
-face Sara i ae ee ae y
-ea YE PRO
-imminent otfl pe get eda aera eh a H A
-SAT ce gett Tc ar fc
-rn Meg ae Perera
-te OT TAA LAL | ce word ; Can i.
-PS area ct ea a
-Onan
-malt ra)
-re
-a Cm CT
-Pa Pa
-Aas Se ac
-Pee) oa ee
-ame Ae baer th weer rey? 7 ce
-- 2 Y)
-7 aT a J
-aT Tat 1c 6] AS Le co hr ad
-A OO i O
-llr y<cMelar- lr? | MCL  LL  ¢ (Oo ov Caos (Laer Cy ©
-feTeytare M Gales l Ce Lape mecele UALS L220 (oe Mian a Cc Ck eC
-LS ec Le Ls Ce CU LS ad
-Vm cuncus vhat shaoianr ot pee Same cee ae fon Gr fat tare bers to @)
-CO OPT e eared | eat: | cee CO cc OS OHS | |
-Mechanisms proposed, oF doe ca Climate ctetuai abead, meet tbe
-EXE Tale Lis he Me CCCs COO Oo eZ Ba a)
-OINts OUT, This is a raire: peliie ag! tse that bas am area, evident
-e-based truth toit We gen t need to re-evaluate decages of climate ce
-science every time somenne ¢Lante iti wrong)
-OL CT Oh ee (ob) 7 ©
-LALO LES De eZee ce cs ea Q
-et col COR Cem ETE Cre ty 1s Oe | | J
-BCR Cle ea te Ce RUN oR samt PT ee mee lier VC ya eT) Chats a
-NR ee se ee a. .
-Was this article flagged as false by our fact ae eM et le)
-FT rum Mer er a Fue
-going through a cooling period? Or did our ria tees a
+» Community Standards Feedback
+October 22, 2019: # eee
+
+Policy for Misinformation - Climate Change Denial?
+
+I'm writing to find out if we have a policy regarding Climate Change denial, specifically
+human involvement towards climate change. Is this covered in our misinformation
+enforcement of inform treatments and downranking? I'm wondering because this is science-
+based we think differently about how this is treated to opinion-based fact checking.
+
+This particular example is someone who is sharing an article denying climate change as man
+made and is due to solar orbiting. He posted as free form text rather than the article link to get
+
+around our inform treatments?
+Example:
+
+https://m.facebook.com/story.php...
+
+Article source: https://halturnerradioshow.con)/.../nasa-climate-change..
+
+Os’
+
+10 Comments Seen by 545
+
+REDACTED FOR CONGRESS
+Thanks for the question fl we don't remove misinformation except in very
+narrow cases in which we have strong evidence that the content may lead to
+
+imminent offline harm against people. However, we do apply different treatments
+to content containing claims rated as false by third-party fact checkers, including
+down-ranking. EEEP" the Content Distribution Policy team should be able to
+offer some more info how these policies would apply to this particular piece of
+content.
+
+©2
+
+Like Reply ty Edited
+
+   
+
+We don't have a specific policy for climate change denial. If a fact-checker rates a
+particular piece of content related to climate change as false, then we'll downrank
+and show UI on that content with a link to the debunking arti¢le. The use case of
+copy-pasting the text of a link to get around URL enforcement is an interesting
+one - we haven't seen that too much before. ©
+4
+
+eply - ly
+
+  
+ 
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+  
+   
+ 
+   
+
+hat is the level of granularity at which we evaluate false claims relating to
+climate change? The pasted article says:
+
+Not only is climate change not man made, but the larger trend is
+actually that the Earth's climate is going through a cooling period
+
+Was this article flagged as false by our fact checkers because it says
+climate change is not man-made, or because it says the Earth's climate is
+going through a cooling period? Or did our fact checkers debunk the
 specific (unfounded) hypothesis of solar orbiting?
-I'm curious what standards of proof are necessary for our fact checkers to
-evaluate climate denial as false Do they need to specificail, debunk the
-mechanisms proposed, or does al chmate dena’ aready meet the
-POP Et re CRSA CCW e ME Re ce OAS cansensus? (AS
-oints out, thisis arare ‘poltica issue frat "as an RYicee renee ae Aly
-mee truth to.t We dor t need tae e.aiate decades af climate
-Pte i MULE eL et
-Oo
-WL <meta od he 7
-- FS He 7 7 7 “ * Y)
-fa oth a ee Ce) on 7 op)
-BARE aadat sel Caer nts Bro eek ‘ad
-have their own stand.ards
-Nae Tue vce) ed tide Ca cee Cho PC OL CO LL ©
-the purpose of suppress. ng content the ae gatees. sitet
-FeTTo Cae mone econ Pe ener Lee oe Le ep COLO AL * Meee Com tae a
-CNT Ta relat 8700504 Ce) Te AS eS COLA O
-Fvot(e MM Mat M(e =F: tat (attacks Te cre MOP De) Oc
-If Facebook had been around at the time, we miqnt have taced pressure to
-stop crackpots from spreading their debunked claims After all, encouraging Q
-people to take antibiotics instead of managing thei stress could put them at rl Nl |
+
+\'m curious what standards of proof are necessary for our fact checkers to
+evaluate climate denial as false. Do they need to specifically debunk the
+mechanisms proposed, or does all climate denial already meet the
+standards of "false", considering the existing scientific consensus? (As
+points out, this is a rare ‘political’ issue that has an already evident
+
+y e-based truth to it. We don't need to re-evaluate decades of climate
+science every time someone claims it is wrong).
+
+Oo.
+
+Like Reply - ty
+
+I'm curious what standards of proof are necessary for our fact
+checkers to evaluate climate denial as false.
+
+The fact checkers are third-party organizations, so presumably they each Chats
+
+ies So -8 -E_F t
+
+REDACTED FOR CONGRESS
+i it says
+Was this article flagged as false by our fact checkers because i ;
+climate change is not man-made, or because it says the Earth's climate is
+going through a cooling period? Or did our fact checkers debunk the
+specific (unfounded) hypothesis of solar orbiting?
+
+\'m curious what standards of proof are necessary for our fact checkers to
+evaluate climate denial as false. Do they need to specifically debunk the
+mechanisms proposed, or does all climate denial already meet the
+standards of "false", considering the existing scientific consensus? (As
+
+joints out, this is a rare ‘political’ issue that has an already evident
+ae truth to it. We don't need to re-evaluate decades of climate
+science every time someone claims it is wrong).
+
+oO:
+
+Like Reply ly
+
+I'm curious what standards of proof are necessary for our fact
+checkers to evaluate climate denial as false
+
+The fact checkers are third-party organizations, so presumably they each
+have their own standards.
+
+‘Pon's out, this is a rare ‘political’ issue that has an already
+evi cience-based truth to it.
+
+It seems problematic to treat scientific consensus as the definitive truth for
+the purpose of suppressing content that disagrees with it.
+
+Scientific consensus is occasionally overturned. It wasn't too long ago that
+everyone knew stomach ulcers were caused by stress and excess stomach
+acid. The idea that they were caused by microbes was debunked in 1954.
+
+\f Facebook had been around at the time, we might have faced pressure to
+stop crackpots from spreading their debunked claims. After all, encouraging
+people to take antibiotics instead of managing their stress could put them at
 tisk of stomach cancer, and such frivolous antibiotic use endangers
-everyone else by breeding resistant bacteria They'd already been rejected ot
-by medical journals and fined for treating patients with their debunked ©
-Busse a
-Today, however, we know most stomach uieers are caused by bacteria.
-Muttiple studies of ulcer patients had missed the presence of H. pylori, or QO
-misclassified it, or dismissed it as coincidental. The Nobel Prize came after | | |
-thany years of pushing back against scientific consensus. w
-Of course, most crackpots really are crackpots. Probably. As far as we know, ba
-Of course, most crackpots reall, Wwe Cras pete Pbeate ee fat it A OW
-Nae TOM LAI C0 Oe er a eee
-IMR: Bans 1 on Cee TY a DC
-Pyare Re) mel Tao ts oa cs LU Orc an Cee ss CR
-tay ercre) 9) (CU aT Soe CS | en AU ee ee
+everyone else by breeding resistant bacteria. They'd already been rejected
+by medical journals and fined for treating patients with their debunked
+remedies.
+
+Today, however, we know most stomach ulcers are caused by bacteria.
+Multiple studies of ulcer patients had missed the presence of H. pylori, or
+misclassified it, or dismissed it as coincidental. The Nobel Prize came after
+many years of pushing back against scientific consensus.
+
+Of course, most crackpots really are crackpots. Probably. As far as we know.
+
+REDACTED FOR CONGRESS
+Of course, most crackpots really are crackpots. Probably. As far as we know.
+But a few of them aren't, and we won't know which ones until much later.
+It's a mistake to assume any scientific question has been answered "once
+and for all", and it'd be a mistake to adopt a policy that would've prevented
+the people who were right about H. pylori all along from trying to win people
 over to their side.
-Like Repl 2 %
-Like Reply
-| n
-A] VS Os A] A
-Farad coe eLe Ma Oy ATG OPS hs Ie CL 0 OC OC ad
-CTE T Cos) i dat cel 0(=o-3 Le] Rae ple Rr Ce | CB )
-rae -1e-iec]ae| [are me) Ae nat] Cie at: Lal (ak tet | eB ra
-checkers will update ther standard ot bec! shee a ate ais
-a (ol(-\-1emeToM(olale MSM UR CR OTS AA anh OCMC LCD A | O
-checkers are aware of It ©
-ATF TTL Car? Bed aca UO nC] MO ed 98)
-considered by the third-party fact cnecker. ween ee alpating the ad
-truthfulness of claims that climate change !. tube if the fact checkers do O
-not weigh the existing evidence against oe claims, then | tnink that «tis re
-reasonable to say these fact checkers are not qualified to tact-check
-assertions about scientific understanding, and we should assign climate- Q
+
+O4
+
+Like Reply jy Edited
+
+a. do not need to declare the question has been
+
+answered "once and for all" in order to refer to the currently understood
+state of the question and use that when making decisions. As the scientific
+understanding of climate change evolves, it is reasonable that the fact
+checkers will update their standards of disbelief when evaluating claims.
+However, so long as the current consensus holds, | would hope that our fact
+checkers are aware of it.
+
+What | am asking is whether the current non-crackpot scientific viewpoint is
+considered by the third-party fact checkers when evaluating the
+truthfulness of claims that climate change is fake. If the fact checkers do
+not weigh the existing evidence against new claims, then | think that it is
+reasonable to say these fact checkers are not qualified to fact-check
+assertions about scientific understanding, and we should assign climate-
 related fact checking to a different organization that is prepared to evaluate
-claims in context of the preponderance of evidence that supports the ce
-Pee Re
-Like Reply ty ©
-<<
-| SC the research that led to widespread acceptance of an}
-ea that H. pylori causes ulcers were being done today, instead of in the
-1980s, and the people involved were discussing it with other researchers on i. ae
-Facebook, do you believe labeling their ani "misinformation" and fort ty Ow
-a. tat ect een | ce ie eee ae ee aie A
-atone cr Rie | ce oe ne Le oe CB
-a ke) <1 0. tale Bed a ot -20] 61] Ca ante ee LL
-[oT] oft\ 6) a CCA CTCL do)
-fe (ax ale LA Bd Oe
-as 009) er As re 0° | ce
-OT oan Rs ao oa) OL Pc Lr
-Lies Fee, 2
-|g sae i i a
-Pee ed ee ee ee cs ert aod re er er |
-based onite ment. “bee tee ees a ee or ATC ALE b)
-C00 LY Ca a i Do
-fd cc
-Sere ree a CL a a ee op
-eee a Oe ed . teopos st A io a Y
-Cot a a a ee
-Le eo a
-Pt i woo tte Mt ma
-smepmerie sh wack ke he Fn O
-lars Car cee Ca ( )
-Ser Chie ne ete oe Chaney arrest @)
-celta Ue Ors a CP] LL
-E15] ole] sco] Caton Eh Oc] eed (TCs es
-Patli-y- Lee] Me His (esas) SO Ce ee oS TTT SOTTO OST BT) Q
-beat down opposing cs] SES eos CC Oo re | | | J
-Like Reply. fob
-LC \eCd 6) oT) Lh ee i (a)
-Indeed. Doesn't that mean we should be /ess willing to enforce our ‘ad
-understanding of scientific consensus as dogma, though? (Our e)
-The researchers’ work would still be reviewed by other screntists and _
-discounted or accepted based on its merits
-vd
-Eventually, sure. Barry Marshall wasn't taken Rev Va See a)
-which he deliberately infected himself, and the evidence ferelaue em Cone)
-rejected by gastroenterologists for decades
-WO es (olay: late | LO
-Pea re ieee Mel ect TT Scns Sed | LOC
-Fy efor ce ep)
-Under that policy, we would've downranted posts about H pylort and N 0
-labeled them "misinformation’ for twenty years, even though they were
-correct. In other words, that policy vould have caused us to spread ~~
-misinformation of our own and talsely accuse the people who were trying to ‘@)
-spread correct information a
-At the very least, | think a policy Fe this would need to include a plan for
-Prev et ats 1Une RUE te RCT aU MoS RSC ELS O
-unflagging a post or reversing a ban twenty years after the tact would come ©
-close to undoing the harm
-TOTAL at Pe a i CO Lo a
-rey oveld is) 6\e] 0 | CPrca Pans Lie ce Ch O
-ie -S"7-V (CE 10h eB | J
-If we acknowledge that scientific consensus isn't set in stone, then a)
-punishing users for dissenting from it means we're saying it's more | | |
-Tat eset eco 1° ke TAME Mme mele LM LaCeTn Dd 8 a MAL Coy 9th |
+
+claims in context of the preponderance of evidence that supports the
+scientific consensus.
+
+Like - Reply - ty
+
+ 
+  
+
+if the research that led to widespread acceptance of
+the idea that H. pylori causes ulcers were being done today, instead of in the
+1980s, and the people involved were discussing it with other researchers on
+Facebook, do you believe labeling their posts as "misinformation" and
+
+Chats
+2
+
+REDACTED FOR CONGRESS
+if the research that led to widespread acceptance of
+the idea that H. pylori causes ulcers were being done today, instead of in the
+1980s, and the people involved were discussing it with other researchers on
+Facebook, do you believe labeling their posts as "misinformation" and
+downranking them would be the right choice?
+
+| think, since we understand that scientific consensus can change over time,
+we have the responsibility to be a little more humble than that.
+
+Like Reply ly Edited oO:
+
+ae ........ is not a scientific journal. The researchers’ work
+
+would still be reviewed by other scientists and discounted or accepted
+based on its merits. When the scientific understanding of ulcers changes,
+our fact checkers can update the information they use when evaluating
+claims about the science.
+
+You say we should be humble. | think that in this case humility means
+referring back to the mountains of corroborative evidence prepared by
+climate scientists, rather than evaluating incredible new claims in a vacuum.
+
+Like Reply ly
+
+   
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+    
+
+However, we're currently arguing without data. Rather than debating the
+dynamics of scientific opinion, I'm curious to hear what [EEE or
+someone who works on Misinformation, has to say about our fact checkers
+and their policies.
+
+Like Reply. ly
+
+'when the scientific evidence changes...." sorry, just where is this
+scientific evidence? all the hard science journals do not show strong
+support for the current political movement, and citing climate models
+instead of data does not make truth. This sounds more like an attempt to
+beat down opposing opinions under the guise of “fact checking..
+
+Like Reply - ty
+
+O02
+
+facebook is not a scientific journal.
+
+Indeed. Doesn't that mean we should be /ess willing to enforce our
+understanding of scientific consensus as dogma, though? Chats
+
+ 
+
+REDACTED FOR CONGRESS
+The researchers’ work would still be reviewed by other scientists and
+discounted or accepted based on its merits.
+
+Eventually, sure. Barry Marshall wasn't taken seriously at all until a stunt in
+which he deliberately infected himself, and the evidence continued to be
+rejected by gastroenterologists for decades.
+
+When the scientific understanding of ulcers changes, our fact
+checkers can update the information they use when evaluating claims
+about the science.
+
+Under that policy, we would've downranked posts about H. pylori and
+labeled them "misinformation" for twenty years, even though they were
+correct. In other words, that policy would have causedis to spread
+misinformation of our own and falsely accuse the people who were trying to
+spread correct information.
+
+At the very least, | think a policy like this would need to include a plan for
+compensating the people who we falsely accused, because | don't think
+unflagging a post or reversing a ban twenty years after the fact would come
+close to undoing the harm.
+
+| think that in this case humility means referring back to the mountains
+of corroborative evidence prepared by climate scientists, rather than
+evaluating incredible new claims in a vacuum
+
+If we acknowledge that scientific consensus isn't set in stone, then
+punishing users for dissenting from it means we're saying it's more
+important to agree with us, or our chosen experts, than to speak the truth. |
 think that's the opposite of humility.
-eo:
-re Se: JYLORG <x
-; " Delayed Gratification: Why it Took Everybody So Long 2
-. to Acknowledge that Bacteria Cause Ulcers — Journa...
-Te ean t+ no
-
+
+¢3 JSYLLORG
+a
+
+ft. ‘ Delayed Gratification: Why it Took Everybody So Long
+£ # A to Acknowledge that Bacteria Cause Ulcers — Journa...
+i e.
+
+Like Reply ty O34
+
+REDACTED FOR CONGRESS

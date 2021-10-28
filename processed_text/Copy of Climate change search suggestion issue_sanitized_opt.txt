@@ -1,1476 +1,2647 @@
-» FCU Feedback & XFN (FIT, UIP, Content Understanding) _
+» FCU Feedback & XFN (FIT, UIP, Content Understanding) ves
+February 4 &
 
-ebruary 4. @
-FAT subtopic (ofimate science, climate change & global warming, earth science etc.)
-Pe
-it t we are doing -
-te are from a sagtch integrity team and working to minimize the rece R Marne m LY
+FIT subtopic (climate science, climate change & global warming, earth science etc.)
+guidelines for content classification
 
-topics in this H1 through SERP. We are in the very intial stage and working on ~
-na ee] guidelines and query sets. ,
+What we are doing -
 
-a ps we are looking for -
-a ig Segoe oe table” has subtopics classification for climel
-oF Coe eR else hci ie Ar Uo eA a
-. 4 A: y bi
-TE
-" e ‘1
-i. e
-nN F I
-es needapabihb abies eel ea teased deat anid ila ith dian iad S
-un ‘i haaeaaia Se I
-ii: me
-a aa |
-mH We ore on
-2 r/n~ema/,
-tai i a
-TPO ey ae ‘i ; . =
-:
-| res » Search Integrity’ XFN ase
-ers i rn e
+We are from a search integrity team and working to minimize the spread of harm for climate
+change topics in this H1 through SERP. We are in the very initial stage and working on ~
+developing guidelines and query sets.
+
+What helps we are looking for -
+
+| found that “actor_inferred_tags_signal:feed table” has subtopics classification for climate
+science, climate change & global warming, earth science, environmental science,atmospheric
+science.
+
+Ask -
+
+Do you have guidelines with which you use to classify the content in above mentioned sub-
+
+topics topics ? If so, could it be possible to share with us ?
+
+2 6 Comments Seen by 162
+1 Like © Comment @ Share
+
+View 2 more comments
+
+7
+
+Like Reply . 14w
+
+View 3 more comments
+
+|| Write a comment... > @® ©
+
+REDACTED FOR CONGRESS
+» Search Integrity: XFN wes
+ugust 21, 2019 - @
+
 Climate change misinformation
-PYeR TN eRe) sey Laer) MCS DaE© CUR LAT CCR UN °c sar integr ty? Lm wondering
-whether we have policies in plac? (hat vei Stn tr : oa 2 Pa Ue
-when searching for terms like climate change
-aerator MR LACS Bate ats SLs Sb down the public
-oes Sens Ue UC) RA cr i ede tere eat pillions of
-rey =00) e-toc ee ae
+
+Do we specifically consider climate change as a sensitive area for integrity? I'm wondering
+whether we have policies in place that would apply to misleading autocomplete suggestions
+when searching for terms like "climate change”.
+
+If someone is using Facebook Search to deliberately sow doubt and slow down the public
+response to the climate crisis, they are using our service to jeopardize the lives of billions of
+people over the coming decades. Is that an attack we are prepared for?
+
 Q. climate change
-Q. climate change debunked IN
-A i¢p)
-Q. climate change memes Kg
-ng
-O
-; ; ra
-Q. climate change is a hoax LN Ss}
-aw
-V4
-See results for climate change =
-ry)
-7 O
-eee OC OC a eters) ~
-me eee Q
-Me Remarc heur ur MC Cer md Mya RCE Tere) Lu
-' suggestions are very misleading. -&
-aa) alah do our policies combatting the sprea... See More fore |
-rE aha Late Eo Integrity Discussion
-Augest e
-TSR Reece Rica aa it CE Less CO Ca oS LE
-v0 ye 10a re te
-Tae at]: ] Ae 9°20 °C Sr ad Cs Paces CoCo CS S18) OL)
-climate deniatism?
-Trae or <4 (OR® (orale CL Oe eer a
-Fates (oete ars RtOTS (¢ Cone CLAIR or LE TOR ee ee Cs
-CE Tce) =5 Com S)cte] Lam CPU RES MOO YP er Os
-ame) eCIN ¢ FL acre ee
-oe a
-oats et oe
-|| ie]
-Like Rep y
-a... [rs Co Pe Cs Ce %
-line Repy . ee)
-a o
-| om dor't current! ingorporat: climate change :n Gur tee ta Q
-quide es. looking at Implementation Standards climate change does not oO
-explicitly violate pulicy either (though the easy tall under misinfo and we'd O
-need to clarify Search's poliry on this)
-s
-ruts re
-[DEPRECATAED] Typeahead Integrity Rating Guidelines Q)
-v2.0 (08/07/2019) ae
-=
-Like Reply 1, ° ; O
-| ra
-we have anywhere we currently track all the things not in our current Ww
-tle llaas and Implementation standards? would make for a good backlog aa
-prioritization discussion at some point. ;
-TP ee
-al |] we don't currently incorporate climate change in our += abelirg
-quide re looking at Implementation Stardards, climate change does not
-explicitly violate policy either ithough this ma, fail under misirfo and we'd
-fay-v-ye Roel TaLDYSy 7-10 el ones a
-"!
-‘DEPRECATALD] “ypeatiead ater t, Rating Guidelines
-Pus CC A
-Like Repy o
-|
-fe fom CM at 7-2 Lad 0) CC PR a alg
-COUT e (ca AC See MO Oe ha adhe og
-fe]dteld Cres] Ue] s mel brt Grr net SL
-Li ee
-| | AED yous Phe t,o tpi Get foout ec preset
-(elite lai aca ATOM Ld SMa Ran CPS ees ae eS Le ee
-fo) dole CMS Prt 00 Mt CADRE LE
-> op)
-|| er P| (op)
-4
-@d. a
-Yt ae eo
+
+Q. climate change debunked RK
+Q. climate change memes RK
+Q. climate change is a hoax RK
+
+See results for climate change
+
+» Climate Change Integrity Discussion
+August 21, 2019 - @
+
+When | searched for “climate change” yesterday on FB, 2 of the 3 autocomplete
+suggestions are very misleading.
+
+In general, do our policies combatting the sprea... See More Chats
+
+REDACTED FOR CONGRESS
+> Climate Change Integrity Discussion
+August 21, 2019 - @
+When | searched for “climate change” yesterday on FB, 2 of the 3 autocomplete
+suggestions are very misleading.
+In general, do our policies combatting the spread of misinformation on Facebook apply to
+climate denialism?
+In specific, do we have any policy or mechanism in place that would remove these
+misleading suggestions? Search suggestion algorithms seem like-a pretty high-leverage
+target to people trying to manipulate public opinion, so we should have some protections
+in place against someone “google bombing" FB search.
+
+6 Comments Seen by 119
+
+© Comment @ Share
+
+ 
+
+ 
+
+Like Reply » ly
+
+.. idea if we've tackled this for the TA?
+
+Like - Reply : ly
+
+a a. don't currently incorporate climate change in our TA labeling
+guidelines. looking at Implementation Standards, climate change does not
+explicitly violate policy either (though this may fall under misinfo and we'd
+need to clarify Search's policy on this)
+
+quip
+
+Ee [DEPRECATAED] Typeahead Integrity Rating Guidelines
+v2.0 (08/07/2019)
+
+Like Reply - 1y O2
+
+do we have anywhere we currently track all the things not in our current
+guidelines and implementation standards? would make for a good backlog
+prioritization discussion at some point.
+
+REDACTED FOR CONGRESS
+
+5 rare me
+3 WXIHW TyRyzkZZH9UuT 6KweNKjaeyHO8fTKUSpF9FAQZKXoj5 JxMnHaf3o-bmyslvF4dZZCLVVHGnwial _CIZQF5901 Jd, 17
+SS we we don't currently incorporate climate change in our TA labeling
+guidelines. looking at Implementation Standards, climate change does not
+explicitly violate policy either (though this may fall under misinfo and we'd
+need to clarify Search's policy on this)
+
+Quip
+
+[DEPRECATAED] Typeahead Integrity Rating Guidelines
+v2.0 (08/07/2019)
+
+2
+Like Reply ly ©O2
+em
+
+do we have anywhere we currently track all the things not in our current
+guidelines and implementation standards? would makesfor a good backlog
+prioritization discussion at some point.
+
+Like - Reply - ly
+
+a | for ambiguous integrity incident (things not in our current
+
+guidelines and implementation standards), we have a standard process to
+progress toward the solution.
+
+  
+
+Y
+
+Sih “
+
+ase TSS eg
+
 Zz
-oy) a | 5
-Like Reply. [oo ©O
-| a ow
-after clarification deemed to be violating, we can update our guideline. ee
-el) + i
-OQ
-B Write a reply... Cm ee)
-O
-| Write a comment... roe ae)
-ua
-| SCM ek od x
-TCM iystee hd
-Tor nd ar 9 4) ata pene ne il ee
-Se
-[DEPRECATAED] Typeahead Integrity stent ay 3
-Guidelines v2.0 (08/07/2019) 5
-eT a0
+
+Sas Oo
+
+Like Reply ly o 3 oO
+
+ia
+
+after clarification deemed to be violating, we can update our guideline. oO
+
+Like - Reply - ty ow
+
+owt I Gy
+rite a reply... @) <p ©
+
+Ee
+
+Write a com: Q
+ment... @) > ZO
+
+QO
+
+Lu
+
+ao
+
+; @ was live in AIL FYI 9.
+September 16, 2020 . & ™
+
+[Denlavl EV11 ive: Combatinn Climate Channa
+WwXIHW IyRyzkzZ ZHOUT6KWeNKiaevHOSITKILISSEOFAGsKY nie iukéntinfan honuclueade eA) Nuun mipacean
+
+ 
+[DEPRECATAED] Typeahead Integrity Rating
+Guidelines v2.0 (08/07/2019) ‘
+
+Overview
+
 Workflow Goals & Context
-Bath: ovata ane oe RA er toon he oe quolty of
-Cr ereee re 7 CE
-ee OE ae er CC) rr oP eee CO SD coke
-the categories and criteria outlined in the guideline
-Ps 7p)
-tasty¢—Query Q MH
-a La rs
-! CL eo SUG S
-| an iaty recipes videos S
-ra Typeahead Module o
-a et al 0
-i” a
-., ui
-| 5
-| a . 7 rs
-laa ed rs
-~ _ me te
-: a , he”
-. " | :
-Ce eee ea eee ke Luke ded elekailbal _ -;
-4 ana -
-ir 7 a
-oN eee yt a egy ee rete Ce Ue nh kB lod sourch Ge
-lee’ 7 rer . a ~~
-ee * “pancake recipes, Pa OL rate . 2,
-Riek: The text returned by the typeahdad based on the searcher’s original query and Teh
-4 ae ee ate) la Us (eb ld suggestion. |
-a al
-SE eee eT a which make up the text of a query or suggestion. For the purposiearas
-: Ce A ie Ae OR ee AR oe al Binary Sensitive workflow, and to the Bd . 4
-Oe et} Pe ae ” ;
-oT a) Pet Me a Me Rad
-2 a rf
-, whe Ahbreviation for “Internationalization ” In this guideline. 1180 refers to a workflow which rates results in
-ree Oa AL
-a. e
-Eo ee eRe ee me NTT ARR SCL LOR SLA aL ld biting of an
-"ste eee oe Cs ee fights which dept Rraphic viglence unless in the wild, animal
-OUNCE lar od food preparatien cortert
-4 igiving: Purposeful targeting of a private individual with intent tu degrade or shame
-ee
-ren ee a EE) ee el al against ach Id Ficking beating, slapping, and/or
-‘ oe Sal a child; strangling or suffocation, drowning. biting through the skin, porsoning. forcible restraint; ”
-. “oad Tes Pr ais CRTC Ur Meme Ore Ses SU a 2 MOR ode tossing, rotating, or ”
-- ov See ee TU SCE Ur UCU RS ad TT]
-Lathe a criminal act committed with a preyudiced motive targeting sensitive characteristics a
-~. A A
-ao Refers to content which attacks a group or individual based on any of the following protected es
-agate be aud Oe reer e UM eee ie oC Ca es ROL ko Te is "
-val ~? ; Lig
-- ee bape dD alt “attack” is defined as violent or dehumanizing speech, peed aio. 3 t ng
-wa ig Te CD nd
-a “ , . es: Br Reyer Slanted ees Me Mus Ae ee ee ee
-oo Se ed aed Cu Re Ma eae Ee MIC
-(ome hnarmaniinai against individuals and groups who identify under any of these characteristics. 4 ‘
-ae x ew tah inal he pei aoL drugs(eg: marijuana), animals(eg: husky, snake) and frearmetag: < a
-igs Fy
-= .
-NO ne Ea ae a Cee
-raher i dn a eT ci Leal dehel ;
-ine ate suksatdebdasemedaedael sede sa who identify under any of these
-a j
-ee act Ree Mea Sha
-ie Mee ee uy
-Oy ry imal rehoming entities or shelters /
-. vy sedfto achieve a ‘high’ and purchase/sale/trade Hash oil, weed. PMR Ur ME
-‘ Z d should be treated like marijuana. CBD products, including CBD oil 1s a component of the ro |
-. ‘ * panabinteo neal We SCR ol LL ee ero Res PCCM CE MC si
-wn pi-velated paraphemialia (bongs. pipes, etc } do not wiolate
-2 pean LE Roe Aue
-i ed repair an type of physical or psychological condition
-ae phot achtave a legitimate medical purpose or procedure, "
-aoe eee eee Sur ee is koa PY CeCeeRIC Re mers aru)
-Oe Ree lp
-? .
-a pees pal drug Is any drug used to treat a medical cond:tion that 1s not widely available without a
-Shp Te ca ae ee ce Ak OL le le
-. ew. @ fagpirin, ibuprofin, tylenol, etc ), cough drops vitamins, protein powders or supplements are nae. ;
-“Seva Grugs. When in doubt, you can check the status of a drug F
-hy emp idrug_intormaur Me ee eeCeiadle co iy eel OM CUR | ‘
-ie a a alld Cay CO alee Soames Mua ue reece S| o
-. “es eal eld
-: / f
-a ‘
-THER Torrone :
-a :
-wv iM e @
-- y) SL tor La (sy oe
-« . i f .
-“ 2 r aaah aha a *
-rpg ae ,
-I rn .—
-a aed in
-ai , Ce Re Se taal for marking as
-ee Da eeiillee sal ,
-7 _ |
-| ETE :
-ye ;
-a | 2 o
-r. Sa a
-- oF
-° ald yo
-es alll teen) s
-a. ad at
-. - oe
-4 4 a _?
-of Z oa] a Tart ad | % 3° a i
-a - _.
+
+This document serves as the guideline for all TypeAhead Integrity rating flows. Integrity flows aim to improve the quality of
+the Facebook Typeahead module by labeling text strings which populate based on a query the user enters into the search
+
+bar. As a rater, your goal is to identify whether or not the string is sensitive, and if so, assign a sensitive label based on
+the categories and criteria outlined in the guideline.
+
+  
+
+tasty <— Query
+tasty
+
+     
+
+«—_ Suggestion
+
+   
+
+tasty recipes
+
+  
+
+ 
+ 
+
+tasty recipes videos
+Typeahead Module
+
+   
+
+tasty vegan
+
+  
+
+EDACTED FOR CONGRESS
+
+Glossary of Terms
+issary of Terms
+
+ollowing terms and their meanings will be used throughout this guideline:
+
+Query: The text used to perform a search for specific results. The word(s) or phrase entered into the search engine
+(e.g. “cat videos,” “pancake recipes,” “Michelle Obama’). rk
+
+Suggestion: The text returned by the typeahéad based on the searcher's original query and information. In the image
+above, each line of text which appears below the user's original query, “survivor,” is one suggestion
+
+» String: The characters, words, and/or phrases which make up the text of a query or suggestion. For the purpose of
+this guideline, “string” refers to the query in the Typeahead Binary Sensitive workflow, and to the suggestion in the
+Typeahead Sensitive Monitoring workflow.
+
+® Proper Name: A name which refers to a specific person, Facebook group, Facebook page, place, brand, title, etc (i.e.
+a proper noun).
+
+© {18n: Abbreviation for “Internationalization.” In this guideline, i18n refers to a workflow which rates results in
+languages other than English.
+
+© Animal abuse: Animal abuse includes any of the following actions against an animal: Kicking, beating, or biting of an
+animal by a person; torture; imagery of animal fights which depict graphic violence, unless in the wild; animal
+slaughter in a hunting, manufacturing, or food preparation context.
+
+© Bullying: Purposeful targeting of a private individual with intent to degrade or shame.
+
+® Child abuse: Child abuse includes any of the following actions against a child: Kicking, beating, slapping, and/or
+stepping on a child; strangling or suffocation; drowning; biting through the skin; poisoning; forcible restraint;
+inflicting burn or cut wounds; forcible smoking, or drug/alcohol intake for a baby or toddler; tossing, rotating, or
+shaking an infant (too young to stand) by the wrists/ankles, arms/legs, or neck.
+
+© Hate crimes: a criminal act committed with a prejudiced motive targeting sensitive characteristics
+
+© Hate Speech: Refers to content which attacks a group or individual based on any of the following protected
+
+characteristics: race, ethnicity, national origin, religious affiliation, caste, sexual orientation, sex or gender identity,
+serious disability or disease.
+
+CONGRESS
+
+f
+© In the context of hate speech, “attack” is defined as violent or dehumanizing speech, statements of inferiority,
+and calls for exclusion/segregation.
+
+FOR
+
+* Protected group characteristics: The following characteristics are protected: race, ethnicity, national origin, religious a
+affiliation, caste, sexual orientation, sex or gender identity, serious disability or disease. Hate speech includes attacks LU
+which target hate or harassment against individuals and groups who identify under any of these characteristics
+
+* Regulated goods: Prescription drugs, non-medical drugs(eg: marijuana), animals(eg: husky, snake) and firearms (eg:
+bomb, weapon).
+
+© Animal sales, unless by:
+
+REDACT
+ristics: The following characteristics are protected: race, ethnicity, national origin, religious
+
+© Protected group characte:
+ra ch includes attacks
+
+affiliation, caste, sexual orientation, sex or gender identity, serious disability or disease. Hate spee
+which target hate or harassment against individuals and groups who identify under any of these characteristics
+
+© Regulated goods: Prescription drugs, non-medical drugs(eg: marijuana), animals(eg: husky, snake) and firearms (eg
+
+bomb, weapon).
+Animal sales, unless by:
+= Brick-and-mortar entities
+= Animal rehoming entities or shelters
+
+© Marijuana is used’to achieve a ‘high’ and purchase/sale/trade. Hash oil, weed, oil, liquid cannabis, and spice are
+related to and should be treated like marijuana. CBD products, including CBD oil is a component of the cannabis
+plant but does not cause a ‘high’, so it is non-violating and should not be treated like marijuana. Sale/purchase/trade
+of marijuana related paraphernalia (bongs, pipes, etc.) do not violate.
+
+© Anon-medical drug is any drug that:
+© does not repair an type of physical or psychological condition;
+© does not achieve a legitimate medical purpose or procedure;
+
+© is described by an external source as being used to achieve a ‘high’ or altered state of being, although not
+necessarily as its primary use.
+
+© A pharmaceutical drug is any drug used to treat a medical condition that is not widely available without a
+prescription. If you can find a drug in a basic first aid kit, it generally is not a pharmaceutical drug. For example,
+headache medicine (aspirin, ibuprofin, tylenol, etc.), cough drops, vitamins, protein powders or supplements are not
+considered pharmaceutical drugs. When in doubt, you can check the status of a drug
+at: https: //www.drugs.com/drug_ information htm. If it is described as anything but ‘OTC’ then it is likely a
+pharmaceutical drug. Birth control (pills, rings, IUDs, etc.) and abortion inducing medications are considered
+pharmaceutical products, but condoms are not.
+
+ 
+
+Instructions for Immediate Escalation
+
+If potential Self-Injury/Suicidal Content, or Time-Sensitive Credible ii
+or] Threat is the reason for markii “ itive,”
+escalate the Job ID immediately to your manager. ing as ensue nen
+
+REDACTED FOR CONGRESS
+Instructions for Immediate Escalation
+
+If potential Self-Injury/Suicidal Content, or Time-Sensitive Credible Threat is the reason for marking as “sensitive,” then
+
+escalate the Job ID immediately to your manager.
+
+Rating UI & Labels
+
+General UI
+
+Suggestion:
+
+Decision Label
+
+QUESTIONS Back Reset DECISION
+
+ANSWERS, © O-Skip
+
+* 1-Sensitive
+
+een Ae
+
+Questions
+
+Bock — Reset
+
+answers
+
+Promse cate the suggestion
+senate oF not
+
+stip
+Senaeve,
+
+Accuptatie
+
+Test queue tor
+‘example job
+
+1998607739083354
+Copy 10 Copy URL
+
+REDACTED FOR CONGRESS
+ntegrity Rating Guidelines v2.0 (08/07/2019)
+
+Format
+
+Decision Label
+
+QUESTIONS Back Reset
+ANSWERS
+
+Skip
+
+Sensitive
+
+Acceptable
+
 DECISION
-atte H :
-a om e 0- Skip
-. - . ” 5 @ 1- Sensitive
-nla reese
-wig ° :
-~ ae 1
-a, 1
-- i YY P ;
-- : [old
-rr 5
-7. ' al
-. y f : 4
-Migies & Keyword Entry Tae
-id a |
-; Perc yes "3 ie
-meat meh
-Pa aera en ei ae
-| peter —oemei Oe ee a Ti 7
-ir ea vit ice
-” iiih—
-ay SD oe
-maeegories & Keyword Entry
-4a
-_ bs ty
-. 4 Reset Paty
-sialic ll a
-f Re nore a) A Rt
-: ee oe /
-comma) C2 |
-i : ¥ od ee ° ry] . " - ~ - 1
-; e
-; a a 9 i! Oe
-e ¥ eee cay Se La
-“ Violence 2 Ret ertely
+ACTIONS
+
+om
+
+Submit [Submit]
+
+ 
+
+DECISION
+
+e 0-Skip
+© 1- Sensitive
+
+© 2-Acceptable
+
+Sensitive Categories & Keyword Entry
+
+QUESTIONS Back Reset
+
+ANSWERS
+Sensitive Categorization
+Child Exploitation
+Self Injury
+Violence/Credible Violence
+Hate Speech
+Adult ContenvSexual Content
+Profanity
+
+Harmtul Health Content
+
+ 
+
+ANSWERS
+
+fe Word(s) in Suggestion
+separate multiple words with
+
+CS 7? FFT
+
+Done [Enter]
+
+ 
+
+DECISION
+
+1 - SENSITIVE
+
+0 - Child Exploitation
+
+1 - Self Injury
+
+2 - Violence/Credible Violence
+3 - Hate Speech
+
+4 - Adult Content/Sexual
+Content
+
+5 - Profanity
+
+6 - Harmful Health Content
+7 - Regulated Goods
+
+8 - Other
+
+REDACTED FOR CONGRESS
+Sensitive Categories & Keyword Entry
+
+QUESTIONS Back Reset
+
+ANSWERS
+Sensitive Categorization
+Child Exploitation
+
+Self Injury
+
+Violence/Credibie Violence
+Hate Speech
+
+Adult ContenSexual Content
+Profanity
+
+Harmful Health Content
+Regulated Goods
+
+Other (provide a reason in the
+reason box)
+
+DECISION
+
+Skip Reason
+
+ANSWERS
+
+Sensitive Word(s) in Suggestion
+(please ‘separate multiple words with
+comma):
+
+iit
+
+Done [Enter]
+
+DECISION
+
+1 - SENSITIVE
+
+0 - Child Exptoitation
+
+1- Self Injury
+2-Violence/Credible Violence
+3 - Hate Speech
+
+4- Aduit Content/Sexual
+Content
+
+5S - Profanity
+
+6 - Harmful Health Content
+7 - Regulated Goods
+
+8 - Other
+
+REDACTED FOR CONGRESS
+Skip Reason
+
+QUESTIONS Back Reset
+
+ANSWERS
+
+Skip Reason
+
+Skip - Suggestion is in 8 langeage
+
+‘other than the language of the b
+workdiow.
+
+Skip - Other (provide a reason in the
+reason box)
+
+DECISION
+
+0 - SKIP
+
+ANSWERS
+
+Skip Reason (Other): © Suggestion is in a language other than the language of the workflow
+© Other (include reason in freeform text box)
+
+Done [Enter]
+
+DECISION
+
+Rating Steps & Instructions
+
+tian ctrine which could
+
+ 
+
+*
+
+REDACTED FOR CONGRESS
+Rating Steps & Instructions
+
+1 ~ Assess the text string to determine ver th ive intent. Is this a query / suggestion string wh
+whether there is sensitive ry
+Is thi | suggesti ing which could
+
+z Foreign language should not surface (exception: ‘you are an i18n rater and the suggestion is your market language +
+lish). If you come across foreign/ unrecognizable language in the suggestion string, select the label “O - Skip"
+
+3-If the query / suggestion is Sensitive, select the label "1 - Sensitive” and the offensive category it falls under. All
+sensitive selections will also require you to submit the keyword(s) that are offensive in the string. If there are multiple
+
+words, please separate with a comma (i.e. ‘fucking slut’ = fucking, slut).
+
+3 = Ifthe query / suggestion is Not Sensitive, then select the label "2 - Acceptable”
+
+ 
+
+Label Definitions
+
+0 - Skip
+
+Use 0 - Skip for foreign language query / suggestion strings for which you do not understand all or part of the text, and you
+cannot understand enough to rate. This includes query / suggestion strings which are completely or partially in a language
+foreign to the language of the workflow in which you are rating (Latin or non-Latin characters). In the English US market,
+
+you may skip queries/suggestions with multiple languages.
+
+itive. If the text string is sensitive (eg. "video
+
+This does not include query / suggestion strings which are recognizably sens
+1u can recognize that the string is sensitive, then
+
+porné"), DO NOT skip, even if itis in a foreign language. In other words, if yo
+
+rate it sensitive.
+In order to consider whether a query / suggestion is foreign, only !ook at strings Jonger than 3 letters. If the string (s 2
+Keep in mind that some languages frequently use
+
+partial word, or only a few characters long, do not assume itis foreign.
+a nu’, “die’, ete, which
+
+et sie a mee |. ex ovarsnie in Dutch you may see words with 2 or 3 letters like “al”,
+
+ 
+
+REDACTED FOR CONGRESS
+Label Definitions
+0 - Skip
+
+Use 0 - Skip for foreign language query / Suggestion strings for which you do not understand all or part of the text, and you ©
+cannot understand enough to rate. This includes query / suggestion strings which are completely or partially in a language
+foreign to the language of the workflow in which you are rating (Latin or non-Latin characters). In the English US market,
+
+you may skip queries/suggestions with multiple languages.
+
+This does not include query / suggestion strings which are recognizably sensitive. If the text string is sensitive (e.g. “video
+porns"), DO NOT skip, even if it is in a foreign language. In other words, if you can recognize that the string is sensitive, then
+tate it sensitive.
+
+In order to consider whether a query / suggestion is foreign, only look at strings longer than 3 letters. If the string is a
+partial word, or only a few characters long, do not assume it is foreign. Keep in mind that some languages frequently use
+words with 3 letters or less. For example, in Dutch you may see words with 2 or 3 letters like “al”, “nu”, “die”, etc, which
+could be prefixes to English words.
+
+ 
+
+Examples for when to skip and when not to skip: Viger ts}
+
+© Skip for non-Latin character foreign language
+© eg. "pecTopartb! prAOM Co MHOH”
+2 eg, BB U OE FER
+© Skip for general, non-entity, foreign language text in Latin characters
+© eg. “vuelos baratos”
+© Skip for non-sensitive, mixed language queries
+© eg. In the English workflow, skip for: “los mejores ls 2s in Cancun"
+© Skip for unicode text
+© eg, \u0d38\u0d4d\u0d: 38\u0d4d \uOd2f\udd4d
+© Skip for random string of numbers, without context
+© eg. 65063686
+© Do not skip for foreign language strings which are
+
+REDACTED FOR CONGRESS
+
+ecognizably sensitive
+Examples for when to skip and when not to skip:
+
+* Skip for non-Latin character foreign language
+° @.8. “pecTopat! pagom co mHon”
+> 8g. IRAE Oe FRR”
+Skip for general, non-entity, foreign language text in Latin characters
+8. “vuelos baratos” :
+
+* Skip for non-sensitive, mixed language queries
+
+eg. Inthe English workflow, Skip for: “los Mejores La Ss in Cancun”
+© Skip for unicode text
+
+© e.g. \u0d38\u0d4d\u0d38\uddad \uOd2f\u0d4d
+* Skip for random string of numbers, without context
+© eg. 65063686
+* Do not skip for foreign language strings which are recognizably sensitive
+
+© @.g. “video porné"
+
+ 
+
+© eg. “sexo oral”
+e.g. “sexo anal”
+
+* Do not always skip for foreign proper names. If you are certain that the string is a proper name, then select
+Acceptable.
+
+© eg, “esther dubois”
+
+[i18n] English is not considered foreign language for i18n workflows. When rating ina non-English language, do not skip for
+suggestions containing English. In some i18n markets, you should not automatically skip for queries/suggestions
+containing multiple languages. Often, English is used in combination with the market language. Therefore, please rate for
+
+strings containing the local market language and English.
+
+1 - Sensitive
+
+REDACTED FOR CONGRESS
+[DEPRECATAED] Typeahead Integrity Rating Guidelines v2.0 (08/07/2019)
+Document Edit View Format
+
+Examples for when to skip and when not to skip,
+
+‘© Skip for non-Latin character foreign language
+€.g "pecropanei panoM co HOM”
+eg. BHU Oth PRR”
+'* Skip for general, non-entity, foreign language text in Latin characters
+eg. “vuelos baratos .
+© Skip for non-sensitive, mixed language queries
+eg In the English workfow, skip for: “los mejores Ls Js in Canctin®
+© Skip for unicode text
+eg, \u0d38 \udd4d\u0d38\uOdad \uOd2f\uddsa
+© Skip for random string of numbers, without context
+e.g. 65063686
+* Do not skip for foreign language strings which are recognizably sensitive
+eg. ‘video porno”
+e.g, "sexo oral”
+eg “sexo anal”
+
+* Do not always skip for foreign proper names, If you are certain that the string is a proper name, then select
+Acceptable
+
+REDACTED FOR CONGRESS
+
+° eg. ‘esther dubois"
+[i18n] English is not considered foreign language for i18n workflows. When rating in a non
+
+English language, do not skip for
+
+suggestions containing English. In some i18n markets, you should not automatically skip for queries/suggestions
+containing multiple languages. Often, English is used in combination with the market language. Therefore, please rate for
+
+strings containing 'the local market language and English.
+
+1 - Sensitive
+
+You should rate sensitive for queries / suggestions which trigger images, posts, and all other content that is harmful or
+sensitive based on the following characteristics: risk of harm, threats to public safety, or otherwise sensitive content
+
+Select the label 1. - Sensitive if the string falls in one of the following categories, If you mark a result sensitive, then you will
+
+need to classify the content by selecting a sub-label from the following sensitive categories.
+
+Note: When selecting a sensitive sub-label, always select the highest-ranked label from the
+
+list below. For example, if a
+
+sensitive result contains both Hate Speech and Profanity, you should select Hate Speech since it is ranked higher in the
+
+hierarchy of labels,
+
+* 0- Child Exploitation
+© 1-Self Injury
+ 2-Violence/Credible Violence
+
+© 3-Hate Speech
+
+© 4- Adult Content/Sexual Content
 © 5- Profanity
-3 .
-7 Ca 2
-Satinasel Content ry a aa
-= 8 ee
-™ 6 ;
-‘ 2 -
+
+© 6-Harmful Health Content
+
+© 7- Regulated Goods
+
+© 8- Other
+
+Remember, you are rating based on the string
+
+search search results only to assess the meaning of the suggestion, and not to determine t
+
+Many common names may generate pornographic results (e.g."mary ann’ "), these shot
+
+# Astring such as "phonograph photos” is not sensitive in nature, Aside search will shi
+
+ 
+
+itself, and not on the results generated by a search engine. Use the side
+
+he final label decision.
+
+uld not be considered sensitive,
+
+ow that a phonograph is an audio
+
+ 
+
+REDACTED FOR CONGRESS
+ 
+
+Remember, you are rating based on the string itself, and not on the results generated by a search engine. Use the side
+
+search search results only to assess the meaning of the suggestion, and not to determine the final label decision.
+
+* Many common names may generate pornographic results (e.g."mary ann”), these should not be considered sensitive.
+
+* Astring such as "phonograph photos” is not sensitive in nature. A side search will show that a phonograph is an audio
+
+device, and so photos of this are not considered sensitive.
+
+For any incomplete suggestions, do your best in assessing whether it is very likely to be completed in a specific form, and
+rate based on that. For example
+
+© "girls having se"- It is very likely that the last word is an incomplete form of "sex", and you should rate the string
+sensitive,
+
+®
+
+© ‘dirty pu" - The string is incomplete, and unclear enough that we cannot determine intent. A side search may show
+
+various results, meaning that it is not certain that “dirty pu’ is an incomplete form of “dirty pussy”. In cases like this,
+you should not rate the string sensitive
+
+0 - CHILD EXPLOITATION
+
+This includes queries / suggestions with intent for content related to the sexual exploitation of children, If the string
+includes any indication of this type of exploitation, select 1 - Sensitive and the label Child Exploitation
+Child Exploitation includes, but is not limited to queries / suggestions which:
+
+© Contain anything related to sexual activity involving minors, soliciting minors, or sexualizing of minors
+“kids touching each other’, “jailbait”, ‘molesting child”,
+
+ 
+
+© eg. "body of a 12 year old”, “child erotic’,
+© Sexualize teens and do not contain explicit intent for teens aged 18 or over
+“teens in panties", "teens in thongs’, “sex teen’,
+© Imply a minor involved in a sexual setting
+© eg. colombian little girl student sex
+
+* Contain pornographic terms or genres that sexualize minors
+no an the attraction to young or prepubescent girls)
+
+ae ‘alas Wades Tnsitin Fr
+
+ 
+
+REDACTED FOR CONGRESS
+0 - CHILD EXPLOITATION
+
+This includes queries / suggestions with intent for content related to the sexual exploitation of children. If the string
+includes any indication of this type of exploitation, select 1 - Sensitive and the label Child Exploitation
+
+Child Exploitation includes, but is not limited to queries / suggestions which
+
+® Contain anything related to sexual activity involving minors, soliciting minors, or sexualizing of minors
+
+ 
+
+e.g. “body of a 12 year old”, “child erotic”, “kids touching each other”
+
+ 
+
+“molesting child",
+* Sexualize teens and do not contain explicit intent for teens aged 18 or over
+
+“teens in panties’, “teens in thongs”, “sex teen",
+* Imply a minor involved in a sexual setting
+e.g. colombian little girl student sex
+* Contain pornographic terms or genres that sexualize minors
+
+eg. “lolicon” (media focusing on the attraction to young or prepubescent girls)
+
+ 
+
+Do not rate the following as Child Exploitation:
+
+© Strings related to educational or informational topics related to child exploitation:
+eg. ‘child abuse hotline’, ‘child molesters in my area”
+
+© Strings which sexualize teens aged 18 and over. Rate these as Adult Content / Sexual Content
+eg. “18+ teen porn” -+ Sensitive: 4 - Adult Content / Sexual Content
+
+© Strings which contain the terms “boy” or “gir!” which do not indicate explicit intent for children
+
+© eg. “call girl’, “call boy”, “hot girls", “boy naked”, "naked korean girl”
+
+REDACTED FOR CONGRESS
+
+1.- SELF INJURY
+
+This includes queries / suggestions which seek to promote, encourage, coordinate, or provide instructions for self-injury. It
+the query / suggestion stfing includes any indication of self injury, select 2 - Sensitive and the label Self Injury
+
+Self Injury includes, but is not limited to:
+1- SELF INJURY
+
+This includes queries / suggestions which seek to promote, encourage, coordinate, or provide instructions for self-injury. If
+the query / suggestion string includes any indication of self injury, select 1 - Sensitive and the label Self Injury.
+
+Self Injury includes, but is not limited to: *
+
+* Suicide, self-injury, eating disorders, and other types of self-harm
+© Strings explicitly related to suicide and/or self-injury
+
+2g, “how to kill myself”, “best way to commit suicide” , ‘cutting my throat’
+
+Do not rate the following as Self Injury:
+
+* Queries/suggestions of entities which match to media, songs, movies, artists (not pages or groups):
+
+eg. “killing me softly’, “Suicide squad”,
+
+ 
+
+2 - VIOLENCE/CREDIBLE VIOLENCE |
+
+This includes queries / suggestion strings related to violence, or credible acts of violence. If the string includes any
+indication of violence/credible violence, select 1 - Sensitive and the label Violence/ Credible Violence
+
+Explicit Violence |
+© Strings related to violence against real people or animals
+© eg. "beheading videos", “how to kill a dog”
+© eg. “waterboarding videos”
+
+© eg. “fight cam"
+
+REDACTED FOR CONGRESS
+
+Credible Violence includes, but is not limited to queries | suggestions which:
+
+f people, or
+@ © Contain credible statement of intent or threat to commit or incite violence against any person, groups of peop!
+
+aaa odie a
+
+ 
+2 - VIOLENCE/CREDIBLE VIOLENCE
+
+This includes queries / suggestion strings related to violence, or credible acts of violence. If the string includes any
+e a
+
+indication of violence/credible violence, select 1 - Sensitive and the label Violence/Credible Violence.
+
+Explicit Violence
+* Strings related to violence against real people or animals
+e.g. "beheading videos", “how to kill a dog”
+e.g. “waterboarding videos”
+
+e.g. “fight cam”
+
+Credible Violence includes, but is not limited to queries / suggestions which:
+
+© Contain credible statement of intent or threat to commit or incite violence against any person, groups of people, or
+
+place (city or smaller).
+
+ 
+
+Credibility is based on the information available.
+
+© Generally, a statement of violence is credible if it contains a target (person, group of people, or place), and two
+
+‘or mare of the following (can be two of the same detail):
+= Location |
+= Timing
+= Method
+
+© Contain any statement of intent to commit
+other reference) or vulnerable group, including (but not limited to) heads-of-state, witnesses and confidential
+
+informants, activists, and journalists.
+
+Seek information which could lead to credible violence, such as instructions on how t
+explosives, UNLESS there is clear context that the intent is for a non-violent purpose (eg. fireworks)
+
+.
+
+© eg. “how to make a bomb”
+
+Relate to promoting acts of terrorism, or in relation to terrorist organizations:
+
+© eg. “how to join isis’, “isis killing children", “kkk hangs black girl"
+
+tain intent, calls for action, or advocating for violence due to the oute
+
+ome of an election
+© Con
+
+Violent term(s) + media'type (i.e. “photos’,
+ds chantina tive ctraam” “walmart shooting videos”
+
+ideos”, “live stream”) are sensitive
+
+ 
+
+ 
+
+or incite violence against a vulnerable person (identified by name, title, or
+
+0 make or use weapons and/or
+
+REDACTED FOR CONGRESS
+ 
+
+® Method
+
+other reference) or vulnerable group, including (but not limited to) heads-of-state, witnesses and confidential
+informants, activists, and journalists.
+
+explosives, UNLESS there is clear context that the intent is for a non-violent purpose (e.g. fireworks).
+e.g. “how to make a bomb"
+
+Relate to promoting acts of terrorism, or in relation to terrorist organizations:
+
+e.g. “how to join isis”, “isis killing children", “kkk hangs black git!”
+© Contain intent, calls for action, or advocating for violence due to the outcome of an election
+© Violent term(s) + media type (i.e. “photos’, “videos”, “live stream") are sensitive
+
+© "walmart shooting live stream’, “walmart shooting videos”
+
+Do not rate the following as Violence/Credible Violence. Queries / suggestion strings which:
+
+© Reference fictional violence, such as from video games:
+
+© e.g, "make bombs witcher 3”, “kill dogs resident evil" |
+© Relate to pest eradication: il
+
+© eg. “how to kill cockroaches” | |
+© Are too short to determine whether the intent is violence:
+
+© eg. “kill”, * gun”, “strangle”, “firearms” |
+© Seek factual, educational, or newsworthy information:
+
+© eg, “mass killings in us", “isis winning in syria’, “isis attack nyc’, “active shooter now”, “walmart shooting”
+
+3 - HATE SPEECH
+
+ising hate
+This includes queries / suggestions which are hateful against 2 protected group, or an individual, andlor rs ing hate
+groups or ideologies. If the query / suggestion string includes any hate speech, select 1 - Sensitive
+
+Speech.
+
+Contain any statement of intent to commit or incite violence against a vulnerable person (identified by name, title, or
+
+Seek information which could lead to credible violence, such as instructions on how to make or use weapons and/or
+
+REDACTED FOR CONGRESS
+3 - HATE SPEECH
+
+This includes queries / suggestions which are hateful a
+groups or ideologies. If the query / suggestion strinj
+Speech.
+
+Balnst a protected group, or an individual, and/or praising hate
+B includes any hate speech, select 1 - Sensitive and the label Hate
+
+We define hate speech as content which diractly attacks people based the following protected characteristics:
+© Race
+* Ethnicity
+* National origin
+© Religious affiliation
+© Sexual orientation
+© Sex, gender, or gender identity
+
+* Serious disabilities or diseases
+
+Hate Speech includes, but is not limited to queries / suggestions which:
+
+* Contain violent or dehumanizing speech, statements of inferiority, or calls for exclusion or segregation
+
+© Are hateful against a protected group, such as racial slurs (including misspellings), and queries/suggestions which are
+derogatory against groups based on any of the above-listed protected characteristics:
+
+© eg. “nigger”, “chink”, “yid’, “tranny”, “shemale”
+© eg. “women should know their place’, “asians are cheap’, “gays go to hell”, “immigrants are thieves”
+© Display derogatory statements against a public or private individual:
+© eg. “jason smith is a fag”
+© eg. “kamala harris is a joke”
+© Display praise for hate groups or people who commit harmful actions against a protected group:
+e.g. “james alex fields jr is a hero” (the individual that ran a car through a crowd protesting white supremacy
+rally), “kkk saves america”
+© False information or opinions on public figures or notable people:
+© eg. “hillary clinton is dead’, “hillary clinton is a robot”, “impeach donald trump"
+
+© Target all private individuals or public figures with:
+
+REDACTED FOR CONGRESS
+
+ 
+Display derogatory statements against a public or private individual
+
+   
+
+WANS POSE RSA SHE Lica, Buys gO WiieH, Her,
+
+ 
+
+POVNS HE Weve
+
+© @. “Jason smith is a fag”
+
+e.g. “kamala harris isa joke”
+
+Display praise for hate groups or people who commit harmful actions against a protected group
+
+&g. “james alex fields jr is a hero” (the individual th:
+
+vat ran a car through a crowd prote: it macy
+rally), “kkk saves america” ° prowengenne supe ‘
+
+False information or opinions on public figures or notable people:
+
+° @g. “hillary clinton is dead”, “hillary clinton is a robot”, “impeach donald trump”
+
+Target all private individuals or public figures with:
+
+> Calls for death or serious disease or disability
+
+°
+
+°
+
+°
+
+ 
+
+Derogatory terms reiated to female gendered cursing
+
+ 
+
+= eg. "michelle obama is a cunt”,
+
+ 
+
+‘michelle obama is a pussy”
+
+Claims about sexual activity or sexually transmitted diseases; Statements of intent to engage in a sexual activity
+or advocating to engage in a sexual activity
+
+Targeted cursing
+
+   
+
+Negative physical descriptions
+Claims about religious identity or biaspherny, except in at-risk countries where the Violence and Incitement
+policy should be applied i
+
+Calls for death or serious disease or disability
+
+Comparisons to animals or insects that are culturally perceived as intellectually or physically inferior or to an
+inanimate object (“cow," “monkey” “potato")
+
+Content manipulated to highlight, circle, or otherwise negatively draw attention to specific physical
+characteristics (nose, ear, etc.)
+
+Attacks through negative physical descriptions
+
+Content that ranks them based on physical appearance or personality
+context further degrades the individual
+
+REDACTED FOR CONGRESS
+
+Association to menstruating, urinating, vomiting, or defecating where
+or contains an expression of disgust
+Association to physical bullying where context further degrades the individual
+
+Content questioning hygiene
+
+Coordination, advocation, or promotion of exclusion
+
+Negative character of ability claims, except in the context of criminal allegations against adults
+ 
+
+Content manipulated to highlight, circle, or otherwise negatively draw attention to specific physical
+
+characteristics (nose, ear, etc.)
+
+Attacks through negative physical
+
+ 
+
+F iptions
+
+Content that ranks them based on physical appearance or personality
+
+Association to menstruating, urinating, vomiting, or defecating where context further degrades the individual
+
+or contains an expression of disgust
+Association to physical bullying where context further degrades the individual
+Content questioning hygiene
+
+Coordination, advocation, or promotion of exclusion
+
+Negative character oF ability claims, except in the context of criminal allegations against adults
+
+Expressions of contempt or disgust, except in the context of criminal allegations against adults
+
+Unwanted manipulated imagery
+
+Derogatory comparison to other public, fictional or private individuals on the basis of physical appearance
+
+Do not rate the following as Hate Speech
+
+* Seeking factual, educational, or newsworthy information about hate groups:
+@.g. “white supremacy rally san francisco”, "kkk interview’
+© Some other examples that should not be rated as Hate Speech
+
+eg. “racist memes”, “racist video", "white supremacist”, “so gay
+
+@ 4 - ADULT CONTENT/SEXUAL CONTENT
+
+This includes all commonly known sexual words, as well as misspellings and variations of sexual words. If the query /
+Suggestion string includes intent for any adult content/sexual content, select 1 - Sensitive and the label Adult
+
+Content/Sexual Content.
+
+Adult Content/Sexual Content includes, but is not limited to, queries / suggestions with explicit pornographic intent:
+
+Sexually explicit language, and/or terms seeking pornography, nudity, and/ar sexual activity
+
+© eg. “gangbang”, “threesome’, “hot lesbians’, “girls fingering’, “naked girls’
+
+ 
+
+*
+
+REDACTED FOR CONGRESS
+
+ 
+Adult Content/Sexual Content includes, but is not limited to, queries / suggestions with explicit pornographic intent
+
+© Sexually explicit language, and/or terms seeking pornography, nudity, and/or sexual activity
+
+© eg, “gangbang”, “threesome”, "hot lesbians’, “girls fingering”, “naked girls”
+“bbw’, "bbc"; “call girl", “call boy”
+
+ 
+
+= Includes misspellings of such terms
+
+Multiple x's standalone OR in combination with letters / terms
+
+ 
+
+= The only case "xxx" could be considered non-adult is in combination with a non-adult concept, e.g. "xxx
+the return of xander cage” (movie) or “xxxtentacion" (late artist)
+
+© General references to porn
+
+= @g. “pornography’,"porn star’, "porn actress”
+
+Profanity with clear intent for adult/sexual content
+= eg. “ass”, “tits”, “pussy”, “dick”, “milf”
+Pornographic content publishers in print, video, web, etc.
+
+= e.g. Porn magazines: “playboy magazine”, “hustler’, “escort”,
+= e.g. Porn websites: “redtube.com’, "youporn.com’, "xhamster.com”
+= e.g. Pornographic film studios: “reality kings” “bangbros’, “pinkvisual’, “club jenna”
+
+Adult retailers
+
+‘good vibrations”
+
+ 
+
+= eg. “sex shop
+
+Seeking sexual services via implied monetary transaction
+= ©g “prostitutes nearby”, “call girls san francisco’, “escort services nyc” “strippers Las Vegas”
+
+Porn star names. Includes porn star names with additional terms such as “pictures”, “photos”, “videos”, which
+indicate intent to seek adult content.
+
+= e.g, “sasha foxxx", “kendra lust’, “kendra lust videos”
+= e.g. “mia khalifa photos", “rachel starr videos”
+© Strings which contain sensitive intent, and include the words “hot” or “sexy”
+= eg, “Taylor swift hot" is sensitive
+= e.g. “reading is sexy - book promo" is not sensitive
+
+> Regional sexual slang that is seemingly innocuous
+
+= eg. “desi mom and aunty’, “chodi”
+
+REDACTED FOR CONGRESS
+      
+
+Adult retailers
+= e.g. “sex shops’, “good vibrations”
+Seeking sexual services via implied monetary transaction
+
+= 8 “prostitutes nearby", “call girls san francisco’, “escort services nyc” “strippers Las Vegas”
+
+ 
+
+Porn star names. Includes porn star names with additional terms such as “pictures”, “photos”, “videos”, which
+indicate intent to seek adult content.
+
 a
-¢ j ty ry
-P|
-i}
-i L or +
-mM een
-re an i, i if
-tla | meee
-Te 7 ciel "
-‘ ; ‘
-L -
-cinema anata)
-eer 5
-dy.
-- Te er )
-a 0 - SKIP s
-" ne eee ee
-. - Pere Tr
-i
-= _
-) ren" s
-, an f Mh
-A ;
-pa) oe Bice v ra dfel ay
-Re fy tr ue eR neat art ee Cte ror
-surface sensitive content? ;
-Pe et Dk ee Con nace toa het
-English). If you come acruss forage Janne eginizaty © language in the suggesbcn stang, select the label et
-Re eee ee DU a or OR CO Ra ee ee TY wi
-ee Le mt
-Dee a ee ne ec ee | .
-CP mee CE CLE UL ee er ee ;
-Label Definitions ;
-ee)
-Tf a.
-OS : ‘ aE a RR UN pa ae eile lal a ess
-111 ep lai i EON
-dielertand enough to rate This includes query / sugg a sd ar
-Hoe Deane an ee RU a al PE a Tele rk .
-. " Dre ee Peet Ry te ted 7
-0 Cs Lat seaelbaidh ieiieiiaetecdaeaeanget “3 6
-ene ee ilies i ss deaaitieadt Hie
-a ; 4
-ag cr a Ye.
-7 mri 1
-iat Lasssceenttiry (edetipyece-.
-meee tet reset tether)
--y 7 ty . r +
-tee EUS 7"
 
-a i ee eta ash er
-ie Re Un CM ee ce eR eta as Recut) Deg
-ddd ee Re Ue ee GE eon oe mL m
+© e.g. “sasha foxxx", “kendra lust’, “kendra lust videos”
 
-came eeaik otleed Ie cele eau E a , °
-a De CRE CU eu MC od woe
-‘a a Bed ee Ue RG ne CU ee UR eu Re | ay
-as
-Cee eer eo Ce Ome Cr RD SS RE LT
-ECO A ea a eo CR a me,
-Te ED aid ee eC eee kU Le ae a
-[could be prefixes to Engirsh words a
-ao Pe ne Ea hun mea
-Y ™ ele eB ed
-"1 ae ati ell
-CON To a od
-Rr aD a ka cay
-- “it berstos” o u
-y ad Dr eT Ey ,
-av eae FL alah allel , ’ we
-! D 1
-i" | - i I | Ine
-oe semea nity obit !
-“LEP ORR TB
-we ead ey '
-cong rye
-CAT
-SORTER Here.
-ra 4
-elite ei he a ) i
-ee tee v 4
-TS ros ay "I
-6 Ue LL an enone ea here ed a.
-© eg. “vuelos baratos” :
-~ Bod dee Cnr eer tee attiny 1 '
-yi AS UU Boy el mee ee ate ai LO ete Ld
-tM Deron Br! H
-' Ce YMC e KL NOss Mt EL Ut en Ott mt nC] :
-®t ba EU Sem aT oe eT aT 1
-y Pe Me xo)
+ 
 
-Ct emer) Cn eae Pome RC Ly 7
-CS ae oe .
-© @g. “sexo oral”
+= e.g, “mia khalifa photos’, “rachel starr videos”
+Strings which contain sensitive intent, and include the words “hot” or “sexy”
+© eg. “Taylor swift hot” is sensitive
 
-cere Tos
-Re ee UG ee ee Oe a ne mo
-9 I
-te
-i 7 iy
-eee ees ign tanguage for 118n workflows. When renng its nor-Eygiaas
-: pill rs an ee ,
-a eee ue Oe
-oe ee ad a sar phot ell ; .
-men
-5 or Is
-a 7 win
-en PATA {he
-ri A vf?
-- R208 Typeshead Integrity Rating Guidelines v2 0 (08/07/2019) .
-= edleall ee .
-cag Ua ry 5 7 rl ar | rw '
-n ee EER See ee ee Te 7:
-(¢ 9) Pe UL RCE ie ee ee - '
-aE a Ott ne ene
-aa Pra De ea) ‘
-©) Lee ee eee eat nas}
-: ra De ed nL ,
-i oO CE a) eC od
-O Oar Ue ea ort wee AE ents
-rad Ce eee ee oe
-(eo) 2 @g \u0d38-uOdad' u0d 38\u0ded iuOd2flu0ded
-M. RE ee men Rae ;
-7 © ag 65063686 ;
-ee
-‘ i, A Te 1
-ia Td «
-Eee
-ww ge gp Be
-agp mae eee ah se Md ee Mey
-OS F ae
-wee in bn RE a
-_ os tedaleaty apy cganadiaiddaih diaiibeiea laid cilia tab biin dee Rs
-whey ee ee ue aa
-| :
-er) |
-| eu should rate sensitive for quenes / suggestion, which tigger images posts. and all other co S
-‘aanaitive based on the following characteristics sk of harem threats to pubic safety, of otherwise send oe
-Sefect the label 1 - Sensitive if the string tall, vi oee of the folowing categunes Ifyou mack a result ca ;
-Pe Se ee eC ee dd a
-Poe ean ee a Crt a oe at Ce a Daa i. -
-eee tern eh Con ee ee Rte Oe re
-Dee Re Ly .
-a.
-CM ee es felt ely _-
-l Ce ee eu ?
-\ Reet eae Ck nar iF
-heel 1
-A Thee fee ee ecu aaly .
-Sane eotarit) ‘
-it aeeephecpieall rl
-wd 7 1 wf
-at Sy ;
-e -
-V ji +
-a. os ORs
-iin d on the string itself, and not on the . see cunk S!
-“ RE rr Lk le eet Talat Tin L.
-Vad ry L
-Soa e ae edeaiaed atin x ghedbnamia mn aiiians tél pg
-eR eee Le slekeseedsteeaiairhict
-Se Lee
-CO et eet
-‘ ‘cEMAMON Names may generate pornographic results (e g “mary ann”), these Moos. /
-Boot Lo ee ek Gna re Pe:
-7 ‘device, and so photos of ths are not considered sensitive ” 7
-incomplete suggestions, do your best in assessing whether its very ACR we } an
-Bra memes --
-Oe eee Re Cet we alt
-Be ;
-Cee ee a CR ee a
-* various results, meaning that ity saat certain That “dirty pu" 1s an incomplete form eee ot
-you should not rate the string sens tive :
-@-CHILD EXPLOITATION -
-Egy cludes queries / suggestions with intent for content related to the sexual exploitation of ciWid eo:
-0 ed ea I Lo Oe GUM eee Oe Uo Rune eke ds :
-: ve Hon includes, but 1s not limited to queries / suggestions which:
-ee ere Ree rE ac aCe aaah Lille Ree:
-Serr, bel eR RR cs Reali aa
-. nd do not contain explicit intent for teens aged 18 or ovat 7
-ire! Fe 1 7
-"yoann! 1
-Eitin nin smatent sox mt HII!
-He eager if
-1"? fate inet se
-! “a
-. ti i.
-| 1 peaadimeaaaialea AD il ete
-allele ghetto
-eden ee ten eet -.
-all -
-ve be EU ea og involving munors sohciting minors, or yr
-. a
-1? @g “body of 2 12 year old”, “child erotic’, “kids touching each other, “jailbait”, “ntolegiia
-De Cet) Pete eee Reem Cy att CyB Rel me 7 i
-CU ee Te fay,
-my, Spot
-OTe Pl ee ETL a :
-fF ' © @g. colombian Inte girl student sex Re
-Eee ae ua Ce ea ek ar Re ren een Tete : *
-1 © #g “lolicon” (media focusing on Ihe attraction te young o* crepubescent girts) 4 .
-re}
-ed Ra Bee eR a ecg %,
-| Be De Bic ea en ie ORL RCI nt eee nL i ecg) TAs
-© @g “child abuse hotline’, “chid molesters uy ony area” «" f
-1
-et is which sexualize teens aged 18 anu overt Pate these a Adult Content / Sexual Content. ey
-“ o>
-Se Oo es De Re name nr een oa es
-ue Bn ek ee a ecu et
-UG ae
-Ny ee eg Cs OP :
-. - eee res 1.
-L
-ae
-i ny
-1 wu
-4 - mn , 1
-gable to promote, encourayyy ¢ are
-Seen ek Aes adel et in eet ee
-oa Toh .
-ae ie,
-- ae rT
-oe aidatie betel) shee Hove Mo ts
-a re eee
-eet ;
-ae Fe ee Ra tear e Rs tin
-oo gh De REE UL Ue eta
-Coe ane tReet met ne etd te
-eee TEU tad -
-5 ” /suggestions of entities which match to media songs, movies, arusts (not pages or gradi a
-7
-cae) Oe tb me ea atee
-Ly
-"
-i , — 7
-TY a
-fl  .
-ml
-oa wife th RAY olla lad im
-Ml] al
-"He Oe ee ue ie RO eR eT oo
-Seo ee uk Re
-‘in aril
-' if f
-eee ae Ee Cad an ,
-eee eet tT a me Thi!
-PR ,
-tt ped
-i 1 ae |B :
-‘ dec hay ty
-a ‘eH | 1 (il!
-solange
-eee a TO"
-a ee 2) 1
-ee oY
-J ee
-nc testagy Ce ete) rt pe ee ‘al
-a. cei TU he F
-lS ;
-} deen desde aedeoky er esky
-es Ln ee fe Ets .
-‘a Pa oe
-Ee ;
-lf \
-Ney ae ee an eae GMs Geter dada
-ones eC CU CUR ee w
-| pee Dealt Pan
-r | © Credibility is based on the informat-in a.ailable i
-: ee at Renee CnC ON Lote Megs
-[. of more of the following (can be two vt the same detail) be
-@ Location af
-7 !
-Ey \
-om \ ateaaldaealihael PET Re Ree ee ue Re Te “ .
-7 Fe eT eee LDL a eda Rell sae
-I — ee Lie _
-aan ie Pe Te ta nT . ,
-i said titel tata id 4.
-eg mn: |
-in ;
-OO er a
-+ Pa
-eee CiecuatlMeaselati ty eA
-"See he au a he
-STRSTR PORTH TET”
-~ nang te Ua nTBeYG| GE
--_sotiatdaealadeataatabedapinticiaeed csctne
-may pated peated Se Le
-Ce is 7
-. wep walked ee ae
-im De Te ena ateet Catt CTR
-I i @g. "how to make a bomb" 7
-i
-ST Promoting acts of terronsm, of in relation to terronst Pel UTE
-| Re a cme ea re Sta
-i. Contain intent, calis for action. of advecating for viclence due to the outcome of an election, +
-| Be Vinfent term(s) » media type (.e “photos”. “viciens”, “live stream”) are sensitive ;
-i © “walmart shooting te stream” “walmart shyoting wider” Ye
-|
-|
-i et i Be Ro Ue ee Ald Ory Uys aa
-1 @ Reference fictional violence, sucts as fron ver parr =
-© @g. “make bombs witcher $0 kil gs ces ert eal 7
-‘i eet ye Peet rola)
-| © @g. "how to kill cockroaches” 7h
-‘ OR eed ek uae Cue Cn a |
-* Ce eee Ci LC
-0 Oe con Me ee Le .
-“sa aa Bf
-- Be Ea SU eR Ae a ae wer
-H q to.
-1 rt
-, rere reer : atti
-Ie i
-a ig
-ey : i
-1° ne
-Heer f "
-‘sy | B 1 ql till
-oe “Ts eceeile maladie init ititi>. |
-ee arr eee sia AHN,
-Tae enn al i \f"
-i a ‘
-h Wy fre oy oe rr a] ]
-I \
-~ peg sli side ech, ae La Pe ee vie
-Tale eth ORE erivei] AU Su eM ieee oe
-~ 7 "ia
-a Dale ee ut a ETT ‘ i
-1’ ll Ee
-acd o.
-Seed Ret La)
-1 ee ner eee |
-— ra eit) "
-Re eer a aati |
-Ce Te emis :.
-1 ik pee ee eT eS :
-@ Contain vicient or dehumanizing sperch statement. cf inteneanty, of ca Is for eure .
-: eda Ce Ca aU a ar See o
-‘ crea eetel Be alee TUR Rh OL |
-7 Oa lL Se re Ra
-14 See ee Ue EUS ee RO a
-* ge canted Me ald against a public or private indmidual .
-a atl laath ial .
-alee a,
-see eed a eRe ee Le eles
-" sca bene ienaieeeaiaidahinana =
-chal a 5 A .
-nivel hy iE
-aR aid tain hineemaia nat arr NY
-oe 1s aeaaielaeaaaa rab ane
-a heed eee i
-; Sate te T
-Lit
-eet ped ey
-. for hate groups or people who commit Ue tpn
-‘ ee ed _ -7
-in psienae . md bd de RCCL LETS Sete pene nf
-veiled abit otk caddie Lenard
-® eg. “hillary clinton is dead”, MCU Nelo et tea) eT ad
-7 Ae te) Pe aes ay ee Seen 7
-© Calls for death or serious disease or diabihty |
-~ Ce ela ee oe "
-4 : @ eg “michelle obama is a cunt” “michelle cbama sa ert '
-t) Peet eee EPEC TTT its Be ERT BTC Ree oa ae] a
-Pee ee er Cet) eit a P
-Se Caen
-Cc oe
-‘ © Claims about reign crt. ar are. eacaptin at risk countres where the Violence 1d 7
-7 Plame ete he wee]
-7 ee See kee ee ee Reet g
-z) Con ee em ee PE eee RMU CL a kegs a \
-sae hee tae MLS is LCL oa
-tee Da A Uy aes Ue a el ak aes y i
-Ooh ve a
-ie through negative physical descriptions i.
-"aD eels ea Rel ah led cattle ME
-laity menstruating, urinating, vomiting, or defecating ie ve
-aka bn aa i '
-a ak Rea eral ae! Beak iM ni ‘ ti .
-ene Rtn |
-™ ” att d aalaiet tite ‘ ay i il | Kl wi
-ee ie Be ih aera
-bt) o
-Cee ede get Reet th ataet 7
-bl dec ee Ed
- scuaemeeibadibaibiaih onl Lobeiak houbunk Kekeieta es tetra Geos
-Or contains an expression of disgust
-n © Association to physical bullying where contert further degrades the Bee
-© Content questioning hygiene
-Ce rt eM eed aM ia tlt me rent tte
-A aie oes ree ee MET y 1] Sy ) *:
-Pe ee OO oe fed a
-7 A a UnCut ine
-Ce deel ee CS eR Te a hes thee te TT a a
-Do not rete the following as Hate Speech
-A H
-- ec de ES Oe LOE ee COOL
-. CO ee en ee ec ee | ;
-Ce aa Ur ee eee ee or eer (| .
-CY te i cd .
-I i
-u . -
-mS ' CONTENT/SEXUAL CONTENT
-"  hcgbllelde alle Aachahidd aso hi ah Me Rid EM ad Ela a La get ~
-See ee em Rete na aa ae : ma
-o
-cee eee ea] ec
-ede te Qe le Gee Le Ge
-ee ot iediinereertk——.-
-i] art eee Uy
-Se eet erage
-a ee Ee
-© |g ‘gangbang’, “thraesome”, “hot lesbians”, “gis ree
-5 a ae sea -
-- En rey ee a Ty
-a) Muhiple x's standalone OR in combination with letters / terms a’
-Le ee 7
-/ Ct) Pare fe Loe Mel oR Malattie ccm Meee) eae ay
-a Poe ee Cer Emer Tr iam Pst] ide
-: 7 ES Co ve Te eee) - bs
-Le ec ee ee a D
-© Profanity with clear intent for adult.sesual wostent '
-@ @g “ass”. “tts. “pussy”. “dcr” omit
-© Pornographic content publishers in pent, viciers wer ete
-CS Me an Oe ae 7
-CF Me a Ae ee eC 1
-© eg Pomographic film studios “reality kings “bangbros” “pinkvisual’, “chub jenn”
-© Adult retailers ri
-@ eg “sex shops), “youd v Ergtens”
-m , o be yd sexual services via implied monetary "ransacnon “ | .
-" Tl Oey CUS Pe ar i
-"4 Wor ecm tC ee uC ar ke eT | aici *
-lll Re ee eal A ui
-4 * Ce ee ee Leal - i! é ,
-: i" eu ta ee
-ede eeil ie Lied lative); |
-t BO ed * nl I
-4 . oe
-“ ‘hcaiphalahaenanlabaliad P| ‘| r fas
-oe achat deiealataeaaliad édabaeaisaten | a
-ae ee ie OP)
-ssn Try af
-1 ' a 1
-. a | .
-/ ihe a a hed aE ~ |
-mma inated ie neat Lite shank od hier) -
-0 a ME ms .
-“ti eutaabeiat neato te ae
-et ee a “
-| © eg “Sasha foxx”, “kendra lust”, “kendra lust videos” L
-. © @g. “mia khatia photos’, “rachel starr videos”
-. © Strings which contain sensitive intent, and include the words “hot® or ad !
-. CS eee ait |
-_, rn © eg “reading ssexy book promo” is nol senutive . if
-© Regional sexual slang that 1s seemingly innocudus
-| @ eg “desi mom and aurty” “chodi" i
-CS ee UL 2
-CeO ee Coe a ec ad .
-CS CS OL re.
-Ce CR eR eT eC ori ay : T
-Ce eee ee eM ae see it lo |
-a ey ' "
-"i a OE ee es ‘
-“! : © Strings which contain terms like "18" / "18+" aang with additional context mdicat . .. me
-my , @ eg Terms such as “adult” '-18" ; "18+" combined with media keywords incl Me
-! De ee Ce
-a ! ~
-- ney een Lote eke tbo
-iene pea Aili ei eal ot aitillael) al aealahina an
-eM ee DT,
-ee ee YT eee
-a
-~ eee ee |
-we amine. ws :
-. r «ee
-a a Bn.
-ys i Ri alah ee
-| agile ee a Ee dt,
-1 Sa
-ae br ee te
-: nae oy
-ie eR RU ee tot el} iG
-(ade Minette re |
-\ '
-Ne edi owe eres Welt a) :
-J © @g. “scott weiner scandal”. “prostitution prevention’, “escort meaning” P|
-Ce re eee rs area
-J . ce iu ee Ur oe ’ |
-. a ele ig
-| eS Me ee me gil -
-® Appear to be non-sensitive withnut cuntest
-Bees eee
-; ee Meuron ei ee LC eRe i
-CeCe Ge Le MC
-|
-! :
-" _ 7
-We '
-2 ee
-oh ree ee RCN ecu See Me dal La one “ .
-Oe ideas eld '
-cu 7 ‘
-% but is not limited to. an
-ol |
-i ii
-“ee . oo
-“edd 0 ele ae hl alll iF t
-Se eden abled cb ehanbe Dab cabee ag
-og t if
-ee iW
-ah. wd ‘aa
-— ss ry aoe as
-D '
-eS '
-_. ”blllabeaalllapeapaieaaaiaiaia Nee eaaai oie ay
-a tabai Profanity. A
-ee ede a
-D
-CR a ae a
-. a Ee ene ee eaele Ly 7
-A et ee ied ave ee
-m6 =- Phonetic variations of profane words :
-ba ° eg “phuk you” 7
-® Regional siang
-H
-© @g. “wanker”. “beaver® (vagina) "take uff uh! fge fuck yourself)” m
-Pd SU ee ee LULL
-© Legitimate proper names that may appear lhe profaniy
-Cy Mea aa i
-i
-SR ea ete ee ee ae CLL '
-. © “damn’ - eg. “darn yankees watering Nule” “damn hfe quotes” “damn loving" :
-Pe ee ee 7
-7
-. ny
-Bu. HEALTH CONTENT -
-a a
-De tL ee ha ah are we:
-Peer dai ae halk dete aad Bee
-Q
-iG .- i
-D
-ey Te Se
-.. 4 See re
-iy
-a Leumtaddepitraicotorateir
-Llgpeni tepid telat ere
-coon: ; a
-EMiapcine reisintormation as!
-© Any vaccine-ratated claimed that have been proven taise by an expert 0 . ca
-‘i violating « \
-@ Vaccinahon directly leacis to harmful health outcomes .
-A Dt eu UN Oo LS rs
-. A eC ae ee sn) ee
-wR een me oe E
-* AVACCINeSsiCH Syacc mesma M., Fare De ae Meter we.
-DPC
-Pe ee CT ee ce ke
-Ca Ct ae)
-A td er ea ee a et TUT y : 4
-eee RCE a ee ‘ |
-RUC CMO RRR RC Re mR ED
-thar others Furents st cubed iv c rev giving vace ines from them 1
-7 Yad ne ON Gard |
-M SO ae CLL Ru A Rl lala
-- Pee acted .
-1 A © Histonc incidents of vaccine injury prove that vaccines are dangerous , ,
-A b Vaceme recalls prove that vaccine are dangerous : /
-Ret ee a a] |
-BT ee ta
-Wel he
-TR ee
-ele ae ald 7 . |
-ae ae eee ee a ie ee *
-se | pa 4 [oe 1) —
-; Ce
-Se
-» @ Themajority of people who get disene havit 7
-a Cer en dete
-7 eae rte)
-A © Ree an
-Pl em Tal Rod er dro] " .
-oO @ Recommended Vaccine schedules are unsate ; A
-O a rove CK Ma eg ee eT : ¥
-w and can overload the immune system
-; O 2 Children get toc many immunizations whch poses safety risks .
-WL Vaccines are safer tt spread apart. spaced out
-Q Pe a he a hee EM ie od Batis me ot ° ,
-1 Vitamin © can preevert neadles
-- ee Re eR E
-e OC Oe De an Re RUC eee ee placa dae a
-Pea UO CU GU) Me PO il x -
-Me CO en oO er oo Bo Cem ne lel ee yh.
-re OL ROO on MPLS ame ~
-a Shingles 'Herpes Joster: Tetetas fLockpiw) Whooping Cough (P .
-Ce Re Ur em ra tard a7
-Ce eel Barn es ane eee en aes PO RAT a etl iaaeltt j
-@ Parents have the nght tc chocse whether (neir kids are vaccmated Cy |
-® Patients have the nght to choose what goes into their own bodies , He
-\ @ Women's right to choose what 15 injected into her child ; or ‘
-VAs RU eee ce
-is Dee te Ree Bor ie Ea a
-elated Fe DEE
-v7 7 a aah dil tlh stale inaLalh elaialaia te
-RR ree Te
-gee ee et tee ti ieee thet
-i ERR TET
-— De
-_ Cee Ete mo
-ee ee en:
-re | ae :
-%% New vaccines are bemg developed usmg body parts from aborted
-leet Erne ett -_
-a Tee le eek asd |
-@ Cell qutures from aborted fetal trsue are used to Pee) ‘
-De ra] \
-Cee Ue lt ame ety
-& Content that imphes that vaccination causes fainting, twitching, and/or salap ~~
-® Content that imphes that the additives ni vaccines are dangerous |
-Se CRU Ue CC CoCaLo me Lr TW
-* There are dazens ef foregn artindal Chorerials in vaccmes 7
-a RO DRC MU eet ea) i
-isu ee 7
-Oe et RR a ee eC ae |
-a eC ea te Masi
-PM ted eee A teeth) oe Ra eA Padre ee) r
-Pe en Ure ce CMe MPM CSAS Ru eee ke ee
-PR Cee eee Cte oe Sn ok le |
-Se Rrra Tt CMe Ua eke
-PR UR air eer Ra] ;
-adem leet re Adelle det ; - |
-Serna ee eR CE Ree Et etal tas a
-ey) :
-” “ietaasea aii Linen aaleeas se
-byaelaeeelie ae
-ieee en EDL Tan etl alle eel a
-Ja Papeete
-fart, Shall alin ed .
-os eT ;
-on how to file a veccine reaction , for os. on
-ee eT ee re
-f Ci -
-ae.
-5 Se eet et Sea eeeeee i pest
-uf
-Be eu ee tone Meee steed et
-i ie in fool Ee eo eR eee Ly .
-© Urging peofile to bring information to doctors ty educate/Inform/! - - .
-ee Le ee co ee kere he
-information in them show np their UC eae si | ‘
-: EU aR RR dit ek re Pk
-PACS RUT oe ed '
-po ici a Tue arma ae em Ce eG ie Oey] F
-ee eee So Or ee nee ei Sie at ty
-Violating if this exaggeration can jead to serious medical harm.
-ey Co i RC '
-Oo et ee On ee Oe a MC Tete
-Anneély Fifvtetreya pia tee traces o
-Cee dar a Ee ee
-CCL CUE Cee eM ek
-CUCU Me ee A
-ny citations
-' ee uk eA] .
-2 rt it eo”
-7 Pea rurale ure ht os
-U 5 a A
-en eo
-een aa
-F idbeitaine Inforrnetion or advice that could lead to serious nseiliddlt
-: LJ Da eh Re tae eer Ty a
-7 Ce Tite Pra ee kia] strong suggestion to f an
-7 Rd te Ru ee tec a te oe
-D Ree Eee a
-n endangers personal safety a
-- a example, home remanties that «ould cause harm if followed ~
-Ae Len mete att ko a] we
-Cee Ae MOE Dente
-. Pla tee ed ‘
-Re oe Rua ' ;
-PU 20. et Ca Oe re By
-Ch Cn ee ee OR aan Si 7
-ieee ene UCC eerie ie a Th wk
-o Oa aCe Or Gen oe a |
-CMe ae ne ane eC ene tC Uk ed ; .
-A Te a UR ee OR Re Ln ny
-De a ea) ee ee ee eed ‘J '
-CMa CR cn ee ee LL i :
-. Pa AUR CULE UR ORIG uO | he
-1
-' s iM '
-een ee ei ei Da Rin ts eed . a
-ween) Dee ee ey eel dt yo
-Ne Ce OT ls .-
-” 3 . eer PO eee
-ep ie
-ee Ca) ts ho tad .
-a ;
-be be cet Reel key :
-© Results that may suggest conspiracy theories about governmental Health atid eneey
-SSE ene ed Or Mee OUT? i ceutl Ls
-distribute medicine (ua Merck, Phzer) ot chemical oe eC mem oe a
-© Some examples inciude _
-MeO LOM U NB eC Rt oe tT i
-LC Ee Ge |
-Se Seen conn cCaeT ee yt eee
-TCS Pos ee ee CRC ET ie Tee yd Se tod) me
-CO i ee OR RCE Mt e Ree eit atl ed ae
-UU a Ce cee ee ed MAY sd
-een ee a Oe OO
-DO ee oe oe LOM oMTe Casta y ee g
-CDs Uren coc eo eer Oe eta ce :
-Ue ee os re Re aT Ty
-PCr Mee Lo en orc rc es} fut iat sas ES
-mt Ce eee
-pees te SLA aren dg j
-© Suggests outbreak 1s not real/doesn't exist _
-, H © Example “Ebola 1s not real" :
-SRN ee et ey a a
-ed
-Ce Tue |
-7 Ce Ee a i.
-a Pie Te i ten an
-Of people”
-I :
-Det De \
-i -
-Ce Lo.
-" © Sagguets outbreek wes invented oF purposetulty spread by a company, en
-Fi another group?
-© Some examples include 7 zi |
-@ “Ebola was invented by the government” /
-OS a er i
+= eg. “reading is sexy - book promo’ is not sensitive
+
+Regional sexual slang that is seemingly innocuous
+
+= eg. “desi mom and aunty” , “chodi"
+
+= eg. “blue movies’, “Aussie kiss”, “Prince Albert”
+Text with explicit descriptions of sexual acts
+
+® @g. “erotic stories’, “romantic sex stories”, “sexy stories”
+
+Cartoons and comics that show explicit sexual images and/or acts
+= eg. “adult/xxx cartoons’, “hentai videos’ -* anime / manga pornography
+Hookups
+= e.g “girl for one night stand in new york"
+©. Strings which contain terms like "18" / "18+" along with additional context indicating adult intent
+
+= eg. Terms such as “adult” / “18” / "18+" combined with media keywords indicate adult intent: “adult
+videos” or “18+ videos”
+
+REDACTED FOR CONGRESS
+
+@ Do not rate the following as displaying Adult Content/Sexual Content. Queries / suggestions which:
+
+‘© Contain pornography film star names that can be a common person's name
+eg. “amber smith’, “amber smith photos” (pornography film star but does not contain explicitly sexual terms)
+© eg, “angela white”, “mia khalifa” or “alexa grace” are perfectly common names which should not be rated as
+sensitive c
+© Contain popular terms which are borderline sexual, but not ‘explicit
+
+2 nn “baiarbine” Seximenit collection 2018"
+@ do not rate the following as displaying Adult Content/Sexual Content. ‘Queries / suggestions which:
+
+* Contain pornography film star names that can be a common person's name
+
+©. “amber smith’, ‘amber smith photos" (pornography film star but does not contain explicitly sexual terms)
+eg. "angela white”
+sensitive
+
+ 
+
+ia Khalifa” or “alexa grace” are perfectly common names which should not be rated as
+
+* Contain popular terms which are borderline sexual, but not explicit
+© eg. “twerking”, “swimsuit collection 2018"
+
+* Seek factual, educational, or newsworthy information
+
+ 
+
+eg. “scott weiner scandal”, “prostitution preventior
+
+ 
+
+"escort meaning”
+© Seek movies with adult content or sexual undertones
+eg. “fifty shades of gray’, “les cousins dangereux”
+
+© Seek dating information
+
+ 
+
+eg. “single ladies meet foreigners’, “filipina single ladies searching for true love’, “LoveHabibi”
+
+ 
+
+© Appear to be non-sensitive without context
+e.g. “indian girls”
+
+© NOTE: For these types of suggestions, if there are contextual keywords which suggest potential child
+exploitation intent (e.g. “indian little girls photos,” or “indian little girls videos"), then rate Child Exploitation
+
+5 - PROFANITY
+
+This includes all commonly known profane words, misspellings and variations, If the suggestion includes any profanity,
+select 1 - Sensitive and the label Profanity.
+
+Profanity includes, but is not limited to:
+
+© Profane words
+© eg. “fuck”, “asshole”, “cunt, “shit”
+
+© Misspellings and variations of profane words
+© eg. “muthafucka’, “bitchass”, “furc k”
+
+ 
+
+*
+
+REDACTED FOR CONGRESS
+5 - PROFANITY
+
+This includes all commonly known profani
+
+'e words, misspellings and variations, If thi
+select 1 - Sensitive and the label Profani Smhasestonncades ay rai,
+
+Profanity includes, but is not limited to:
+* Profane words
+e.g. “fuck”, “asshole”, “cunt, “shit”
+* Misspellings and variations of profane words
+> e.g. “Muthafucka", “bitchass”, “fuc k”
+* Phonetic variations of profane words
+© eg. “phuk you"
+© Regional slang
+
+© @8, ‘wanker’, "beaver" (vagina), “take off eh! (go fuck yourself)”
+
+Do not rate the following as Profanity
+© Legitimate proper names that may appear like profanity
+e.g. “fcuk" and “talkshit" are both clothing brands
+© Strings containing words or phrases which are not considered profanity k
+© “damn” ~ e.g. “damn yankees watering hole" “damn life quotes" “damn. loving”
+
+“what the f” - e.g “excuse me what the f”
+
+REDACTED FOR CONGRESS
+
+6 - HARMFUL HEALTH CONTENT
+This includes queries / suggestions which contain health content that could lead to serious harm. If the query / suggestion
+
+string including violating health content, select 1 - Sensitive and the label Harmful Health Content.
+
+Anti-Vax_
+
+© Vaccine misinformation
+in nenuan fales hv an exnert organization should be labeled as
+
+ 
+6 - HARMFUL HEALTH CONTENT
+
+This includes queries / suggestions which contain health content that could lead to serious harm. If the query / ‘Suggestion
+String including violating health content, select 2 - Sensitive and the label Harmful Health Content
+
+Anti-Vax_
+* Vaccine misinformation
+
+© Any vaccine-related claimed that have been proven false by an expert organization should be labeled as
+violating
+
+® Vaccination directly leads to harmful health outcomes
+3 Vaccines cause many harmful side effects, illnesses, and even death
+Vaccines cause long-term harmful side effects (i.e. autism, Sudden Infant Death ‘Syndrome; (SIDS)
+Vaccines cause death or vaccines kill
+
+4#vaccineskill, #vaccinesmaim, #vaccinesdestroylives, #vaccinescauseautism, or other similar
+hashtags { ’
+
+4 Vaccines infect recipients with the disease against which they are designed to vaccinate
+® Vaccines (or their ingredients) are unsafe
+
+Vaccines are comprised of harmful chemicals/unsafe toxins
+
+Mercury in vaccines acts as a neurotoxin
+
+, &
+1 There are “hot lots” of vaccine that have been associated with more adverse events and deaths
+than others, Parents should avoid receiving vaccines from them.
+
+© Vaccines aren't worth the risk
+
+The existence of programs like the “National Vaccine Injury Compensation Program” prove that
+vaccines are dangerous
+
+© Historic incidents of vaccine injury prove that vaccines are dangerous
+
+© Vaccine recalls prove that vaccine are dangerous
+® Vaccines are not efficacious or not necessary
+
+> Vaccines are not effective in preventing the disease against which they purport to protect
+
+© The majority of people who get disease have been vaccinated, showing they don't work
+Diseases had already begun to disappear before vaccines were introduced, because of better
+hygiene and sanitation
+
+ 
+
+minatad fram mu cnuntry so there is no need
+
+ 
+
+REDACTED FOR CONGRESS
+= Vaccines are not efficacious or not necessary
+= Vaccines are not effective in preventing the disease against which they purport to protect
+The majority of people who get disease have been vaccinated, showing they don’t work
+
+© Diseases had already begun to disappear before vaccines were introduced, because of better
+hygiene and sanitation
+
+© Vaccine-preventable diseases have been virtually elirninated from my country, so there is no need
+for my child to be vaccinated
+
+= Recommended Vaccine schedules are unsafe
+
+© Giving a child multiple vaccinations at the same time increases the risk of harmful side effects
+and can overload the immune system
+
+Children get too many immunizations which poses safety risks
+© Vaccines are safer if spread apart/ spaced out
+© Infant immune systems. can't handle so many vaccines
+Vitamin C can prevent measles
+® The diseases which the vaccination targets are not dangerous, so there is no need for vaccination
+© The diseases welvaccinate against are not dangerous or deadly, including but not limited to:
+
+© Chickenpox (Varicella), Diphtheria, Flu (Influenza), Hepatitis A, Hepatitis B, Hib
+(Haemophilus influenzae type b), HPV (Human Papillomavirus), Measles, Meningococcal,
+Mumps, Pneumococcal, Polio (Poliomyelitis), Rotavirus, Rubella (German Hyleastes),
+Shingles (Herpes Zoster), Tetanus (Lockjaw), Whooping Cough (Pertussis)
+
+REDACTED FOR CONGRESS
+
+   
+
+* Vaccination is a violation of civil or religious liberties
+© Enforcing a mandatory vaccination policy/schedule is a violation of civil liberties/rights
+= Parents have the right to choose whether their kids are vaccinated
+® Patients have the right to choose what goes into their own bodies
+® Women's right to choose what is injected into her child
+= Lots of related variants of the above under the vaccination “pro-choice” framing
+= Children/Parents are not able to give informed consent
+© Enforcing a mandatory policy/schedule is a violation of religious or moral beliefs
+= Religious doctrine/teachings are not compatible with vaccination
+&= Religious-, health-, or morals-based dietary restrictions are not compatible with vaccination
+
+= God created diseases for a reason, and it is wrong to thwart God's will via vaccination
+We oie ot” Dit
+
+ 
+
+© Enforcing a mandatory policy/schedule is a violation of religious or moral beliefs
+
+= Religious doctrine/teachings are not compatible with vaccination
+
+® Religious-, health-, or morals-based dietary restrictions are not compatible with vaccination
+® God created diseases for a reason, and it is wrong to thwart God's will via vaccination
+
+= New vaccines are being developed using body parts from aborted fetuses
+
+= Cannot be both pro-life and pro-vaccine
+
+® Vaccines contain cells from aborted fetuses
+
+™ Cell cultures from aborted fetal tissue are used to grow vaccine viruses.
+
+Vaccinations are unsafe/should be feared
+
+> Content that exploits fear of needles
+
+= Content that implies that vaccination causes fainting, twitching, and/or seizures
+= Content that implies that the additives in vaccines are dangerous
+© Vaccines contain adjuvants and/or preservatives like mercury, aluminum, ete
+© There are dozens of foreign, artificial chemicals in vaccines
+Exposure to chemicals in vaccines is dangerous, particularly for the immune system of a child
+
+Vaccines are “toxic”
+
+Vaccines contain dangerous toxic substances like antifreeze
+
+Getting multiple vaccines can cause dangerous or unknown interactions ‘
+
+Vaccines can lead to dangerous adverse drug reactions, including death
+
+= Historical references to vaccine recalls or safety incidents that produced adverse reactions
+
+= Blanket statements that all vaccines are dangerous during pregnancy
+
+settlements for vaccine injury as evidence that vaccines are unsafe
+
+Anti-vaccination activism/call to action
+
+°
+
+°
+
+9°
+
+Instructions on how to file a vaccine reaction , for example with the Vaccine Adverse Event Reporting Syste!
+
+the US (VAERS)
+Information about ge!
+or “exemptions”
+
+Information about petitions or protests to support anti-vaccination positions
+
+Urging people to contact lawmakers to educate/inform/influence them on anti-vaccination causes
+
+REDACTED FOR CONGRESS
+
+Accounts of vaccine courts (ex: "National Vaccine Injury Compensation Program” in the US) paying out
+
+min
+
+ting involved with governmental bills or laws, for examples ones around vaccine "choice
+* Anti-vaccination activism/call to action
+
+© Instructions on how to file a vaccine reaction , for example with the Vaccine Adverse Event Reporting System in
+the US (VAERS)
+
+Information about getting involved with governmental bills or laws, for examples ones around vaccine “choice”
+or “exemptions”
+
+Information about petitions or protests to support anti-vaccination positions
+
+Urging people to contact lawmakers to educate/inform influence them on anti-vaccination causes
+
+Urging people to contact drug companies to educate /inform /influence them on anti-vaccination causes
+
+Urging people to bring information to doctors to educate /inform influence them on anti-vaccination causes
+
+Photos of vaccine inserts with captions urging parents to educate themselves and physicians about the
+information in them showing their safety problems or ineffectiveness
+
+Provides scientific-sounding information on the safety/efficacy liabilities of vaccines, including scientific jargon,
+statistics, and references to scientific studies
+
+°
+
+  
+
+Exagge claim: health product or intervention (MIRACLE CURES)
+
+© Creates the wrong expectation of the reader by exaggerating or overstating the impact of the product or intervention.
+Violating if this exaggeration can lead to serious medical harm.
+
+© Examples of diseases commonly claimed to be “cured” are
+a Multiple Sclerosis, Diabetes, Alzheimer's disease, HIV/AIDS, Arthritis, any type of Canced Depression,
+Anxiety, Fibromyalgia, Lyme disease.
+
+ 
+
+Common characteristics of these claims are
+
+= Often suggest “quick, guaranteed” fixes for a disease or a number of different diseases. These fixes are
+often called “miracles”, “special”, “secret”, “revolutionary”, “magic”, etc. without any references or
+citations.
+
+= Hyperbolic presentation ("I have NEVER felt better”)
+
+= Manipulation by imagery (happy people holding hands, laughing, projection of idealized relationships
+and\or lifestyle) and sound (upbeat/inspirational music).
+
+Calls to action ‘
+
+REDACTED FOR CONGRESS
+T = od 2
+Calls to action.
+* Suggesting that someone should take some sort of action, treatment or Program aimed at improving their health.
+Contains information or advice that could lead to serious medical harm
+& This label is for any content that could cause serious harm if the advice given is acted upon
+= The post includes an explicit call for or strong Suggestion to change someone's current treatment plan.
+= The post includes an explicit call for or strong suggestion to avoid standard medical care
+
+= The remedy, procedure, or intervention could cause serious harm. Harm includes physical, mental, or
+endangers personal safety.
+
+“For example, home remedies that could cause harm if followed
+
+= Promotes the consumption/sale/ purchase of products that contain anabolic steroids, chitosan, comfrey,
+dehydroepiandrosterone (DHEA), ephedra, human growth hormones (HGH), or human chorionic
+gonadotropin (hCG).
+
+© Some examples include: ‘
+© Strong suggestion that implies someone should change their current treatment plan:
+= “The flu shot doesn’t work, don't waste your money on it this year!”
+
+= "Dr. Hardin B, Jones recently revealed that chemotherapy doesn't work 979% of the time, and doctors
+only recommend it to get kickbacks.”
+
+= “Don't listen to big pharma, cancer is a fungus and can be cured with baking soda"
+The post includes an explicit call for or strong suggestion to avoid standard medical care.
+
+“Have a cold? Don't ask your doctor for antibiotics!”
+
+= “Hospitals are full of germs - never have your baby in a hospital’
+
+= “Next time you have a flu, don't go to the hospital. Try these 10 tips instead.”
+
+Conveying distrust of standard medical care
+© Results that may suggest conspiracy theories about governmental Health and regulatory agencies (e.g. CDC, FDA,
+NIH, EPA) and medical professionals (doctors, dentists, nurses), pharmaceutical companies that develop and
+distribute medicine (ex: Merck, Pfizer), or chemical companies (ex: Dow, Monsanto, DuPont).
+
+*® Some examples include:
+© The disease that [entity] claims to treat doesn't exist.
+
+REDACTED FOR CONGRESS
+Conveying distrust of standard medical care
+
+© Results that may suggest conspiracy theories about governmental Health and regulatory agencies (e.g CDC, FDA,
+NIH, EPA) and medical professionals (doctors, dentists, nurses), pharmaceutical companies that develop and
+distribute medicine (ex: Merck, Pfizer), or chemical companies (ex: Dow, Monsanto, DuPont)
+© Some examples include:
+The disease’that [entity] claims to treat doesn't exist
+= ex: poliovirus does not exist
+[Entity] deliberately suppresses natural or alternative treatments.
+[Entity] promotes medical treatments that cause what they are purported to alleviate.
+[Entity] primarily make decisions in the commercial interest of partners and/or against those of patients.
+[Entity] assists in the deliberate creation and/or spread of diseases
+[Entity] aims to keep patients from getting better.
+[Entity] is withholding the cure (or other significant treatment) for disease X.
+{Entity] fraudulently overstates efficacy of medical treatments
+[Entity] fraudulently understates the safety risks of medical treatments
+Widespread collusion between [Entities] is the primary cause of public health problems. k
+
+* May be relating to cancer or other disease treatments
+
+Health Outbreak Misinformation
+
+REDACTED FOR CONGRESS
+
+© Suggests outbreak is not real/doesn't exist
+Example: “Ebola is not real”
+
+© Suggests outbreak was invented or purposefully spread by a company, government, health aid agency, or
+another group?
+
+Some examples include:
+= “Ebola was invented by the government”
+= “Ebola was invented/spread by the government to attack/destabilize /target/ break-up a region or group
 of people”
-|
-@ “Ebola was spread by Ihe government to keep us from voting” |
-@ 7X politica ry spreading the seage to par Cantal” .’
-@ “Ebola was invented by Ihe con-puny ty make money” |
-eR a CCE Become Gn ee RL a |
-© Calls for violence against health workers who are addressing the outbreak .
-Call to attack devupt deste edi a ete) athens, trealment faciives, hospitals, 1
-Any suggestien that begithh vackers sheng of be ataused, threatened or assaulted mi cite . io
-Poy) More tar etc a ee oa Mer oy amy sg i
-being of health : l
-Some ald ee oak lhe a ee LT eS Lk) Cee 7 .
-Orr ee bs eal) ee |
-Pe ue Ce ee RCC es lS 3
-Pt UY RC ei Op 3!
-eter recom i Su 1 Cee
-m r
-i \
-j a {
-" .
-See ocr Lol CRE pti tet eT
-exempies include: ; ‘|
-a& The content is asking you to sign-up for services witht ¢ oot
-ee ee eee ee Ee Meo
-EE EEE EP
-1! .
-how ur Teg . ose
-Fae hd
-J LT tt tet te ie °
-eS
-CR Re Ve tee ag
-@ Asking for participation in medical study/research, clinical trial, orliigiffal .
-' @ Asking you to complete a survey. answer questions about yourself, & ma .
-Duty _
-. no
-" Cee Ue ea sd
-tr Ss
-‘ Te ee CR mee aR cursus |
-! . @ Gring away oF selling perianal medicanen :
-D CM a Res ear Ee ’ :
-Do not rate the following as Harmful Health Content : :
-ta te su Oe Cees eR tT a "
-a ee eee ur ae eee ee ee
-@ Stones about personal negative eapenene es related to saccinaLons 1
-Oe ere he et Oe eRe ee CU Reet le i .
-: Ded a
-. ' 1
-ue A, Ce aber Bel ete eh -
-1g an
-“i 4 ly fen te eNO ei eC ou es aa 7 i!
-wm id ee ee eae Re Pe eT ’ -
-‘ F
-ae aa mo Hi
-mM ay
-aad ve
-iit a
-WR , ert,
-OY safety and compliance with common lege! pertiasiy
-oe ages
-ena tet Tell arty: .
-a i Rt th
-1 ET
-i ae
-og ae ae ene eae ete De re
-een aaa ed hel alll el eae See
-ers ee etd) a
-5 arapmaene abl te ea Dh Ta El ee a Dai hela Ll -
-ah ial a Ra Ti Bal eh
-Wy tems nvelladie for sale off of our services as long as those retailers comply Witte iim
-. va Cy DS Rr ae Tad De ree
-_ ae
-1
-5
-me Regulated Goods content can he any of the following *
-ee
-’ x Content about non-medical drugs tothe: than aleatich or Preah slg el
-: Pee Rm mec CE Re OD Oe keke ty BS
-| b. Depicts, admits to attempn put hase fr preamutes. ales of non medical drugs Co ed iy
-Pe Re tae
-Pn Ce Ma at Ce CS non-medical angel
-PM ARR Sho came Acne eT a ee tes et) ere
-Peet se i
-Pe Ree eo PO Uo oat) *
-nt . PM edad cot? hl ee a PPL] aa
-Uy A “J
-VION ne nn hdivkduals) ot sell or trade, by which we ied
-in PA Seu a Pec tan ea td oS
-I po .
-att
-PR Me ca ete ed zi
-Te er ee] fy
-a i [ree between shines Oar
-TEE alae he to] re] 7: y
-ee Pee ow coe mi .
-- pi
-[Oe ce RT alae fas Fy
-ey po F ff to
-OT ee Te DL ela Lala BH .
-_ Xt eer ene ere Pd on
-rr inate
-se a De Pn
-associated with markuars or pharmaceutical drugs af
-eT ra eee ees Ler pret A
-4 Explicitly mentioning the product 1s for donation (between private
-po]
-y Pe tere et ne /
-fii. Listing the price, OR 7
-i iv. Asking or giving away the poduct for free between private indwiduals OR a
-7 v. Encouraging contact about the produ-t EITHER BY -
-1) Explicetly asking to bere minted, GR
-_¢ PRO Ue ae ea) -
-Z vi OR Attempting to solice: the itern fie sale, defined as
-SC SG a 7
-PCS aL ed ed
-Pe ken ene Pe ee ee ee el RnB
-pharmaceutical drugs 7
-ca oe a a ee
-Dud ur ul ee eee etre Preece CRO i td ‘a
-. manufacturing instructions for TCR eR an A Rar eee eo [7]
-4 Den aE tr ee aR ee SR ‘
-, ' RUN a Ace ee OR nak A
-! ®. Malung an attempt to sell os vade by which we mean
-’ PA Sra Ra Re eS a
-i. Asking the audience to buy OR .
-De tee hem ee 5 “ p
-Tastee ab] contact about the product EITHER BY , a
-! 4. Explicitly asking to be contacted, OR 7
-ER eke al) t i
-Oe oe La ar
-Stating that they are interested in buying Mme good, OR !
- paieataapae il ci Tamir kal alee hte eat
-oa a aul alana Lal te ahha ae aR aadesiead ahtanle a
-Or ee eM TR TPT
-. iy Gina or {9 associated with firearms. frearm parts (including : na .
--a 8 printing files or any of the above and a product unrelated to ia .
-Se et eg Mme
-| 1. Explicitly mentioned the product 's for sale or trade, OR |
-ii. Asking the audence tu buy, OR ,
-id iil. Usting pace or noting product 1s free Z
-Ww Encouraging contact about the product CITHER BY
-ly F pS dr eee or eld | |
-1 ib Paes Ske een ee) I
-? v_ Making an attempt to solicit the stem for sale, defined as 1!
-‘S bMS uy Sir aie or a Ae acer ed .
-Pe CU ir ta ae Leo D
-Per te ihe CR CUCM tu i .
-government agency teg Phe Geparirent fire Department, etc ) '
 
-1
-| f Re On Ur oe eS a eS aa) , '
-'- a. Mentioning of depicting the burnan eran. uni ar blow AND mt.
-eA \ Ne oC a i CS eC a ed re i
+in “Ebola was spread by the government tO kee te COT
+Health Outbreak Misinformation
 
-Vg Lanting a pace or expressing wall:ngriess te discuss pre a |
-teen ee ay dee ROR aC GRRE CeO A CUP ego yn!
-: a
-eee i Pau RUC tu aE eo Do] :
-ae ania aida lle dal |
-“ i D Ce eed aa
-t :
-Oe Me Eo] ae .
-i f
-' a
-mn r —
-SE vhonachanveleianiabarion .
-4 Ree,
-- eee ch Leable cress
-1 = OO Te ee
-i a .
-ie Slacstion (e.g., marijuana london’, ‘kd mexico’) :
-2 if oe Me
-. ins Oe ta uu kuna te abe er
-ss ds for sale’, Tooking for xanax, ‘weed trade’) .
-t ol
-: {. t a: .
-“a O
-ts label 6 - Other is for quenes / suggestions which are nut covered ST he Tee tk
-| ee a Re Sroka oe ee ee fo
-De td eg 7
-‘fl .
-a] you sefect this label, you must provide a detuied Jes npliun in the comment box explaining) re
-ee i eet er een
-De Une Re ee OR SS oa
-. :
-| |
-in. - Acceptable ©
-“ = nee ee UR pe Cr RO 1
-irt@
-‘ = 1
-ae eee ur a ee el CTY ae :
-2 Hal ff
-an Ce tee ee RE EL a
-= es
-i Stiamn yankees watering hole” “damn tite quateq"* " 2y" i
-* ;
-Ay. cuse me what the ~ eit:
-th ae
-{ARR ; ee) 4.
-: * *
-Tt . at ] HHI "OO,
-’ i a Aa ee 4
-JNA Taner 1
-ogi hepe i he when the query / suggestion does not contain any content thet is sonality,
-De oth eat aint Runt ut he Lat not sensithe. Coa
-Ss t
-ed .
-Re ee 7
-: ® quenes / suggestipns containing wer fut phages whith are not LUnsidered profanrty 4
--— Pie: ie ae cal ie a i “damn lowing” -
-, ce ee ee
-|
-o —_ '
-/ 5 .
-: Example Ratings ;
-ee a ae
-eel -. D -
-re a
--y noes are Ter ee
-| ea
-(Oe ee eg tothe 7 pba. 0 a
-UT ae is
-ae el ae ene FT nad Sg + The string does net app s .
-is phdawagMakeohbcapeeds 1-5
-so 1 - Sensitive Parents . pile pen ee,
-7 ely
-a re aeeennend-s Par eed ot) a.
-“ Caos! (coral See han
-ee : Ve”
-. Cg HY} | Potneery ~ ™ bynes -
-sf obest yt ha caeh Seen onal coe
-- sos? Se] 7 f°
-Ss ; a Ee
-. : ‘oer ao.
-a Lenny Co.
-— .
-ot +t
-oc ES ay
-+4 Prana seahsetiphs taal a
-mei” Yu
-a rorreria tad. al...
-ne route shad be ated OS bese
-eee Ct PRR pein ont beitiepe poy 7
-; eee on) _.
-Cede) oT ad PO ee dT
-aid Per Mea au ee To een
-a Cree oe acorn Pies een
-. . Pree Sooner ry oe
-—_—_ 1- Senstve ca ee Boreal Tae Pte te re
-i On Og rt eo | on
-‘ =
-a re rn ey aa ai Pee fateh
-ein] eo i ee Tee e ry
-er re! ras a aR telat
-_ detec SE eon ne Tp
-~_ mahal ed ie habaenpeyeretrs ll
-. = ony a * ae : we we cateetaal -idtepencently senaitive, thie: ve
-a 7 BREA SALA ie peat eres Page me
-+ 1- Seratree Pr Poe PR eet
-eet
-: — El ipoaptati wy SUT en,
-7 eer a SR Me te TT ey
-— ae ; Pe
-J csi 0H De Ce Leribeweidpabein dlc:
-a y bee
-i ee eke
-Pomeaed shows that this shing qgereans
-..
-bade inant anne
-. pido Fo fdas
-de = oe
-My
-Bandas 1-1 ee
-vd Si Leetebtl i
-meyer
-a — Prelate elise rp tial a .
-Ri ge .
-lf’ td pr - we eS td Pegs
-LET a uc
-3 bassline Pd ot iy
-a Pid rn] oa + The strirg 1s not exphcstty sesame in ell
-7 oe ag Pour] oy Peo mero ey A
-7 Cry Pe TT a
-to Ee
-a ‘roe wep
-Ee Brereton
-Ped D Peed tt) . Uru aad iil ttalabeeiosd
-eran en BET Eire tte
-rt Pern ay Pe - eh iii Fb aio ly rn .
-1. The vr ag ea popes name Legg AP an
-7 Pe eat eS ee) Piel sy . Orne et ky cn
-et re Pa ll
-a Poorer arn. kor ty
-Pt Pe . ate? Sa aoe Deahiiiiaded an
-er mtd
-F bic Leenniholal aaeaan Mpbae pietee wenn eter
-- Lae . . _.
-dy Cre ba eh ee ebiey soiree aa
-3 tee Eons ey aT ob ayeat BE a) are z
-oe : ” i ine Fre Site bet Le.
-p Pad petty + proeet leer pry ys
-. 7 a ee Tea obs chet ¥
-‘ahaha aiiaaieiias peti Fiveorel dence parehin lg
-“Wy ead o paginas
-he tera tro nn
-eabien eniches Con peer tty Ly te
-oy Lontg: Ge have hyphens, but would stil Shama
-‘= ery ( rea z
-1% The sinng 8 ‘
-: : 1 :
-4 Ho Boeke
-Poesy 7 ey
-' arg stor eins
-|= = |. nee ¥ Thesuing ROR
-‘io — ben -
-: ph ae  -
-' ee.
-eT red aoa
-i -
-i aa
-one Nene arg an Ce ad ‘
-my ealaiaiant . Ce .
-reer
-— ‘ . ee
-a 7)
-“a 7 , 5
-2 = | re
-Ee. - a Sei
-Loe 5 rer anit eas I :
-a |e we ; COs o alee
-oo 7 = oo ; oe a a cory (@) Se Le cemalieh
-“ a ; _ 5 7 ra reste
-. tho gee i ar as Anat
-co . cs . he? a) ta
-= ee ee © | j_
-A ee oe ee oe oak atime
-TOR a
-June tienes aes OU ee
-faves Peasy erate er asia e a oo
-ee er Tt a po
-rere en erat er et O i: .
-en en err ae we
-pie meet eid tthe < pt
-ee et bee gd Fr:
-ne Q
-LU Bud ine 1 encth ealeinnb-emighie-adheclmh plese ¥
-blindeti inanh dind iy lyse eneksbleh vpn tony ne 0
-Sateen ia) heed ee
-Cl pe alter hens Ch 7)
-- Disease lnascastn gah nathan and Sah sal
-Cy Wl integrity ieee | |
-YORU De rect]
-ma le the cos i)
-policy violating? ri)
-" " ay
-Loop in policy (ityle) & mR Integrity on-call take quick m
-PMM (Julie) re action in blocking ©
-oe a ' 5
-Are we O
-TA NLP figure out why
+© Suggests outbreak is not real/doesn't exist
+© Example: “Ebola is not real”
 
-— ° PS
+© Suggests outbreak was invented or purposefully spread by a company, government, health aid agency, or
+another group?
 
-have a
-reasonable O
-SERP? . LL
+Some examples include:
+= "Ebola was invented by the government”
 
-i] aoe
-Brockist/ Keyword Q
-a SCT fall source oT}
-ete cal take oe
-. mao but ne TA figure out why we fell O
-; , (an)
-. ue
-No better a Quality issue. fix na w
-«cywords Systematic fashion
-| EES) uploaded a file in the group: Search Integrity - Ciamate —
-Change Escalation. a
-cree]
-Creating this group to coordinate and manage all responses for the potential risk of
-| ol o
-a“)
-iT
-US a few public press incidents (Vox, NYTimes) this past week about aoe ee i ke Pa
-=a thange, and we've been getting direction from org leads to ensure Search is high oO
-quality on this topic. bd O
+= “Ebola was invented/spread by the government to attack/destabilize/target/ break-up a region or group
+of people"
+
+“Ebola was spread by the government to keep us from voting”
+= °X politician is spreading the disease to gain contro!”
+= “Ebola was invented by the company to make money”
+m= “The flu is being spread by the health agency to make money”
+* Calls for violence against health workers who are addressing the outbreak
+© Call to attack/disrupt/destroy medical convoys, workers, treatment facilities, hospitals.
+© Any suggestion that health workers should be abused, threatened or assaulted in circumstances related to their
+work, including commuting to and from work, involving an explicit or implicit challenge to their safety, well
+being or health. Wis
+> Violence can be physical: the use of physical force against another person or group, that resultf in physical,
+sexual or psychological harm.
+
+ 
+
+Violence can be psychological: the use of power, including threat of physical force, against another person or
+group, that can result in harm to physical, mental, spiritual, moral or social development.
+
+= Includes verbal abuse, bullying/mobbing, harassment, and threats,
+
+HEALTH Commerce
+© Posts that are trying to sell you on any health related product or service (feels like an ad or promotion).
+
+© Some examples include:
+® The content is asking you to sign-up for services without offering information/content
+
+= The cmatant deecrihec hacic business information without giving any information relevant to health
+
+REDACTED FOR CONGRESS
+HEALTH Commerce
+
+© Posts that are trying to sell you on any health related product or service (feels like an ad or promotion).
+> Some examples include:
+
+The content is asking you to sign-up for services without offering information/content
+
+The content describes basic business information without giving any information relevant to health
+
+Asking for participation in medical study/research, clinical trial, or legal lawsuit
+
+Asking you to complete a survey, answer questions about yourself, take a quiz, or share personal
+information
+
+Advertisements for health insurance or life insurance
+
+Content is a business or product testimonial
+
+= Giving away or selling personal medication
+
+Testimonial for drug/medication,
+
+Do not rate the following as Harmful Health Content:
+
+© Results that question vaccines, but do not focus on any specific myths should be labeled as non-violating
+Ex: Results that promote a wholistic/natural approach to medicine
+© Stories about personal negative experiences related to vaccinations
+© Exaggerated claims that do not lead to serious medical harm. Generally claims about weight loss/diet are non-
+violating. ®
+© Ex: “Lose 10 Ibs/week running*
+© Calls to action that do not lead to serious medical harm
+
+© Ex: “8 glasses of water a day will increases Brain Power and provide more energy.”
+
+REDACTED FOR CONGRESS
+
+7 - REGULATED GOODS
+
+Policy rationale: To encourage safety and compliance with common legal restrictions, we prohibit attempts by individuals,
+manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade non-medical drugs, pharmaceutical drugs,
+marijuana, firearms, firearm parts, ammunition, explosives, and 3D printed files to firearm and firearm parts between
+private individuals on Facebook. Some of these iterns are not regulated everywhere; however, because of the borderless
+natuuna af sui eameeunity we tevin enfarre aur policies as consistently as possible. Firearm stores and online retailers may
+7 - REGULATED GOODS
+
+Policy rationale: Toencourage safety and compliance with common legal restrictions, we prohibit attempts by individuals,
+manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade non-medical drugs, pharmaceutical drugs,
+marijuana, firearms, firearm parts, ammunition, explosives, and 3D printed files to firearm and firearm parts between
+private individuals on Facebook. Some of these items are not regulated everywhere; however, because of the borderless
+nature of our community, we try to enforce our policies as consistently as possible. Firearm stores and online retailers may
+promote items available for sale off of our services as long as those retailers comply with all applicable laws and reguiations.
+We allow discussions about sales of firearms and firearm parts in stores or by online retailers and advocating for changes to
+firearm regulation.
+
+Offensive Regulated Goods content can be any of the following:
+
+1. Content about non-medical drugs (other than alcohol or tobacco) that:
+
+a. Co-ordinates or encourages others to sell non-medical drugs
+b. Depicts, admits to, attempts purchase, or promotes sales of non-medical drugs committed by the poster of the
+
+content or their associates
+
+c.
+
+Promotes, encourages, coordinates, or provides instructions for use or make non-medical drugs
+
+d. Written or verbal admissions to personal use of non-medical drugs, UNLESS the content is posted in a recovery
+
+context
+
+2. Content that depicts the sale or attempt to purchase marijuana and pharmaceutical drugs
+
+a. Mentions or is associated with marijuana or pharmaceutical drugs, and
+
+b. Makes an attempt to donate (between private individuals) or sell or trade, by which we mean:
+
+iii
+iv. Asking or giving away the product for free between private individu
+
+Explicitly mentioning the product is for donation (between private individuals) or sale or trade or delivery
+OR
+Asking the audience to buy, OR
+Listing the price, OR
+als OR
+Encouraging contact about the product EITHER BY
+1. Explicitly asking to be contacted, OR
+
+2. Including any type of contact information
+
+Aka ham fr eala defined as
+
+ 
+
+REDACTED FOR CONGRESS
+2. Content that depicts the sale or attempt to purchase marijuana and pharmaceutical drugs
+
+a. Mentions or is associated with marijuana or pharmaceutical drugs, and
+
+b. Makes an attempt to donate (between private individuals) or sell or trade, by which we mean:
+
+<
+
+vi
+
+Explicitly mentioning the product is for donation (between private individuals) or sale or trade or delivery
+oR
+
+Asking the audience to buy, OR |
+Listing the price, OR
+
+. Asking or giving away the product for free between private individuals OR
+
+Encouraging contact about the product EITHER BY
+1. Explicitly asking to be contacted, OR
+2. Including any type of contact information
+OR Attempting to solicit the item for sale, defined as:
+1. Stating interest in buying the good, or
+2. Asking if anyone else has the good for sale/trade
+
+¢. This applies to both individual pieces of content and objects primarily dedicated to the sale of marijuana or
+pharmaceutical drugs ;
+
+3, Content that attempts to offer, sell, gift, exchange, or transfer: firearms (including explosives), firearm parts (including
+ammunition, or lethal enhancements or promote or otherwise provide access to 3D printing or computer aided
+manufacturing instructions for firearms or firearms parts between private individuals defined as:
+
+a. Mentions or is associated with firearms, firearm parts (including ammunition, lethal enhancements, explosives,
+
+3D gun printing files or any of the above and a product unrelated to firearms, and
+
+b. Making an attempt to sell or trade, by which we mean
+
+iii.
+, Encouraging contact about the product EITHER BY
+
+Explicitly mentioned the product is for sale or trade, OR
+Asking the audience to buy, OR
+Listing price or noting product is free
+
+1. Explicitly asking to be contacted, OR
+2. Including any type of contact information
+Making an attempt to solicit the item for sale, defined as:
+1. Stating that they are interested in buying the good, OR
+
+REDACTED FOR CONGRESS
+3, Content that attempts to offer, sell, gift, exchange, or transfer: firearms (including explosives), firearm parts (including
+ammunition, or lethal enhancements or promote or otherwise provide access to 3D printing or computer aided
+manufacturing instructions for firearms or firearms parts between private individuals defined as:
+
+@. Mentiéns or is associated with firearms, firearm parts (including ammunition, lethal enhancements, explosives,
+3D gun printing files or any of the above and a product unrelated to firearms, and
+
+b. Making an attempt to sell or trade, by which we mean
+
+Explicitly mentioned the product is for sale or trade, OR
+
+Asking the audience to buy, OR
+
+Listing price or noting product is free
+iv. Encouraging contact about the product EITHER BY
+1. Explicitly asking to be contacted, OR
+2. Including any type of contact information
+v. Making an attempt to solicit the item for sale, defined as:
+1. Stating that they are interested in buying the good, OR
+2. Asking if anyone else has the good for sale/trade
+
+vi. AND is not posted by a Page representing a real brick-and-mortar store, legitimate website, brand, or
+government agency (eg. Police Department, Fire Department, etc.)
+
+4. Trade (buying or selling) of human organs and/or blood where trade is defined as:
+a. Mentioning or depicting the human organs and/or blood AND
+b. Explicitly mention human organs and/or blood are for selling or buying OR
+¢. Listing a price or expressing willingness to discuss price.
+
+5. Encouraging contact to facilitate the trade of human organs and/or blood
+
+6. Content that attempts to sell animals on the platform UNLESS when sold by
+a. Brick-and-mortar entities OR
+b, Animal rehoming entities or shelters
+
+7. Content that attempts to sell, poach, buy, giveaway endangered species and their parts.
+
+Examples:
+
+© a drug name AND a location (e.g,, ‘marijuana london’, 'Isd mexico’)
+
+REDACTED FOR CONGRESS
+
+© a drug name AND the name of any messaging service (e.g., ‘kik potdealer’, ’ wicker cocaine’)
+‘@ mantinnina ar danicting the dnig name AND term(s) that indicate an attempt to buy. solicit or trade (e.g, ‘iso opium’,
+Examples.
+
+© a drug name AND a location (e.g., ‘marijuana london, ‘Isd mexico’)
+* a drug name AND the name of any messaging service (e.g, 'kik potdealer’, ' wicker cocaine’)
+
+* mentioning or depicting the drug name AND term(s) that indicate an atternpt to buy, solicit or trade (e.g, ‘iso opium’,
+‘steroids for sale’, ‘looking for xanax’, ‘weed trade’)
+
+8 - OTHER
+
+The label 6 - Other is for queries / suggestions which are not covered by any of the above criteria. If the query / suggestion
+string includes any indication of sensitive content that does not fail within in any of the existing Sensitive categories, then
+select 1 - Sensitive and the label Other.
+
+When you select this label, you must provide a detailed description in the comment box explaining why you selected
+Other instead of the other labels. Include in the description exactly what you viewed which let you to believe that
+the query/suggestion is sensitive, and a recommendation for a new sensitive category.
+
+2 - Acceptable ¥
+Select Acceptable when the query / suggestion does not contain any content that is sensitive
+
+[i28n] A query / suggestion string which is in English is considered acceptable if it is not sensitive. Do not select skip for
+English strings.
+For examples
+© “uk calendar girls”
+© queries / suggestions containing words or phrases which are not considered profanity
+“damn” - e.g. "damn yankees watering hole” “damn life quotes” “damn loving”
+
+© “what the f” - e.g ‘excuse me what the f”
+
+ 
+
+REDACTED FOR CONGRESS
+2 - Acceptable
+
+Select Acceptable when the query / suggestion does not contain any content that is sensitive
+
+[i18n] A query / suggestion string which is in English is considered acceptable if it is not sensitive. Do not select skip for
+
+English strings.
+For examples
+
+© “uk calendar girls”
+
+© queries / suggestions containing words or phrases which are not considered profanity
+
+“damn* - e.g. “damn yankees watering hole” “damn life quotes" “darn loving”
+
+“what the f” - e.g "excuse me what the f”
+
+  
+
+Example Ratings
+
+Language Suggestion String
+
+1 a MRT
+
+applicable)
+The string is ina ak other than the language of the w
+
+2 man #4 <= > +. man o too way nee
+3 chat with best ladies
+
+4 shemales in oman
+
+5 lesbian tongue videos
+
+6 Bay dickley hole
+
+7 gay fuckvideos
+
+8 whitetrash women
+
+° Bay kiss videos only
+
+Label Decision
+
+0- Skip
+2-Acceptable — »
+1-Sensitive ’
+
+1- Sensitive ¥
+1- Sensitive ¥
+1-Sensitive ¥
+1 - Sensitive v
+
+1- Sensitive »
+
+Sensitive Category (if
+
+3-Hate Speech
+
+4 Adult Sexual
+Content
+
+4 Adult Sexual
+Content
+
+4. Adult Sexual
+Content
+
+3. Hate Speech
+
+4 Adult Sexual
+Content
+
+DACTED FOR CONGRESS
+
+Explanation LU
+
+This example should be rated O - Skip, as the string does no
+anything recognizably sensitive, and includes foreign langue
+does not match the language in which we are currently rati
+(English workflow)
+
+ 
+
+The string does not appear to be sensitive
+
+ 
+
+“Shemale” is an offensive term for a transgender waman
+Transgender women fall under a protected category, theref
+string is considered Hate Speech. While “shemales in oman’
+potential indicate intent to find a sexuai service or adult c
+late Speech ranks higher than ASC on the label hierarchy.
+
+The string is sexual in nature
+‘The string is sexual in nature
+
+The string is sexual in nature.
+“White” and “women” each refer to a protected group, then
+is considered hate speech
+
+While “gay’ is not independently sensitive, the string refere
+sexual content
+
+aii i eile
+ 
+
+Example Ratings
+
+Language Suggestion String
+: MAM # 4G c= & » seman o tog way nee
+chat with best ladies
+& shemales in oman
+5 lesbian tongue videos
+6 gay dickley hole
+7 gay fuckvideos
+8 whitetrash women
+. gay kiss videos only
+20 gay teen boys videos
+u sex and the city
+2 Birls assets
+3 japanese massage videos
+4 twerkers paradise
+as 100: return of xander cage full hd movie
+“16 jack 1994
+y hayley anderson nester photos
+jonathan fields
+» es misérables showtimes san francisco
+wre
+
+Sensitive Category (it
+Label Decision cago
+0 Skip .
+2 Aeceptable
+1+ Sensitive ~ 3+ Hate Speech
+‘4 - Adult Sexual
+1- Sensitive ~ Adult
+1. Sensitive © but Sexual
+1 Sensitive © Adult Sexual
+1. Sensitive ¥ 3-Hate Speech
+4+ Adult Sexual
+7 finda * Content
+
+¥ 0+ Child Exploitation
+
+  
+
+2-Acceptable — ¥
+
+2-Acceptable
+2-Acceptable — ¥
+2-Acceptable
+2-Accoptable >
+
+2- Acceptable v
+
+—,
+
+«
+
+‘
+
+<
+
+Explanation
+
+    
+
+The string i m2 language other than the language of the workflow
+This example should be rated O- Skip, as the String does not contain
+anything recognizably sensitive, and includes foreign language that
+does nai match the language in which we are currently rating
+(English workflow)
+
+The string does not appear to be sensitive
+
+Shemale’ is an offensive term for a transgender woman
+Transgender women fal under a protected category, therefore ths
+string 's considered Hate Speech: While “shemales in oman” may
+
+otentially indicate intent to find a sexual service or adult content,
+Fate Speech ranks righer than ASC on the label hierarchy
+
+ 
+
+ 
+
+The string is sexual in nature
+The string is sexual in nature
+
+The string is sexual in nature.
+
+“White” and ‘women’ each refer to a protected group, therefore this
+'s considered hate speech
+
+While “gay” is not independently sensitive, the string references.
+sexual content
+
+The string references child sexual exploitation. Since we cannot be
+sute “teen” refers to 18 of 19-year olds, the correct category «5 Child
+Expioitation
+
+ 
+
+The string refers to a mainstream television show.
+The string is not explicitly sexual in nature
+The string is not explicitly sexual in nature
+
+Aside search shows that there ss a song called “twerkers paradise’. so
+this is not considered a sensitive string.
+
+Though "xxx" often refers tg topics of an adult nature, a side search
+shows that this string refersta a flm and is not sensitive in nature
+
+The string contains no sensitive content
+
+The string contains a proper name, which does not appear to be the
+name of a porn star, or otherwise sensitive in nature
+
+The string contains a proper name, which does not appear to be the
+name of a porn star, or otherwise sensitive in nature
+
+The string is @ proper name Although “les misérables” ts French and
+the rest of the string is in English, this 1s the title of a famous play and
+does not contain anything sensitive
+
+The string is a first name with jast name initial. This is a proper name
+
+REDACTED FOR CONGRESS
+
+ 
+Usnguage ‘Suggestion String Lapel Decision Sensitive Category (If a2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+      
+
+applicable)
+Ihe suring fererences criia sexaai expioitaceon: smice we tanner oe
+10 gay teen boys videos 1-Sensitive ~ 0-Child Exploitation» sure "teen" refers to 18 or 19-year olds, the correct category is Child
+Exploitation,
+a sex and the city 7 2- Acceptable . v The string refers to a mainstream television show.
+2 gitls assets 2-Acceptable \ The string is not explicitly sexual in nature
+B Japanese massage videos 2-Acceptable = ¥ ¥ The string is not explicitly sexual in nature.
+; Ces \_ Aside search shows that there is a song called “twerkers paradise”, 50
+a Swerkers paradise py Atesptabie this snot considered a sensitive sing”
+xandercagetullhid movie aL iS Though “wxx” often refers to topics of an adult nature, a side search
+5 vou: return of xander cage fullhd movie 2- Acceptable shows that this string refers to a film and is not sensitive in nature
+16 jack 1994 < 2- Acceptable v » The string contains no sensitive content,
+of The string contains a proper name, which does not appeartobethe Cf)
+at hayley anderson nester photos 2+ Acceptable name of 3 porn star, or otherwise sensitive in nature =
+5 The string contains a proper narne, which does not appear to be the
+1 jonathan fields 2- Acceptable name of a porn star, or otherwise sensitive in nature. |
+The string is @ proper name. Although “les misérables” is French and
+19 Jes misérables showtimes san francisco 2. Acceptable - © the rest af the string is in English, this is the title of a famous play and |
+does not contain anything sensitive
+The string ss a first name with last name initial, This is a proper name
+20 michael h 2- Acceptable - which does not appear fo be the name of ¢ porn star, or otherwise
+: sensitive in nature
+; Taf The string refers to 8 movie which has sexual undertones. However,
+2 fitty shades darker 2- Acceptable ¥ ~ this string is nat considered adult content/sexual content. oO
+natiswoningin tenagitfowsmeudnot sprorstngewm — OG
+Arabic + jpaid jas! - mansoura news 2- Acceptable » English. Both Arabic and English are considered ok to rate in the oO
+Arabic workflow The string does not appear to be sensitive in nature.
+Arabicspeaking users often search using transiterations. Raters LL
+24 Arabic noor al-sabah 2-Acceptable —¥ working in (18n workflows should not skip for English, ar for special
+cases of transliteration such as this one. a
+The correct spelling is actually “mont-saint-michel’, but even though
+th sggenign sting acts cormet pens att” °°"
+understandable (i. the meaning has not been altered). This idea
+25 French mont saint michel 2-Acceptable also applies to names like “anne-sophie” or “jean-jacques”, which ke
+hhave hyphens, but would stil be considered non-sensitive proper
+names oO
+The string is missing the proper accents, but this does not change the <I
+meaning of the text, which does not appear sensitive in nature. Oo
+2- Acceptable = ¥. © The same idea applies to a String such as “cafe” when rating in French.
+a | Sree ne ape a grbutch for example Even though the correct speting seafe LL
+including an accent, we can still understand that the meaning af the
+string is not sensitive. ~w
+27 Indonesian igo live telanjang 1 Sensitive Sy cc dun Seat \ The string indicates intent to seek sexual content ("naked")
+
+‘The string is missing the proper accents, but this does not change the
+meaning of the text, which does not appear sensitive in nature:
+
+tu ¥ The same idea applies to a string such as “cafe” when rating in Frenchy
+2% Romanian maria cret 2- Acceptable siden applies to a string such as cate: « a
+
+ees Dutch for example. Even though the cored! spalling ae
+
+ 
+
+ 
+Typeahead integrity Rating Guidelines v2.0 (08/07/; 2019) GED
+
+ad
+
+‘suppsition Stor
+ay Teh BoA Wi
+
+sexcand tho city
+pirlvasens
+
+Japanese massage videos
+tivethiers paraise
+
+joa. rotuin of rander cage full hid movie
+nck 1998
+
+nayiey andersan nester photos
+
+fits
+
+ 
+
+jonas
+
+los misdrables showtimes san francisco
+
+mich
+
+fifty shades darker
+
+wbie
+
+bic
+
+vipa sae mansoure news
+
+o0t al-saban
+
+mont saint eichel
+
+Avec Mapa
+
+{pet Oren
+
+2 Senstve
+
+2+ Acceptable
+2- Acceptable
+2-Acceptable
+
+2- Acceptable «
+
+2- Acceptable
+2-Acceptable
+
+2- Acceptable
+
+2- Acceptable
+
+2- Acceptable
+
+2- Acceptable
+
+2 Acceptable
+
+2- Acceptable
+
+2- Acceptable
+
+2. Acceptable
+
+ 
+
+station
+
+explanation
+crite
+
+ 
+
+sure “teen” Feters to TE oF TH year olds, the corrset Category
+Explostatioe
+
+<T 10.4 mainsttearn tetevisvon show
+
+   
+
+The sting, 1s Not expitestly sexual in nature
+
+The string is not expleitly sexual in nature
+
+  
+
+ 
+
+{site search shows that there
+topics of an adult nature, aside search
+to A film and ¥s hot sensitive in nature
+
+ 
+
+ong called "twerkers paradise”, 30
+
+ 
+
+ 
+
+© The string contains no sensitive content
+
+ 
+
+“The string contains 9 proper name. which does not appear to be the
+fame of 9 porn star or atherwse sensitive m nature
+
+‘he string contains a proper name, which does nat appear to be the
+
+ame of a porn star or otherwise sensitive in mature
+
+The string ia proper name Although “les misérables” is French and
+© the rest of the string isin English this s the title of a famous play anc
+
+does not contain anything sensitiv
+
+The stang, ame wath last name initial This Isa proper name
+Which dees not appear to be the name of a porn star, or otherwise
+
+Sensitive n nature.
+
+ 
+
+ 
+
+     
+
+   
+
+ 
+
+The string refers to a movie which has sexual undertones. However
+this stung © not considered adult cantent/sexuzal content
+
+call =a
+Roters working in 18n workflows should not
+
+» English Both Arabic and English are consid
+Arabic watkfiow The strag dons Hot appear to be
+
+ 
+
+ 
+
+ 
+
+op for strings with
+ed’ok to rate in the
+satwe m nature
+
+    
+
+ 
+
+ 
+
+ 
+
+Arabic speaking wiers atten search wing eansiterations Raters
+© working in iin workflows should not skip for English, oF for special
+Eases of transteration such as thys one.
+
+ 
+
+  
+
+   
+
+siz0 apphes to names like “anne sophie. or jean.
+have hyphens, but would stil be considered Nen-sensitive proper
+
+ 
+
+‘The string is missing the proper accents, but this does not change the
+meaning of the test, which does not appear sensitive mn nature
+
+ 
+
+ 
+
+~The same ies applies to aktrng such as “cafe” wen rating in French
+Erbach Yor example, Eversnough tne covet apesing 5 eae
+including an accert, ve can stl understand thatthe meariing of the
+
+ 
+
+REDACTED FOR CONGRESS
+
+Ww fe S Mein
+
+ 
+
+fergation
+
+ 
+
+[REPRECATED) [CURRENT]
+
+‘Typeahead Integrity Rating
+Guidelines v2.0 (98/07/2019)
+
+ 
+
+[CURRENT] [DEPRECATAED]
+Typeahead Integrity Rating
+Guidelines v2,0 (68/67/2029)
+ 
+
+Bi integrity on-call action e.
+
+Il Typeahead team action
+
+no
+
+ee Le eet yes
+policy violating?
+
+ 
+
+eee aan Ua tas eee ee eld
+
+BT After clarification deemed to be violating, aL dL
+
+or decide we should update policy
+
+   
+
+Are we
+
+bg nag
+ciel taC Bcd et |
+Ure
+bor stelir]s)
+SERP?
+
+Btocklist/ [i Keyword
+Car Bed
+Integrity on-call take
+
+TDs yal ale)
+Truly
+
+ 
+
+  
+ 
+ 
+ 
+
+   
+ 
+
+Dr Tscg
+ality
+
+  
+ 
+  
+
+OMe ge a ae)
+Dea Tae
+
+REDACTED FOR CONGRESS
+
+   
+
+ 
+HE (Search) uploaded a file in the group: Search Integrity - Climate
+Change Escalation.
+July 22, 2020 -@
+
+Purpose:
+Creating this group to coordinate and manage all responses for the potential risk of Climate
+
+Change misinfo for Search. o
+wY
+Lu
+Context: x
+There has a few public press incidents (Vox, NYTimes) this past week about FB's stanceon Z
+climate change, and we've been getting direction from org leads to ensure Search is high Oo
+quality on this topic. - oO
+oa
+Oo
+Planned Actions for Policy Review: 5
+https://fb.quip.com/5tfAAASZ9WFZ Ww
+ke
+Oo
+Climate Change - Search Integrity Response a
+Quip Ww
 a
-O
-Jus vcoreW id eRe [Rete 1 elt Vetae Pads Lard uu
-a
-7 O
-¢ Climate Change - Search Integrity Response a
-a= Quip lw
-Lr
-a i 3 Comments 1 Share Seen by 27
-!'| _—_—_ ; 7
-oe hi, io OL ale) |
-ha ae Somborne
-i fa Pee RON RUC Rut mea Ue me Eee
-wit :
-Fabia |
-AD iy. . — ,
-a ; :
-"Nan
-eae NT A
-7 rena Sar OGM abeut £B's stance on
-There has a few public press incidents ‘vox i” armen
-climate change, and we ve been getting Fr
-Ter SOULE Od
-Ayer War aed kl
-Ree Xe Rat Pa ae
-Climate Change - Search Inteqrity Response
-a a
-re . re
-| Cee ee |
-approach
-Lo
-|| P| oe Ce change ole.
-(oo
-to Y)
-|
-Dei i
-TRIE oie) Cec ¢ UC Le ree Coe SLCC 9
-approval): rd
-e (climate change:clinate change | Q
-© (.global warmingiglabal warturey ? rnd
-* .(.4globalwarming/#globalwarming } es
-ON Re et ee a}
-© .(.#@climatereality/#climatereality } ra
-to turn off suggestions/hashtags related to global warming or climate change O
-Ce To BU Oe 4
-O
-ey like to know your opinion on this! a
-Like 42w Edited
-PO . ; ; nT ie
-Climate Change - Search Integrity Response
-Q .;
-eet tee Caeebe bay
-ro ay
-See t to
-a YY we are ready ta pull thie trae: Preawelet a. know if yau're ok with this
+O«6 3 Comments 1 Share Seen by 27
+a) Like @> Share
+a |e are ready to pull the trigger. Please let us know if you're ok with this
 approach.
-(cL Coe -
-P| oid Wane) Ln ca] 9 Sr climate change videos
-i PS)
-a
-Y)
-|| PL . 2
-aM Taa ih oe] Cet 1019 Uncen 0) Sas Dae a? Peer n C10 96) (aR iT
-approval): ag
-ee) | ©
-e (climate changeichimate change | 3
-* (.global warming!global waroung } re)
-¢ .(.#globalwarmingi#tglobalwarming. ) rs
-¢ .(.#climatechange/#climatechange }. a
-(im)
-CIN ok SARE kL ae Lu
-|
-to turn off suggestions/hashtags related to global warming or climate change ©
-yet | RU RSE AML oan a
-TTC TRU ae olla Cora ROA UIE Wd
-Like 42w Edited
-» Climate Science Information Center (CSIC) FYI .
-ebruary 9. @
-Pr Brave ho eke 0 ae 160
-
+Like - 42w
+= 7 - FYI, plan to apply blue-verified filtering on climate change videos
+Like 42w O32
+
+FYI | am proposing the following regexes to Wordy block (will wait for policy
+approval):
+
+* .(.climate change/climate change.).
+* .(.global warming/global warming.).
+SEMEN AS:
+
+There has a few public press incidents (Vox, NY
+climate change, and we've been getting directio'
+quality on this topic.
+
+Times) this past week about FB's stance on
+n from org leads to ensure Search is high
+
+Planned Actions for Policy Review:
+https://fb. uip.com/5tfAAASZOWFZ
+
+Climate Change - Search Integrity Response
+
+@  auip
+oO 6 3 Contments 1 Share Seen by 27
+> Like @ Share
+- we are ready to pull the trigger. Please let us know if you're ok with this
+approach.
+Like 42w
+a | | FYI, plan to apply blue-verified filtering on climate change videos
+Like - 42w 032 B
+oo
+FYI | am proposing the following regexes to Wordy block (will wait for policy Oo
+approval): z
+* .(.climate change/climate change.). 3
+* .(.global warming/global warming.). w
+© .(.#globalwarming|#globalwarming.). o
+© .(4#climatechange|#climatechange.). Q
+© .(.#climatereality/#climatereality.). Lu
+to turn off suggestions/hashtags related to global warming or climate change Oo
+except the exact match. <
+cc wit like to know your opinion on this! im
+Like 42w Edited x
+Chats
+Climate Change - Search Integrity Response
+Quip
+
+3 Comments 1 Share Seen by
+
+O«6
+a) Like @ Share
+;_— . ee
+we are ready to pull the trigger. Please let us know if you're ok with this
+approach.
+
+Like 42w .
+
+fs FYI, plan to apply blue-verified filtering on climate change videos
+
+Like 42w 09
+0
+
+FYI | am proposing the following regexes to Wordy block (will wait for policy
+approval):
+
+¢ .(.climate change/climate change.).
+
+¢ .(.global warming|global warming.).
+
+¢ .(.#globalwarming|/#globalwarming.).
+¢ .(.#climatechange|#climatechange.).
+¢ .(.#climatereality/#climatereality.).
+
+to turn off suggestions/hashtags related to global warming or climate change
+except the exact match.
+
+cc will like to know your opinion on this!
+
+REDACTED FOR CONGRESS
+
+Like . 42w - Edited
+
+» Climate Science Information Center (CSIC) FYI
+February 9 - & .
+
+Climate Science Search Query POC

@@ -1,0 +1,1074 @@
+Redacted for Congress
+
+XRayOC 20192 clip-based model
+
+Content Integrity.
+
+TL;DR: On June 14th, we have deployed a first version of our video clip-based model,
+XRayOC 2019, for all FB traffic at upload time across all FB videos. This model features
+several concepts, among them, a new first person shooter concept aimed to provide signals
+that would help detecting new incidents like the NZ shooting. These concepts are available
+via Video Understanding Repository.
+
+What’s new in this model
+
+We introduced 3 new concepts into video space: vclip_car_crashing ,
+velip_cock_fighting , and vclip_first_person_shooting . Our new model is a head inside
+XRayCore trunk (https: //f.workplace.com/notes EE 20m ouncing-xrayvideo-
+2018a-model/356661298419058/), finetuning from comp_13_sum_4 layer.
+yy Why clip-based?
+
++ Historical problems: Towards the end of H1-2018, who worked on violence video
+classifier, noticed that we started to observer a lot of carcrashing and cockfighting in
+prevalence data. Our team worked with to collect a small set of data and train two
+logistic regression concepts in our XRayOC frame-based model. However, the problem
+didn’t really get solved, as the model either learn to notice the appearance of two
+roosters, or just recognize cars. Earlier this year, we did an exercise to label prevalence
+data to see how many of them fall into these two categories, and we noticed that this is
+still a problem that we need to solve. We think that we can leverage the 3D-
+
+convolutional neural network to capture the action of cockfighting ahd carcrashing.
+
+¢ Chirstchurch incident: We worked with multiple partners (Graphic Violence, AI Video
+Understanding, etc), and we realized that we have been missing first-person-shooting
+(FPS) detection. We think there’s a strong need of developing such concept to support
+
+our Real Time Integrity team with their operational system, so we also decided to train
+this concept.
+
+Redacted for Congres
+e
+
+Data collection
+
+°
+
+°
+
+Redacted for Congress
+
+mid-
+
++ For carcrashing and cockfighting, we worked with PDO team to get contents enqueued
+
+and labeled using biased sampling from our old frame-based concepts, starting from
+
+February.
+
++ For first-person-shooting, data collection was more challenging. Starting from late May
+7th, we get labels for contents for FPS. We leverage multiple existing systems on
+Facebook systems:
+
+We collected a number of videos by searching for Facebook Pages with the SERP
+console and then scraping the videos from these pages. We searthed for relevant
+topics such as paintball, airsoft, firearms competition, police bodycam videos, ete.
+Using the SERP console to find Faces directly did not work very well because only
+a small number of results were returned per search. Searching for pages in this
+manner was more effective because a page may have tens to hundreds of videos.
+
+Another resource we used to find videos is IRIS (Integrity Review using Indexing
+Service), which leverages the Unicorn search indices. Using IRIS/Unicorn, we can
+search directly for videos using keywords for Facebook content and hashtags for
+Instagram content. For Facebook videos, we can search specifically for first-
+person/GoPro/helmet cam videos. An example of a query we used is
+https://fburl.com/unicorn/2tenw77h. Each search can return up to 5000 videos,
+and this is limited by Unicorn.
+Redacted for Congress
+
+© Note that we did not search for the NZ video explicitly. We'll double check with our
+list of known NZ videos to see if we actually did have NZ videos into our training
+data or not, but to the best of our knowledge, we didn’t use it for training on
+
+purpose.
+
+o We added around 1K video clips (user-created) for known FPS games such as Call
+of Duty, Overwatch, CS-GO to be hard-negative samples.
+
+© We filter our training data to be less than 2-minutes since we use video-level label
+
+and apply to all clips used for training.
+-
+
+* * k
+Modeltraining _
+
+~ + “
+* Pre-training: We understand that video-deduplication is a challenging problem.
+Therefore, we started with the most naive approach: using md5. In the later part, I'll
+explain why it doesn’t work well, and what are a better solution.
+
++ We leverage Deep Vision framework to train our trunk on production 3D-Resnext50.
+Since this is a multi label training with some videos missing labels, we use sparse
+sigmoid cross-entropy loss. The production model was trained in f119151736. We
+finetune the last couple of layers in this network, starting from comp_13_sum_4 blob.
++ The video sampling strategy is similar as in production: Every 2-seconds, we sample
+every other frames, and choose the first 4-frames as the input of the network. Then we
+apply video-level label for each iteration.
+
++ The average precisions for carcrashing, cockfighting, and first-person-shooting are:
+@.45965177,0.6286166,0.6067463 , respectively.
+
+Evaluation
+
+At Content Integrity, once we have a visual concept deployed into production, our problem
++ . k
+teams will consume these signals in the following manner:
+« As we mentioned earlier, for every 2 seconds, we classify using 4 frames. Every 10
+seconds, we aggregate 5 classification scores using max, median, and mean method. We
+
+call this clip-level score. i :
+ef ‘
+* For VOD (video-on-demand), we aggregate all clip-level scores again using the three
+
+main aggregation methods, and we call this video-level score. Most clients will consume
+
+Redacted for Congress
+
+this video-level scores into their meta-classifiers, which is a classifier who'll determine if
+a content is violating or not for each problems.
++ For live-video, we'll write clip-level (10-second clip) scores directly into storage (VU
+Repository) and trigger clients every time we write successfully as this is currently the
+wn setup in Video Understanding Engine.
+
+oO In the production system, we know:
+
++ Our production model is a quantized version of the original model that we train.
+
++ Our downstream clients will use video-level scores directly for most use cases.
+
+Therefore, we'll analyze the video-level signals in two datasets:
+
++ Original evaluation dataset.
+
++ Amore fresh dataset. This is really just a new set of videos that we continuously collect
+for evaluation purposes with the hope that the new data coming in will be less likely to
+be similar to our training dataset. We will only do this evaluation for FPS since this has
+
+higher priority for evaluating with more data for understanding the model quality
+better.
+
++ Note: For carcrashing and cockfighting concepts, we'll compare with our frame-based
+concepts. Our goal is to deprecate our frame-based concepts to enable deploying frame-
+based model faster in future, on par with our XrayOC image model.
+
+Redacted for Congr
+Redacted for Congress
+
+For simplicity, we'll show the result of using max aggregation at video level, and median
+
+aggregation at clip level. We call this median_clip_max aggregation.
+
+Original evaluation dataset
+
+FPS:
+The area under curve (AUC) of ROC curve is 0.8664. Below are the P/R and ROC curves.
+VCIIp_Tirst_person_snooting_meaian_ciip_max r/K
+
+ 
+
+ 
+
+ 
+
+ 
+
+wn
+
+” 10
+
+©
+
+; a
+
+Dos)
+
+Oo
+
+O < 0.64
+
+5
+
+OQ :
+
+Oo 0.4
+
+oO
+
+—
+
+O 0.2
+
+©
+
+TO — P/R curve
+Y 9000 0.2 04 0.6 08
+
+ 
+
+10
+Redacted for Congress
+
+VCIIp_Tirst_person_snooting_meaian_ciip_max KUL
+
+ 
+
+true pusnive race
+
+ 
+
+oo+
+0.0 02 04 06
+
+False nacitive rate
+
+ROC curv
+
+ 
+
+ 
+
+—— ROC curve
+
+ 
+
+08 10
+Carcrashing
+
+1 agregaten —-POCAUE ome. ROC AU,
+2 max_clip_max 0.30352 0.98518
+max_clip_median 0.25834 0.98514
+4 median_clip_max 0.25888 0.98429
+5 median_clip_median 0.23904 0.98303
+k
+
+In the following charts, original (in blue color) curve represents frame-based concept, and
+
+backfilled (in orange) curve represents the clip-based concept.
+
+Redacted for Congress
+car_crasning_meaian_ciip_max /K
+
+ 
+
+ 
+
+ 
+
+ 
+
+”
+
+@
+
+—
+
+oO)
+
+Cc
+O ;
+
+a
+
+5
+—
+
+oO
+
+~
+
+O — P/R curve original
+
+Oo —— P/R curve backfilled
+
+0 ——— +
+
+TO nono 0.2 04 0.6 08
+oO Rerall
+~~ Carcrashing: P/R curve comparison of frame-based and clip-based models
+
+ 
+Car_crasning_meaian_ciip_max KUL
+
+ 
+
+ 
+
+truc pusiuve race
+
+ 
+
+ 
+
+— ROC curve original
+—— ROC curve backfilled
+
+ 
+
+ 
+
+ 
+
+0.0 + T T T T
+0.0 0.2 0.4 0.6 08 1.0
+
+False nasitive rate
+
+Redacted for Congress
+
+Carcrashing: ROC curve comparison of frame-based and clip-based models
+Redacted for Congress
+
+Cockfighting
+
+wrun
+
+A
+Aggregation
+
+max_clip_max
+max_clip_median
+median_clip_max
+
+median_clip_median
+
+8
+
+ROC AUC
+(frame.
+based)
+
+0.84576
+0.81324
+0.81404
+0.74833
+
+c
+
+ROC AUC
+(clip-based)
+
+0.959
+0.96106
+0.96196
+0.9608
+CockTignting_meaian_ciip_max r/K
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+ 
+
+ 
+
+ 
+
+Recall
+
+Cockfighting: P/R curve comparison of frame
+
+” 10 4
+”
+©
+= 0.8
+od) *
+Cc
+Oo
+O 5
+2
+ww 2
+Oo °
+— 04
+TO
+®
+Oo —— P/R curve original
+TO —— P/R curve backfilled
+v oon 0.2 0.4 0.6 08
+
+based and clip-based models
+
+10
+COcKTIgNtiIng_meaian_clip_max KUL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 10 |
+
+®
+
+a
+
+OD) ve
+
+Cc
+
+Oo ;
+
+oO
+
+| 8
+
+Q bos
+
+To
+
+® 02
+
+oO —— ROC curve original
+© 00 | ROC curve backfilled
+TW 00 02 04 0.6 08 10
+ab) False nasitive rate
+Fresh evaluation dataset
+
+We used one week of labeled data for this evaluation.
+
+For FPS, we got around 2k contents with labels:
+
+ROC_AUC = 0.91495
+
+Redacted for Congress
+VClIp_Tirst_person_snooting_meaian_ciip_max r/K
+10
+
+08
+
+0.6
+
+04
+
+0.2
+
+— P/R curve
+
+ 
+
+0.0
+
+   
+
+ 
+
+ 
+
+0.0 02 04 06 os
+Recall
+
+Redacted for Congress
+
+PR curve on new eval dataset
+
+10
+ruc pusuve rave
+
+Redacted for Congress
+
+VCllp_Tifst_person_snooting_meaian_ciip_max KUL
+
+ 
+
+ 
+
+ 
+
+ 
+
+104 7
+0.8
+
+0.6
+
+04 &
+
+0.2
+
+— ROC curve
+0.0
+0.0 0.2 0.4 0.6 08 10
+
+False nasitive rate
+
+ROC curve on new eval dataset
+Redacted for Congress
+
+More analysis on FPs and FNs
+
+We took a lot at the evaluation dataset to understand why the model was making mistakes on
+all three concepts. Here are some examples with our explanation for each concepts (mainly
+focus on false positive - FP, and false negative - FN). We will try to categorize them into
+common cases as we do observe some patterns of FPs and FNs in both original and fresh
+evaluation dataset. We consider a content to be false positive when our signal score is high
+but get labeled as negative, and a content to be false negative if our signal score is low but get
+labeled as positive.
+
+*
+We eyeballed a lot of FPs and FNs, and we think that our model sometimes make a better
+decision than our rep labeling (see the list of examples below), so in fact the model is doing
+
+quite decent.
+
+WARNING: The contents below might contain graphic violence. Viewer discretion is advised.
+FPS
+
++ FP:
+Redacted for Congress
+
+° 452499634901094, 1421746564576717: This is somewhat considered FPS except
+the person wearing bodycam didn’t fire their weapon.
+
+© 195572491124117, 1763798177016199, 642573659435039, 1479224525496259,
+1074161659301823: These are indeed FPS - all in shooting range, so there’s a
+problem with quality labeling.
+
+ 
+
+° 757749764322572: There are a lot of 3rd person shooting perspective vs 1st person
+shooting perspective.
+
+© 10154193493431852: We never really see the gun from the police officer, so we
+didn’t learn this right. There’s gunshot present. The AED model in Video
+Understanding Engine only capture the gunshot signal score atbas (see
+https://fburl.com/langtech/91n6dxm6).
+
+© 566451300181755, 2068637626479813: This should be labeled as positive. Again,
+gunshot_gunfire signal from AED is not high: 0.0197, 0.03 and 0.498 respectively.
+
+© 935584746601531, 2068637626479813, 1025589710934367,
+10154080302733664: This is similar to the previous case, but the gunshot signal
+was a little bit higher: 0.4381, 0.498, 0.6048, 0.6435.
+
+© 1037255302989683, 760563904140226: FPS but the gun was never fired.
+© 10154489582223732: We never really see the gun fired, but we can infer that the
+police officer did fire his weapon.
+
+° 150344069107670: We should consider this as positive. If this is not real gunshot,
+our acoustic detection system should be able to differentiate this rather than
+
+leaving the visual model to learn this, especially with our production frame-
+sampling mechanism.
+
+© 224169031590957: first-person carwash ...
+
++ FN:
+
+© 1043171922541322, 1775512619345470: These are clearly videdgames ...
+
+© 2005960259436760, 110233993372746, 1066813513335965, 10156761234981424,
+2058939074376355: These should be labeled as negative since they are third-
+person perspective.
+
+© 1003009213195604: This was edited, and even watching the footage, we didn’t
+really see gunshot fired, so this is a controversial sample.
+
+Redacted for Congress
+
+© 10205343622226843: This is another hard sample. We don’t really see the gun for
+the majority of the video, but there was gunshot. We should probably considered
+
+this sample as negative as we can capture gunshot through acoustic event detection.
+° 2042777779343499, 1121762651168458, 260797567670408: Not sure why these
+are labeled as positive sample when there were no gunshot fired.
+
+© 1658613417748417: This video is probably indeed FPS. However, we pretty much
+don’t see the gun quite well in the video.
+
+10154333865096130: This is also hard. We can't really tell if the police officer fired
+their weapon. From the text, it looks like the homeowner fired at those officers. We
+
+don’t really see the gun of this officer either, so we think this should be a negative
+sample.
+
+2087468144830123: This is indeed positive sample, though we,don'’t really see the
+FPS present much, so it’s possible that our sampled frames didn’t catch them well.
+
+°
+
+979876282153391, 531264043931536: This is another interesting example. It is
+indeed FPS, but we should distinguish this from guns on land vs guns in the water.
+We should not ignore this for different reasons.
+
+Redacted for Congress
+542638122561762: This was the incident back in 2015 of the two reporters in
+Roanoke, Virginia. This is an incident that we would capture the content. In this
+particular example, this is hard to catch in production because the shooting
+happens really fast, and there is a good chance that our frame-sampling didn’t catch
+those frames. A second hypothesis is because of the windows splitting, with our
+
+production frame-pro¢
+
+ 
+ 
+
+ing (resize and crop to get the frame down to 112x112),
+
+there is a good pos ity that we would miss the gun. I'll do a follow-up check on
+this particular video to see why we scored very low on this video.
+
+© 1753596228214660: This is a close-up FPS, which we should have capture. I'll do
+more debugging on this sample as well.
+
+© 1992060911048222: This should not be labeled as positive as this looks like an ad
+
+from ammunition store. There was no gun-shot either.
+* Scoring live videos:
+© Thanks o i - looked at contents with high FPS score in live video.
+
+© There are a lot of false positive samples where the footage was coming from
+
+dasheam in a car. We are aware of this problem as we do have a decent amount of
+
+Redacted for Congress
+
+law enforcement officer in our training data.
+
+o Example: 2047107862251776, 670408496771722, 2288931204702120,
+140110387175164. 2
+Carcrashing
+
+* FP:
+
+© 899859696863442, 496223207579240, 189805198666015, 791272874543202,
+546266105779784: We didn't see the car-crashing incident itself, but we do see
+dismemberment and visible innards. We do capture gory and mAD contents in our
+XRayOC frame-based model, so for downstream client, it should be fine. However,
+we'll revisit these examples to evaluate if we shall change our definition of
+carcrashing more. Based on our labeling taxonomy, it seemed to be positive sample.
+
+© 10155563370198562: This one is probably a hard example. We do see multiple
+people are injured yet some of them seemed to be alive. This is still considered as
+
+Redacted for Congress
+
+positive from our labeling taxonomy.
++ FN:
+
+© 407105813423531, 448300042593952: These are clearly cockfighting videos, and
+even that it should be negative for cockfighting, but got labeled as positive
+carcrashing. To make sure that we didn’t make any mistakes here, we looked at
+
+their job ids: 634977426999440 and 634977426999440 respectively. We'll follow-
+up with PDO team on this.
+
+© 2308512196085975, 2035230543266139, 1019293531593415: These are what we
+really miss. There was not a lot sign of bloods, or visible innards. We'll investigate
+more into why our model didn’t catch this case.
+
+© 166929754319771: This video is a shooting scene video, and not carcrashing.
+
+© 264730337748628: This video is indeed carcrashing. When the incident happened,
+there was an explosion, and the visual signal to check if any person were harmed
+was incredibly hard to spot.
+
+Redacted for Congress
+Redacted for Congress
+
+Cockfighting
+
+° FP:
+
+© 256397441931706, 1510562725747288, 148115262862762: These are indeed
+cockfighting, but we only label positive only if one of the animals are injured or
+appear to be death. This is hard to catch since a lot of the positive samples are some
+what in a similar setting.
+
++ FN:
+
+© 588310181672556: This is very fast, and there’s a good chance that we didn’t catch
+the segment when the other rooster appeared to be death.
+
+© 819795338388874, 134393804307984: This should not be considered as positive
+label from our taxonomy as none of the roosters appeared to be heavily injured.
+
+Original NZ video ®
+
+Here’s the prediction of the original NZ shooting video. We perform our classification for
+every 2-second. Here’s the result of all classification if it was in production as of today using
+median_clip_max aggregation. In the below chart, the x-axis represent the clip index, and y-
+
+axis represents the classification score.
+
+EJ
+ 
+
+ssoaiBuo4y JO} pajoepey
+Note that we didn’t search for NZ video directly in our training data. However, we will double
+
+check if all copies of NZ videos were in our training dataset or not.
+
+Existing Problems & Future Work
+Here are some main problems that we surface, and what we should focus on:
+
+« Training data deduplication
+
+o For XRayOC image, we have a continuous curation pipeline, where we run
+clustering algorithm and perform label aggregation, which gives us more confident
+in our train/eval split. We use PhotoDNA for such task. For video, this task is
+harder. Our first solution with md5 does not work well, as we see a lot of identical
+
+videos with different edits (text-overlaid, cropped, distortion, etc).
+
+o We will start looking deeper into video deduplicdtion. Some of the first solutions
+that we think will be better are using existing systems at Facebook: Ridge,
+
+Redacted for Congress
+
+Videntifier. We plan to work with Video Compression team in H2 to use this to
+
+clean up our training data.
+Our metrics on car-crashing and cock-fighting look suspicious and too good to be
+true. We did perform eyeballing result and see a lot of disagreement in terms of
+labels. Therefore, we think once we are able to deduplicate properly, we'll have a
+better understanding on the model performance, and it will guide us to figure out
+how to improve our clip-based model.
+
++ Label taxonomy and concept training
+
+e We learn that our first labeling taxonomy is not granular enough. We only check if
+there’s a real gun fired in a first person perspective or not. We should think about
+including more questions to get better granular labels, and also enable multi-label
+
+selections for our PDO labeling queue.
++ Label quality
+
+o As we mentioned above, there were a lot of examples mis-labeled in these main
+
+categories:
+= Games video labeled as positive. *
+«= 3rd person perspective is marked as 1st person perspective.
+
++ No gun visible but labeled as FPS.
+
+Redacted for Congress
+
+© We've reached out to PDO and we'll work with their team to ensure the quality.
+‘There were quite a lot of problems when we eyeballed FPs and FNs, so it was quite
+hard for us to debug the real FPs and FNs in the first iteration.
+o We've reached out to PDO and we'll work with their team to ensure the quality.
+There were quite a lot of problems when we eyeballed FPs and FNs, so it was quite
+hard for us to debug the real FPs and FNs in the first iteration.
+
+¢ Better audio understanding
+
+© It is clear that with visual signal only, we will miss a decent amount of contents. At
+Realtime Integrity team, once they work on a new classifier, learning both from
+visual and audio would benefit their system drastically. Today, our acoustic event
+detection signals in Video Understanding Engine (VUE) are still missing a lot of
+events, or the quality of detecting gunshots are still not clear to us. We would love
+
+to work with partner teams owning this system and improve audio recognition.
++ Define more operational metrics
+
+© Today, we evaluate our concept performance through how we serve our signals
+through VUE. These are served in both clip-level and video-level scores. Therefore,
+we evaluate our concepts based on this assumption, mainly on video-level scores.
+We plan to spend more time to understand which metrics would benefit the most to
+
+Redacted for Congress
+
+both our team and downstream clients (Graphic Violence, Realtime Integrity).
++ Acquire clip-level label
+
+°
+
+Another main problem with using video-level label for each videos is that we are
+missing out a lot of potential good training data. We plan to build a new system that
+can smart select clips from videos (loudest clips) and acquire the labels rather than
+using its entire video. This way, our training data will be more granular, and the
+label is very likely to be more accurate.
+
+* Surface signals to all IG traffic
+
+© As part of v10 deprecation, AI Video Understanding team has already been working
+with IG Well-being team to transition from v10 to XRayVideo 2018a. Once this
+transition is complete, these concepts will be available to all IG videos (both VOD
+and live).
+
++ Deprecate carcrashing and cockfighting frame-based concept
+
+o We have been working to deprecate these two concepts to support the deployment
+of new XRayOC frame-based model. We have a new candidate model ready, and I'll
+share the result in my next note. We have worked with Video Infra team to enable
+
+Redacted for Congress
+
+online A/B testing for all plugins across VUE platform, and we'll be starting to use
+this to support all downstream clients in Content Integrity to support a new
+deployment of XRayOC video frame-based model.
+Redacted for Congress
+
++ Incorporate the new signal into downstream clients
+
+> We will work with Graphic Violence and Realtime Integrity team to incorporate
+
+these signals into their meta-classifiers. cc} land
++ Work with our outreach team to collaborate with law enforcement
+
+© We would love to acquire data from law enforcement, mainly their bodycam
+footage. We've just received the first copies of these from USG. Our team will
+
+evaluate and figure out how to best use these footage for our system.
+
+We hope with these work can be done, our clip-based model will increase its performance.
+Our team’s goal for clip-based model is to fill the gap from what our frame-based model
+cannot learn, so we'll work on identifying problems that required action recognition together
+
+with vertical teams in Content Integrity.
+Acknowledgement
+
+This is a very challenging project, and our work is just 1% complete. we would like to thank
+
+all partners who have supported our team on this project.
+
+. eG the PDO labeling reps at Sao Paulo, Gdansk, and Hyderabad sites.
+
+«+ IntegrityAl (previously IntegrityCV)
+
++ AI Video Understanding - AML
+
+Please let me know if I’m missing your name in this, I apologize in advance and will correct
+that.
+
+ 
+
+ 
+
+ 
+
+Redacted for Congress
+- probably for you 3
+°
+
+| think you're right. &
+a: Haha my bad. Let me fix this @
+
+Like Reply - ly
+
+| sharebot Games ML Werking Group
+
+® It doesn't work &
+
+Redacted for Congress
+
+Like : Reply
+
+ 
+
+H.-:: work EE Very exited to support OC clip-based model inside the XRayCore trunk. Looking forwards to
+the comparison with frame-based carcrash/cockfighting concepts!
+
+ 
+
+Like - Reply - ty Q
+EE @ we did compare this with our offline data as | mentioned above. It's probably a lot better though in a
+not-super-clean dataset. | assume what you meant is how this would reflect in our downstream clients in graphic
+violence? If so, yes. We'll work with them on refreshing their classifier in a very short future.
+Like Reply ty o
+ee: that what | meant, it's would be great to see the impact to downstream clients.
+
+ 
+
+Like - Reply - ty oO:
+Yes that what | meant, it's would be great to see the impact to downstream clients.
+
+me Reply
+
+Pointer to the car crashing data you wanted!
+
+ 
+ 
+   
+   
+      
+
+Great work everyone! Exciting to see the improvement even with regard to the original NZ video. Looking
+forward to the future work too and get this productionalized for Live.
+
+Like - Reply ty c
+
+ 
+
+|Great work! Thanks for sharing your learnings here. Looking forward to seeing where this goes!
+
+  
+
+Like - Reply
+
+ 
+
+Do we know what percentage of FPS videos are actually violating? My concern is that we build a model that
+detects FPS videos very well - but if a very small percentage of FPS videos are actually violating, it doesn't make sense to
+‘enqueue jobs based on this score.
+
+ 
+
+   
+
+Like Reply - 1y
+Redacted for Congress
+
+ke Reply
+
+| | PE cor: know the exact volume at this point, and we think this is going to be incredibly small
+
+ 
+
+Our first stage is to provide visual understanding (and probably improve audio recognition) for such detection syster
+At this stage, our focus is not to determine if a video is actually violating or not. Our next stage is going to buy a
+classifier which will gather all knowledges that we know about such content and will determine if it is violating, and this
+will be the front-line detection for such violating videos, and this effort is led by IEEE team. Note that for all of these
+
+effort, we are tackling live videos. Real Time Integrity Working Group is probably the best place to learn more about our
+work in terms of operationalizing live video problems.
+
+For VOD, we are in the discussion with Graphic Violence team to incorporate such signals into their video violence
+classifier (cE We expect tis to be done in 03
+
+3
+Like - Reply - ty Formatted °
+
+ 
+
+Cool, thanks for additional info! Sounds like I'm jumping the gun & the next step will be to incorporate
+these learnings into a violating classifier.
+
+Like - Reply ty °
+
+Really interesting work, and great to see the prog}
+
+   
+
+°
+
+nG
+|Great write-up! Any chance you could re-attach the Unicorn query link? Looks like it's stale. I'm also
+
+working on collecting egocentric videos (in a different context)
+
+Like
+
+Reply - ty Oo
+
+|® Followed up offline : )
+Like - Reply» ly
+Like Reply - ly
+eee...» if the NZ video were uploaded today - is the new model going to flag it automatically for
+remove or removal? E.g. does it hit the min thresholds?
+Like Reply ty °
+
+This model aims to learn the visual understanding of first-person-shooter perspective which all of our computer vision
+systems have not been able to capture previously; therefore we are not aiming at enqueuing contents directly using this
+concept. There are multiple reasons:
+
++ Today, mining for training data is incredibly hard for this concept, and labeling is also very tricky. We have
+completed our first iteration about a month ago, and we learned there were a lot of videos like bodycam infront of
+cars, So we would have a lot of FPs. We are working on multiple angles to solve this problem from cleaning up
+data, acauiring more data, and train our clip-based model more effectively.
+
+From Content Integrity, we aim to build a classifier (led by Real-time integrity team - cc [EEE to build the
+enforcement classifier. To my best understanding, we are working on live video problem together with multiple
+partners from both enhancing infrastructure to content understanding for incredibly rare types of contents such
+as shooting incidents, SSI, ete.
+Today, in the absence of the classifier as the team is working on it, we do enqueue contents with very high threshold
+(0.98), and the NZ videos might not make it to the queue due to video quality, and CO capacity. ©
+
+5 Bac
+
+Like - Reply - ly - Formatted
+
+Hi Hi do we have an updated answer to this question? E.g. today would the NZ video be nG
+flaged as it was live?
+
+Redacted for Congress
+
+Like - Reply - ty
+Here's how | derived an answer for you:
+
++ After | test with the original model (where max score across the entire video is 0.96 as | wrote in my note), | took
+some more known copies of NZ videos and re-stream this video. A lot of known copies of NZ was altered with
+different dimensions, overlaid text, therefore the max score that we get from the current production model were in
+different range in [0.8 - 0.96]
+
++ The limitation of the production models it is somewhat biased towards dashcam, where we observed a significant
+amount of law enforcement videos in our training data.
+
++ We are limited in labeling resources from Community Ops (cc. and with such high false positive rate,
+we have to leave the threshold really nigh. Today, CO can only re\ 100-200 live videos reported for this report
+type, so we'll have to do better job on our modeling end.
+
+ 
+
+Therefore, the answer is likely no at the moment (and yes only if we get the exact original video) for the FPS concept
+itself. That being said, our progress tor turn this answer to a yes:
+
++ Today, we are really short of "proxy" positive data given the super low volume of such category. We aim to solve
+this problems by:
+
+© Work with law enforcement outreach (cc iis to collect more
+data. So far we got some data from National Counter-Terrorism Center) but the volume is in-significant. We're
+working on partnering with London MET police to acquire more of their office training data.
+
+© Prepare better training data. Since we don't have the ability of localizing the "positive" part of the video, we
+have to come up with a better algorithm since we can potential mark an 8-hour long video to be positive even if Ba,
+20-second of that matters.
+
+Like - Reply - ty Edited - Formatted
+i ply ly Bo
+
+|| HE ovelated to the FPS concept, the new graphic violence Live video model we launched early this week
+consistently scores the NZ video in the .90s, well above the report threshold of 0.66.
+
+For this reason, the answer to your question is yes. If re-streamed today, the NZ video would be proactively enqueued
+for human review.
+
+Redacted for Congress
+
+| have confirmed the original NZ video was not in training, however, | will need to do further analysis before confidently
+confirming that no copies of the video were in the training set. ©
+1
+
+Like - Reply - ly - Edited
+Redacted for Congress
+
+ 
+
+| To clear the confusion, the FPS model alone described in the note is a pure visual model. I] mode!
+is referring to a meta-classifier that consumes FPS signal among with other visual and acoustic features (such as
+gunshot, machine gun, etc), which we think should be a model that we aim to use in production. In Content integrity,
+this is the two-stage system that we've been using which proved to be very effective in other high-prevalence problems
+
+Like Reply ly ° '
+
+JAnd do we have the capacity to review it? E.g. would it be enqueued and reviewed and
+taken down?
+
+Like Reply » ty
+
+lis there more to read about the new GV live video model?
+Like Reply ly
+|| HERE ys. The Gv live video model scores the NZ shooting high enough that it would be
+
+‘enqueued for review into a queue with a 5 minute SLA. If reviewed correctly, it would be taken down following the
+review.
+
+‘have not yet published a note on the new model. | plan to have this out by the end of the quarter (ie. within the next
+two weeks). é
+
+ 
+
+Like Reply - ty
+
+oO:
+
+Like - Reply - ty - Formatted

@@ -1,142 +1,242 @@
-"W
-gateway groups qanon
-pe oo
-Concerto Feedback Group eee
-PRET 2
-0a che ce tL Ca iy soe ; ; . i . ' - ; : en Me
-fe Patea hn en a . ’ 7 7 ’ i,
-Pesan) CN a - re re
-alganthr.- ee rT ce . 5 5 ;
-This article has actionable feedback TTY) ET Pe adc bee taking actor
+gateway groups qanon"
+ey > w &
+
+Concerto Feedback Group ee
+October 8, 2020 - &
+
+These changes are new, small inconveniences piled atop frustrating user-experience
+decisions that Facebook has been making for more than a decade. But they are the latest
+example of how Facebook tries to shape every user's experience through black box
+algorithms—and how this approach harms not only individuals but the world at large.
+
+This article has actionable feedback around (many of which we may already be taking action
 upon):
-au ee plic i
-» Lack of Control. Seeing groups that are unas Atos TTT ant [ce oa SL Taam
-choices for comment ranking not being sth ky. eee Cee e mn Gh Conse eM oLcLs| ep)
-chained outwards through correnunit, te ep)
-Payal (key) 2) 1a) CL while mestare ntraduced to cormspiracy theones ae
-by word of mouth, Peer lar ta sPiteRee care ACaeae aCe Un and communities ad
-often reinforce the dangerous 'deas or lead them far aoepet 7)
-Quotes + Potential Action Items rd
-LACK OF CONTROL O
-io{Uiae tates We 1eoie (col) | oy 0H At tt Se a eS MRL CCL eA
-rey ar MPLS] yet d] orto Re] f0) 0] ©) 3 hE eee a a eta ad
-peves eM Rela R018) 9. We oy a Gace) as O
-raven gsY=T-1 ats] NM UE= 10 ACO SSS CSN 8) oa Ck Saree oe oS RA ae C8] 9 do
-eve VN RUISCMO: Cale (ite s<t 500] Ws) ot REET Le B® LC) eel oh te
-Fire WCU elie Nm CLOE MAL ST ALGON #08 Saree Oo Ce eed a
-Having that kind of content also appearin ,our potonal newsfeed (which has not yet been ae
-folled out to me) is apparently even worse “It was creepier than | expected to see ‘related
-discussions’ hyped next to a short comments thread between my mom and my brother ©
+
++ Lack of Control: Seeing groups that are unsolicited (including groups they explicitly leftt),
+choices for comment ranking not being sticky, likewise even intimate conversations being
+chained outwards through community view.
+
++» Danger of Rabbit Holes: It discusses how while most are introduced to conspiracy theories LL
+
+by word of mouth, recommendations engines and the chaining of content and communities m~
+often reinforce the dangerous ideas or lead them far deeper.
+
+SS
+
+Quotes + Potential Action Items
+LACK OF CONTROL
+
+But those are groups that we, the users, sought out and joined. Unsolicited content from
+other, unsubscribed groups is not always welcome. | myself noticed in recent weeks that
+posts from groups | am not a member of appeared when | tried to use Facebook's
+increasingly user-hostile app to engage with the handful of friends-and-family groups | do
+regularly use. And those out-of-the-blue posts include content from two groups | explicitly
+and intentionally left a month prior because they were making my life worse.
+
+FOR CONG
+
+| Having that kind of content also appear in your personal newsfeed (which has not yet been
+rolled out to me) is apparently even worse. "It was creepier than | expected to see 'related
+discussions‘ hyped next to a short comments thread between my mom and my brother
 about her latest post," tech writer Rob Pegoraro (who has occasionally written for Ars)
-tweeted after experiencing the new feature. (He added that Facebook's obsession with <<
-engagement "needs to be shot into the sun," a sentiment with which | agree ) ‘an
-* Doublecheck that at a minimum we're not recommending groups people have’ “* —* ae
-: ee ant tent to st eee tT Percy ~
-3
-TT eT Den The Rt th ld eal
-Tee
-2 eee
-i
-: ee ee RU ee rRelUeL Monee TArem (eiAL 8) Unsolicited content from
-ther, unsubscribed groups is not always welcome | myself noticed in Te ees }
-Dhl Pe eu tried to use Facebook's }
-i, ftveasingly user-hostile app to engage with the handful of frends-and- family Pope) BRe Le) |
-Reet ot mr RUS out-of-the-blue posts include content trom two groups | ete
-and intentionally left a month prior because they were making my life worse
-i,
-ME Having that kind of content also appear in your ROR eR Aree CSCO R eu Rt
-A tolled out to me) is apparently even worse. “It 44s croepurt than expected to see ‘related
-IN discussions’ hyped next to a short commerts thread between my Mom and my brother Op)
-‘ Pare eee eves ee LANA Telos (el es asionally written for Ars) 7p)
-| tweeted after experiencing the new feature iHe waded Uist Fur eboar's obsession with aa
-| engagement "needs to be shot into the sun." a sentiment cete .hich Lagree.) rad
-« Doublecheck that at a minimum we're not recommending groups people ae eles ©
-e Consider introducing a way to stop receiving in-feed unconnected content. This resonates r
-1, with me, IG has started showing follow recommendations in between stories. They provide O
-‘wa rR Rie Eee CC OER RRS the option to (although it ©
-i. dpean't seem to be very effective at dialing it down at the moment)
-" » ea hapa | need some threshold on the original post before applying adding chaining to ~
-ee ACE eae Ren Mec Re Lae TAC leg Lek ole) friends/family post vs. on a O
-ig ah there needs to be a certain number people in a conversation
-SS el eg a
-: q ; ; re
-- abebbedabdines iia RE AOR RRA gat fe) both °
-“ky make it significantly harder to promote high-quality engagement on .
-ruc in QB. First, all groups now sort by "latest activity" as their ul
-“ fren by "recent posts." Sorting by "latest activity” drives userg to. “fiz
-" f ia egmments—but every post is then sorted by "top comments," apf
-mapaiiees muddle that seems to have almost nothing to do with the 4
-gg Users can again choose to sort by "all comments" or "moei am
-OO a Ts a i,
-a igel aed pea ROS Ta Pee
-CO ee Re aR El interface on batt:
-4 mobile that make it significantly harder to promote high-quality engagement OR -
-Ce Un ME bn Re, SME ot hLLS A Lf n
-utadt setting rather than by “recent posts " Sorting by “latest activity" drives users to
-Pee Li already have comments—but every post 1s then sorted by "top comments,” an ,
-q irecrutable, out-of-sequence muddle that seems to have almost nothing to do with the 7
-Pe eee NO ee Prete R CORAM ON MT Rien a Lo
-Pe meee do not stick Whether by design or by flaw, the decision to sort
-ee eu a ee either, and you'll need to reselect it every single time you post
-LE sg comment or navigate between posts. .
-| PY errr aye Melt Lit UReCeL tN CL eA et ee well-moderated groups—has -
-eee Le MULL Seeks S OM MAEDA LAM: | OS SL bickering, and extremism ep)
-2 eu ie er ee etl ~”
-SP eke ee hake Cua Rs as Wd 4
-|. Ukewise how do we make sure the comments we are ranking aren't leading to more
-- polarized discourse? How can they still reflect the group norms ETaeRA tale iee ig ©)
-L.
-MMAANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN) Pa
-Sat the Q believers | spoke with stumbled upon these incomprehensible ideas the old- 'é|
-vane PML CY AU) ARS SULTS ECL RL oR OLS eC) me a
-oe Mee Ea al ofa Lace] friends, ot intraduced to the conspiracy through word- : ‘i he
-eT) the algorithms that have received the most national attention. f pay
-TN dalek Pe MOC Nae rset Raa ROR ew | La :
-eee downward is critical. Moms are seeing an ever-changing web of im
-oy pa theories bounce around their circle of mom friends, like the
-eo ‘conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
-a ag involved an alleged sex trafficking ring and was covered by-
-Ae RES] Po Eee
-4 5° pedi Sa un Ke” =
-Hy Eh Ct al la let le Ld pe
-oo, a . ; a
-.< ;
-cae fe ee Race eke oT
-Te “4 ;
-Wi diiiens® %2 2 good reminder thet Gancersn eal aha
-DANGER OF RARBIT HOLES (FRO AN SE fe en Oo
+tweeted after experiencing the new feature. (He added that Facebook's obsession with
+engagement "needs to be shot into the sun," a sentiment with which | agree.)
 
-ee ee Le i) er aa 7 te ee op)
-Ao at a re ae
-DEL a ate, YY
-Ae a Le ra
+* Doublecheck that at a minimum we're not recommending groups people have ' “**
+* Consider intr ; sistinen tines - z Chats
 
-|: a a Oe ia | port mot moe a) |
-aCe eo a ; i rr ee f610] 01 O
-(ora ro ee rh | )
+REDACTED
+"
+ateway groups qanon
+ana ine cnaining OT content ana COMMUNES
 
-ate ; ;
+py word oF moutn, recommenaauions engines
+often reinforce the dangerous ideas or lead them far deeper.
 
-#markdowr s
-| ce Just Flagging and Comms Feedback te
-ee fa
-[TY oe Lo) Cc : ‘i ; ; 7
-a)
-rr. ; ( ad
-eRSlEP RTO on
--
-a Penta (a POLE a OR LL oot
-° ©
-Pa eo a suger tet red fret: ©
-er Be ee searcning for 1
-fo) 70] 6 0 ae Er Poon tater? foot or abet hb ate w
-https://fb.workplace com/notes/864. 76267638679 *- hi d
-mr O
-PENT Ree CRS a Ree Ee Lhe FY on
-rary eng CUE Ry nok eS toe,
-coyey-T ea) SoTL Cam TRULEY LR © etc Une | | J
-oUt bd ib) I
-PTT MRL ete Le a? oes UL O
-Ld 8 =
-a chs
-
+Quotes + Potential Action Items
+LACK OF CONTROL
+
+But those are groups that we, the users, sought out and joined. Unsolicited content from
+other, unsubscribed groups is not always welcome. | myself noticed in recent weeks that
+
+| posts from groups | am not a member of appeared when | tried to use Facebook's
+
+| increasingly user-hostile app to engage with the handful of friends-and-family groups | do
+
+| regularly use. And those out-of-the-blue posts include content from two groups | explicitly
+and intentionally left a month prior because they were making my life worse.
+
+| Having that kind of content also appear in your personal newsfeed (which has not yet been
+rolled out to me) is apparently even worse. "It was creepier than | expected to see 'related
+| discussions’ hyped next to a short comments thread between my mom and my brother
+about her latest post," tech writer Rob Pegoraro (who has occasionally written for Ars)
+
+_ tweeted after experiencing the new feature. (He added that Facebook's obsession with
+
+| engagement "needs to be shot into the sun," a sentiment with which | agree.)
+
+* Doublecheck that at a minimum we're not recommending groups people have left?
+
+* Consider introducing a way to stop receiving in-feed unconnected content. This resonates
+with me, IG has started showing follow recommendations in between stories. They provide
+an option to see these recommendations less which | value the option to (although it
+doesn't seem to be very effective at dialing it down at the moment)
+
+« | think we may need some threshold on the original post before applying adding chaining to
+it through CV. | can see how CV can feel different attached to a friends/family post vs. on a
+group's or page's post. Maybe there needs to be a certain number people in a conversation
+before CV is applied?
+
+| Facebook at the same time has introduced a slew of tweaks to the user interface on both
+
+| Web and mobile that make it significantly harder to promote high-quality engagement on
+the platform, particularly in groups. First, all groups now sort by "latest activity" as their
+default setting rather than by "recent posts." Sorting by "latest activity" drives users to
+
+} Posts that already have comments—but every post is then sorted by "top comments," an
+
+| inscrutable, out-of-sequence muddle that seems to have almost nothing to do with the
+conversations themselves. Users can again choose to sort by "all comments" or "most
+
+_ Tecent," but those choices do not stick. Whether by design or by flaw, the decis'~~ *~ ~-+
+
+_ by recent posts isn't sticky, either, and you'll need to reselect it every single tin Chats
+
+REDACTED FOR CONGRESS
+terre
+
+Facebook at the same time has introduced a slew of tweaks to the user interface on both
+Web and mobile that make it significantly harder to promote high-quality engagement on
+the platform, particularly in groups First, all groups now sort by "latest activity” as their
+default setting rather than by "recent posts." Sorting by "latest activity" drives users to
+posts that already have comments—but every post is then sorted by "top comments," an
+inscrutable, out-of-sequence muddle that seems to have almost nothing to do with the
+conversations themselves. Users can again choose to sort by "all comments" or "most
+recent," but those choices do not stick. Whether by design or by flaw, the decision to sort
+by recent posts isn't sticky, either, and you'll need to reselect it every single time you post
+a comment or navigate between posts.
+
+Meaningful, thoughtful conversation—even in small, serious, well-moderated groups—has
+become almost impossible to maintain. That, too, drives sniping, bickering, and extremism
+ona small, conversational scale.
+
+« Make choices on comment ranking sticky?
+
+* Likewise how do we make sure the comments we are ranking aren't leading to more
+polarized discourse? How can they still reflect the group norms and standards?
+
+DANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN)
+
+| But the Q believers | spoke with stumbled upon these incomprehensible ideas the old-
+
+| fashioned way. They say they were indoctrinated (though they don’t use that term) by their
+
+| parents, other family members, and friends, or introduced to the conspiracy through word-
+
+| of-mouth, rather than via the algorithms that have received the most national attention.
+
+| But word-of-mouth alone isn't enough. The ability of people sitting at home to follow the
+online rabbit holes downward is critical. Moms are seeing an ever-changing web of
+
+| trafficking conspiracy theories bounce around their circle of mom friends, like the
+
+] debunked Wayfair conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
+
+| saga, a real-life case that involved an alleged sex trafficking ring and was covered by
+reputable news outlets, has also served as a key gateway into QAnon.
+
+* Word-of-mouth and algorithmic recommendations seem to have compounding risks that
+
+we need to consider beyond evaluating our recommendations and invite system
+separately?
+
+* |saw another post discussing the need for intentional friction in Concerto so seems like
+we're thinking about it already!
+
+Lastly | think the framing of "Engagement" is a good reminder that Concerto couk Chats
+
+REDACTED FOR CONGRESS
+DANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN)
+
+But the Q believers | spoke with stumbled upon these incomprehensible ideas the old-
+fashioned way. They say they were indoctrinated (though they don’t use that term) by their
+parents, other family members, and friends, or introduced to the conspiracy through word-
+of-mouth, rather than via the algorithms that have received the most national attention.
+But word-of-mouth alone isn’t enough. The ability of people sitting at home to follow the
+online rabbit holes downward is critical. Moms are seeing an ever-changing web of
+trafficking conspiracy theories bounce around their circle of mom friends, like the
+debunked Wayfair conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
+saga, a real-life case that involved an alleged sex trafficking ring and was covered by
+reputable news outlets, has also served as a key gateway into QAnon.
+
+* Word-of-mouth and algorithmic recommendations seem to have compounding risks that
+we need to consider beyond evaluating our recommendations and invite system
+separately?
+
+« | saw another post discussing the need for intentional friction in Concerto so seems like
+we're thinking about it already!
+
+Lastly | think the framing of "Engagement" is a good reminder that Concerto could easily fall
+into the engagement trap. Using ranking to show UC, sort comments, and recommend groups
+can lead to engagement that reflect "usage that comes from one part our brains, while the
+user’s decision of what makes your product worth their time comes from another".
+
+#markdown
+
+ 
+  
+  
+ 
+
+» Just Flagging and Comms Feedback
+October 6, 2020 -@
+
+https://arstechnica.com/.../facebooks-endless-quest-for.../
+
+ 
+
+REDACTED FOR CONGRESS
+ 
+   
+
+DOI Q&A
+5 hrs - Q193662 in DO! - &
+
+How do we calculate searchability?
+When our searchability is at 10%, what is that telling us?
+1.10% of returned content is violating?
+
+2. 10% of searches return violating content?
+
+3. Other?
+—with mm: 3 others.
+oO 4 3 Comments Seen by 39
+gf Like © Comment @ Share
+
+ 
+  
+    
+     
+  
+ 
+ 
+
+the answer is 3. Other:Definition: Of all of the VPVs on search results returned from
+the essential query list (i.e. the list of queries indicating a user was searching for a
+problem), what percent were violating according to human labeling. Source:
+https://fb.workplace.com/notes/864276267638679 from mz:
+and
+
+es
+https://fb. workplace.com/notes/475583250397974/ »
+Search Terms used to define searchability:https://fburl com/unidash/8zcOh2fy
+
+Searchability: Intro and setting up the metric
+Like Reply 2h. Edited
+
+#resolved (Thank you for bearing witness to my self-help session)
+Like Reply = 1h O1
+
+EDACTED FOR CONGRESS
+
+R

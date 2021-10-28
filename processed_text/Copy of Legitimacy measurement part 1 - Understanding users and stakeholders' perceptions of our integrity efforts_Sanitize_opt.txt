@@ -1,486 +1,1155 @@
-Legitimacy Note 1:
+ 
 
-Developing LEGIT Metric |
+a
+
+ee aaa SSS Se a ie = =a = = alle i ‘i L ae Pe > ee ee
+
+—F
+€
+
+at a oi
+
+ 
 
  
 
 Legitimacy measurement part 1:
 
-Understanding users and stakeholders’
+| Understanding users and stakeholders’
 
-perceptions of our integrity efforts
+a a ee eh a Lee oo a oe
 
-S| THURSDAY, SEPTEMBER 3, 2020 - READING TIME: 10 MINUTES #@
+Bo
 
-4 The mission of the CI Legitimacy Team team is to help shape the overarching strategy for
+    
+
+*«
+
+EDACTED FOR CONGRESS
+
+R
+
+ 
+
+itimacy measurement strategy. 1 Chats | 3
+a ~ Be
+ra
+
+k
+
+ 
+
+The mission of the CI Legitimacy Team team is to help shape the overarching strategy tor
 
 increasing legitimacy of our integrity efforts and develop the measurement framework for
+
 tracking legitimacy with people and stakeholders.
 
-' 7 _ i" penning mn nie
-: a ab aaa hehe pm lk ate lA Pn Peas ~—_ =i
+This series of three notes will present the legitimacy measurement strategy. In order to
+measure perceived legitimacy we need to first understand how people currently view our
+integrity efforts. This first note presents research that invest gated (1) users’ perceptions of
 
-a _ This serles of three notes will present the legitimacy measurement strategy. I Chats
+our integrity efforts and (2) external stakeholders’ perceptions of our integrity efforts.
+
+The second note will present proposed principles for building legitimacy with people based
+on external research, internal research, and product strategy. The third note will present the
+development of the LEGIT survey to measure progress with users and the general population
+
+as well as how we are tracking public sentiment with stakeholders.
+
+TL;DR
+
+1. Users don't trust us to do the right thing because they believe we prioritize revenue and
+growth over safety and society |
+
+: _ Se Chats
+
+OOD) perce @} On ten regulation system as le¢ nate
+
+FREDACTED FOR CONGRESS
 
  
+Zz
+TL;DR
 
-REDACTED FOR CONGRESS |
- 
- 
-Three, three-hour research sessions were conducted in Seattle with groups of actors (n= 6), -
-reporters (n = 9) and general users (n = 11). These sessions investigated what users are a
+1. Users don’t trust us to do the right thing because they believe we prioritize revenue and
+
+growth over safety and society
+
+9. Users don’t perceive our content regulation system as legitimate because they don't
+
+trust our motivations, perceive our system to be ineffective and biased toward minority
+
+groups, and believe that we don’t understand or listen to our users
+
+3. There are opportunities to increase legitimacy with users by building trust in the brand
+
+through product experiences, ensuring we aren't biased toward certain groups, and
+
+empowering users to control their own experience
+
+4. In addition to disagreeing and being concerned about our approach to integrity, many
+
+external stakeholders either aren’t aware of our efforts or don’t understand parts of our
+
+systems
+
+5. There are opportunities to increase legitimacy with stakeholders by developing scaled
+
+education programs, telling a more cohesive and understandable narrative that is easily
+
+discoverable and shareable, and building integrity products that are defensible
+
+1. Users’ perceptions of our integrity efforts
+
+Three, three-hour research sessions were conducted in Seattle with groups of actors (n = 6),
+reporters (n = 9) and general users (n = 11): These sessions investigated what users:are
 currently experiencing, perceiving, or hearing about that form their perceptions of our
 
-integrity efforts. Participants | were diverse with regard to gender, race, and age.
+integrity efforts. Participants were diverse with regard to gender, race, and age.
 
-* Perceptions of Facebook’s integrity efforts tend to be negative
+Chats
 
-_ Ei .
-i=. +
+ 
 
-— ——S
-nn
+~Y
+~Y
+LU
+id
+0
+Z
+O
+O
+or
+O
+LL
+a
+LU
+O
+=
+a
+LU
+Biz
+‘hour research sessions were conducted in Seattle with groups of actors (n = 6),
 
-a.
-AS
-‘ee +
+Three, three
+= 11). These sessions investigated what users are
 
-Dear Facebook You! ve become a breeding
-growed for’ hate, disin formation, and
+reporters (n = g) and general users (n
+or hearing about that form their perceptions of our
 
-*
+age.
 
-u *
+currently experiencing, perceiving,
 
-:- =
-ee =P
-ja
+integrity efforts. Participants were diverse with regard to gender, race, and
 
-NNN a ‘blind e eye to it— and most likely
+Re Perceptions of Facebook’s integrity efforts tend to be negative
+
+Dear Facebook, You've become a breeding
+ground for hate, disinformation, and
+scams. This is dangerous and you're
+turning a blind eye to it— and most likely
 profiting at the same time
 
-OR CONGRESS
-
-  
-
-<
-OQ
+REDACTED FOR CONGRESS
 
  
-a i nm om | 8 . «
-
-~*~ —
-‘ .
-x an Gey
-/ : t] 4 “ GF.
-a >» wt
-| TS \ ~<
-
-ad
-
-pee ;
-
-:
-
-> ae ee CC
-
-“ y
-
-—
-
- 
+ 
 
 Users visualized the current state of content regulation as dark, messy, and money-driven.
+
 Their ideal state was depicted as bright, positive, representative of all people, and organized.
 
 REDACTED FOR CONGRESS
 
-All participants indicated FB has become more negative, hostile, and violent, @pats
+All participants indicated FB has become more negative, hostile, and violent, gp,
+
+ats
+
+   
+2
+and money-driven.
+
+ 
+
+alized the current state of content regulation as dark, messy,
+presentative of all people, and organized.
+
+lent since they joined
+
+‘ Users visu
+"Their ideal state was depicted as bright, positive, re
+
+- all participants indicated FB has become more negative, hostile, and vio
+ontent regulation system is not working or
+
+the platform. This was a signal to them that our c
+
+[ effective.
+
+eS
+
+| The following four themes emerged explaining why users’ have a negative perception of our
+_ integrity efforts. / . oy )
+
+1 | Users don't trust us to do the right thing because they believe we prioritize
+
+Dear Facebook, te can't take it any more.
+You keep feeding me and billions of others
+a whole bunch of lies and crap that 1s
+r designed to influence people and spread
+conspiracies. You get paid very well
+to do this and because of that have
+
+not taken the necessary measures
+to da sahahoomnasin it. You welcome it.
+
+mea TE
+ee ee pi > bac z j gia pe } iJ Cg lat: > ore eae
+
+REDACTED FOR CONGRESS
+
+su
+
+ 
+a
+a
+b
+
+Because users don’t trust FB due to past incidents, they don't believe we have good intentions
+or motivations when it comes to integrity efforts. Many users don't think we are actually
+trying to remove bad content and accounts because we care more about increasing
+
+engagement and growth than protecting people and society. This belief harms the
+
+legitimacy of our integrity efforts immensely.
+Recommendations:
+
+¢ Continue to invest in restoring trust in the FB brand. Efforts to increase legitimacy of
+
+content regulation may need to include efforts to also increase trust in FB as a whole.
+
+. ° Build trust by ensuring what we ship shows care and is defensible to regulators,
+
+S auditors, and our users
+a e Put greater prioritization on reducing harm and bad experiences
+
+ES e Invest in ways to actively demonstrate to users and stakeholders that we are committed
+& to reducing harm both in-product (e.g., make it easier for users to report) and externally
+
+(e.g., highlight the good work we do to prevent CEI across tech)
+
+2 | Users believe we are biased toward and silencing minority voices due to our
+moderation practices
+
+BADASS W >MEN ,
+| WwW, wt | _ “Between your clearly racist
+) and misogynistic |
+‘moderation’ to your
+laughable appeals -
+
+J Chats
+
+   
+ 
+ 
+  
+
+ 
+
+REDACTED FOR CONGRESS
+
+     
+r
+
+2 | Users believe we are biased toward and silencing minority voices due to our
+
+moderation practices
+
+“Between your clearly racist
+and misogynistic
+‘moderation to your
+laughable appeals process,
+there is a reason you are
+called RACEBOOK. Clearly
+I am not included in the
+community you claim to
+protect.”
+
+ 
+
+ 
+
+Users who self-described as being LGBTQ or Black believed that FB is censoring and over-
+enforcing on minority groups. Participants described being banned for speaking out to their
+
+communities about their lived experiences and condemning hate.
+
+REDACTED FOR CONGRESS
+
+ 
+—_—_— RM a a SIE
+
+| |
+
+f POC and marginalized groups are barely
+| able to stay afloat in an environment that
+doesn't understand the minority
+experience.
+
+They attributed this to our policies and systems being designed by White upper/ middle class
+
+people who don’t understand minority experiences. Many participants acknowledged much
+
+of this enforcement is done by automation and algorithms but believe that the people who
+
+have built the algorithms are at best naive and at worst racist.
+
+Recommendations:
+
+e Conduct audits of actions taken on content posted by people of color, to verify if we are
+disproportionally actioning against one demographic’s content
+
+e Increase the representation of people from minority groups in our building process
+
+e Ensure that any system we ship is not biased against certain groups (e.g., SAIL efforts).
+
+3 | Users want more control over their experience and a way to help improve the
+
+system
+
+REDACTED FOR CONGRESS
+
+  
+_ 3 | Users want more control over their experience and a way to help improve the
+
+_ system
+
+“FB should empower
+us to choose instead of
+labeling what kind of
+audience they think
+we are.”
+
+ 
+
+ie ne
+
+a
+
+Our global user base is never going to agree with all of our policies and enforcement
+decisions. Instead, we should empower users to improve their own experience by giving them
+more control over what they see (and don’t see). Users agree we should take a stance and
+remove what is universally thought of as bad or illegal (e.g., CEI, terrorism, violence,
+harassment) but leave it up to them to decide the rest. This would take some of the strain off
+
+of creating a content regulation system that is agreed upon by everyone.
+
+Users feel like FB doesn’t listen to its community because they have no way to give us
+
+feedback and express their point of view. For example, appeals are generally _ Chats
+
+ 
+
+REDACTED FOR CONGRESS
+EL 0's SGU SSUES ce
+Lae ne
+
+ 
+
+-—
+
+Our global user base is never going to agree with all of our policies and enforcement
+
+decisions. Instead, we should empower users to improve their own experience
+more control over what they see (and don't see). Users agree we should take a stance and
+remove what is universally thought of as bad or illegal (e.g., CEL, terrorism, violence,
+
+harassment) but leave it up to them to decide the rest. This would take some of the strain off
+
+by giving them
+
+of creating a content regulation system that is agreed upon by everyone.
+
+Users feel like FB doesn’t listen to its community because they have no way to give us
+feedback and express their point of view. For example, appeals are generally thought of as a
+way to express disagreement with a decision by an institution. However, users don’t view our
+
+appeal system as legitimate because they perceive it as just clicking a button that goes
+
+nowhere.
+Recommendations:
+
+e Give users more control over what they see (and don’t see). For example, users wanted
+one newsfeed tab for “lighter” organic content from friends and family and another tab
+for shared news articles and non-organic content. One user didn’t want to see any
+
+r borderline graphic violence close to when she was going to bed. Other internal research
+also provides evidence for user controls such as content covers. Other research indicates
+
+users want the ability to dial up misinfo control (e.g., choose to have misinfo removed
+
+from their feed) but not dial it down (i.e., remove misinfo labels).
+
+e Investigate ways we can we incorporate user feedback at scale such as Oversight Board
+
+case advocacy and community feedback
+
+ 
+
+REDACTED FOR CONGRESS
+
+a | ¢ Understand how rank and respond might further threaten the perceived |
+
+Chats
+
+ 
+mR a
+
+users want tne ability to dial up misinio control (e.g., choose tO nave misinto removed
+
+from their feed) but not dial it down (i.e., remove misinfo labels).
+
+« Investigate ways we can we incorporate user feedback at scale such as Oversight Board
+
+case advocacy and community feedback
+
+¢ Understand how rank and respond might further threaten the perceived legitimacy of
+
+our appeals system and investigate how to increase trust and acceptance of automation
+
+4 | Users aren’t buying that content regulation is a hard and complex problem
+
+You created this platform and wanted
+this growth. You are responsible for
+moderating it, no matter what time, tools,
+and expertise it takes. FB has the expertise
+and money why can‘ they do it?
+
+Though some participants acknowledged content moderation is difficult at scale, many
+viewed moderation as a cost of doing business. Because FB is a multi-billion dollar company,
+
+many users believe we could solve the problems with content moderation we just choose not
+to (see theme one).
+
+REDACTED FOR CONGRESS
 
  
  
- 
- 
- 
-, = ia
 
-vi All ll
+i Sa
 
-een?
-= ae |
-Time bell lieu
+Though some participants acknowledged content moderation is difficult at scale, many
 
-iene =
-Hl Weelbes
+viewed moderation as a cost of doing business. Because FB is a multi-billion dollar company,
 
- 
- 
- 
-+ atbh Ti
-ae
-SSS Eire rener ety
-ea ! i i a
+many users believe we could solve the problems with content moderation we just choose not
 
-masts tev > Mm ! es meas pS ee od
+to (see theme one).
+
+Recommendations:
+
+¢ The narrative that content regulation is difficult and complex might not land well with
+users. Instead we should understand if focusing on highlighting what we are doing to
+
+address problems would be more effective. For example, users tend to feel positively
+toward content warning screens and misinfo labels because it concretely shows the user
+
+FB is doing something.
+
+We will continue to understand where we are falling short with people and how problem and
+foundations teams can ensure they are building legitimacy into their products and processes.
+Additionally, the IX team (formally actor and reporter experiences) has a long history of and
+continues to understand and build experiences that increase supportiveness and procedural
+
+fairness among actors and reporters.
+
+2. Stakeholders’ perceptions of our integrity efforts
+
+Investigating external stakeholders’ (i.e., policy, civil society, academics, and the media)
+perceptions of our integrity efforts is more challenging as it is difficult to reach these
+audiences directly. In H2 2019 we took a pulse on where these audiences generally stand on
+key integrity topics by aggregating insights from our internal policy and com1 ;
+
+REDACTED FOR CONGRESS
 
 =
-cs
-a
-esti oh r Fe as ea
-rl Nes td i:
-a
+2. Stakeholders’ perceptions of our integrity efforts
 
-Wiehe tea —
+Investigating external stakeholders’ (i.e., policy, civil society, academics, and the media)
+perceptions of our integrity efforts is more challenging as it is difficult to reach these
+audiences directly. In H2 2019 we took a pulse on where these audiences generally stand on
 
-== WHE
+key integrity topics by aggregating insights from our internal policy and comms partners. See
 
-ne
+the full table here.
 
-es a, SM fa ee Nt
+Stakeholders’ top areas of concerns include offline harms, how/if we incorporate feedback,
+trust in the company, soft actions, procedural justice, US-centric policies, and misinfo. In
+addition to disagreeing and being concerned about our approach to integrity, many
+stakeholders either aren’t aware of our efforts (e.g., that we publicly release our enforcement
+rates in the CSER; that we work with law enforcement) or don’t understand parts of our
+systems (e.g., how we use machine learning to quickly remove content; how our policies are
 
-gifs aildeereay PSoo 42 OE es gt ee at
+formed).
 
-Sth = St Sh ESE SF
+These findings highlight the need for us to develop a scaled program to educate
+stakeholders about our content moderation practices to help support the
 
-aS, SY ls I) re
-
-Se Se eas iy |) eS
-
-ee Sl ro Se fe eR
-
-SaaS SSeS IS a a ee edd
-2 ea SST Saas Santen rec ee ; z i jibe sa ; (3 LSS =r
-STS We eee A ie = arias. Fe nao ear abl ars = —A: Pe
-a Se a ee Wa ee a te ae
-Se ne ee a ce —_—_ i =) a = aS ee
-
-SS SH
-ell : eS MM SA oo a = aes fh LSS ——— a
-
-i ae SS Sees pS LS SS
-
-Se at earl aera
-= ; FS em Ti Se > ee
-
-—
-st
-—
-SSS Se a= 1p Saipremereysie ees 12 . = Sei SSS SSS TSS Ss
-a :
-—
-aa
-
-——— + a J a a
-
-OO OO SS —
-
-ee ad ape Lt Ldictipt ome S a os mn oe ae ~~ —) el
-
-ee ee —— SSS = = ne By
-
-Pr saint rail -—=— SSS v= ee ee a a SSeS == —_— _ ¥ ef aoe a
-
-Weiser) tetris TEER ct ee a ee ea SS Se > 2 SSeS SS
-
-Te ere Sa eS eS ee is | SSK SE eee
-
-SS ee oe ee ee ee Se i S— SSS
-
-ert ese ae, TT Pes aL he et et ee Pr | Se —_— 7 —————————— SSS
-
-l]
-it
-
-SSS ss en ———— 7 SS a ee
-
-SR ra Saree ae es ee ee
-
-Hy
-
-Fi Parte AE ei ee Le WS ee = SS SS SS oe SS SSS SS
-
-a = a = SSS SSS SS
-
-Se mie = eh el a | a ae =
-
-Peri, i sete ee) PI Tr ee a eect Sa a = = — = - = a eT SaaS SS
-
-" = * oti a = ——— — =
-Peet Ee . Pi ee ee ee | z 5 a -=
-
-yA A ee A
-
-ha aL al
-
-aS SN ee =
-
-a. = ao =4 = 3 ———————=——— =
-a ——— a —
-
-a
-
-y
-
-i
-{|
-y |
-
-a
-as ie Fe Sia eS = ET ——_S Ss
-ao aoa ee Oe a ee a= SSS SS
-
-a
-|
-
-A
-PO AT an aS
-
-= peste SSS SS ae a See
-
-re Se a Ea
-
-—— al = a ——
-Se ee oe ee =
-
-aT gen SS a — SS __EEZE’
-
-— > ee
-i —— Ps ee === eae
-
-| Ad a al SSS Eee
-pe eae mee ee = SSS
-a ae od as SSS Seas
-
-SSS SS
-
-Ba a0 TA ON RT TR AA HA
-
-—
-SSS Ss
-
-ee
-
-a
-
-= aa SSS SSS
-ae —— ——s —
-
-—_ = eee
-
-1]
-
-— ee =
-
-SS SS eo
-
-|
-
-z=
-
-——————— =
-
-Se CRS NAGA A IA
-
-3 SS SSS
-
-|
-
-SS eee
-
-f
-
-a ee
-
-a
-RA
-lI We
-
-|
-
-— ——__ > Sg
-
-SS
-
- 
-La
+CIEE 0: enough signal
 
  
 
-e Decrease confusion resulting in inacei
+ag
 
+REDACTED FOR CONGRESS
+jakeholders' top concerns and points of confusion — BiSSeeation Policies US- don't vary by
+
+jedia Journalists
+ow Polio ypulators
+tagemics/Civil Society Groups
+
+=
+
+ 
+
+Not enough signal
+
+ 
+
+Yellow Stakeholder is unaware
+
+Opportunities to Increase Legitimacy with
+Stakeholders:
+
+   
+   
+ 
+
+Stakeholder has some awareness of Hiiae i HU une
+
+policies and integrity work, but feel e Increase awareness of the good work we do and
+confused or uninformed. HUTT REST
+41 al it Wi a | ! ‘ how we do it
+
+ 
+ 
+   
+
+ 
+   
+ 
   
  
  
+    
+       
 
-jer is aware of policies and conclusions and folk theories
+ware of policies and
+nd disagreeswith |
+ned about them. | UT
 
-work, and disagrees with a =e
-concerned about them. 1
+  
+
+.ent/concern and build
+uding stakeholders in the
+our products and policies A
+
+vo
+"Transparency ( )
+
+  
+ 
+
+bP i) Tobin Wea ae Rationale
+oT ae ibe _ behind our How News = scale and
+ware of rer a How policies — decisions ndother’ | o&%
+2 contri tions of areenforced (eg.policies, S70 0S of co aa
+|| Receptions of." enforcement sear moderation
+_ transparency data released)
+
+PTE Wee a a |
+Wineaee kor __ Concern: Policies
+
+I fair? centric country
+
+  
+  
+
+ 
+
+HS NAM lh a
+
+I (| i F
+‘|
+a Hd et < hon
+| \ Sy
+! | Pe Au Wl ly
+
+   
+
+re. f ‘ WAM UN LA
+MRA ica cera rege ees Mas reenact
+
+PSE a Pg ase Sede MALAI Mee Conger eer isons ISU ele Ue seco) | 1oe
+e Decrease confusion resulting in inaccurate
+
+Stakeholder is aware of policies and conclusions and folk theories
+
+integrity work, and disagrees with
+them/is concerned about them.
 
 e Reduce disagreement/concern and build
 
- 
+advocates by including stakeholders in the
 
-iat
-tes
-li] Hifi Hitt aoe =
+Stakeholder accepts / understands a is pol
+our approach A development of our products and policies
 
-; ye!
-tit ;
-| f
-il ti
-tty . —t
+Stakeholder endorses ou r approach _
 
-   
+a EAE SAA
+qe al He
+EER
 
-advocates by including stakeholders in i.
-Stakeholder accepts / understands ae a a
-our approach development of our products and policies i
+il
 
- 
-
-Stakeholder endorses our approach : ae
-
- 
-
- 
-
-Pe ” a =
-
-: a Rationale
-' eee tie. ab applyto —s_ justice in igh oo Community  _ Awareof | Far i r> Mowpolicies decisions
-centri punt ieee: sveryone _ content oon ae §6€6Ckendards «© the CSE Oo ee
-centric = country laws equally? moderation Conservatives oo perceptions of ees
-
-        
-  
- 
-
-   
-
-$23 33
-
-its spuEttatt =
-es teats ttghi
-: Pereeeiaee
-{ int
-Sif fs i i ; | itt
-peeatn hoot eiSs i } i : | | ; : i
-a} , | oF
-
-tT PPR TS Pa eS
-ii itty Heil iat i itt
-til iE HH RAPHE aT Hilt HH
-HH! HOH ti PUT |
-He iil] HHH PERSPHADPIU ES SPHERES OTE POPS EOE Hage LLT Ee
-
-Hit Huta Hin il ti i
-
- 
-
-     
-
-PASTS PLE EREE
-
- 
-
-i hi Hay it 1 : i}
-
-i} i HH HI Wh ea PUP HEE
-HA AAS OH ARICA
-HIDSHEIU NEN LIE atten}
-NK i i) | i }
-
-HON AA GUAT RAV A
-CLT Wl i) tI HH} ; H tH
-7 $ j :
-
-Hi istzas
-| '
-
-es of conten
-
- 
-
- 
-
- 
-
-; ; erin Hill j }
-11) Pi : HHH Steet ene ; ; | | : i : i } Hill | HII
-Wii : ‘ ; ao) taad iat ye : ult Hit : ' Wil : | ; :
-Piliaatill : pil , ; } ; : ' | }
-ail t Hilt Hilt Milt ; CHiPs ttee Ht ' wy | |
-Hil : HH | HET EE TithSL be dayee ; ; : : : Wl ; | ; } rill
-| 4 : : wht : | Mihi tihariaiit ria) : ; : : } : ; i | | | : ; | |
-
-Pat Hit iil
- 
- 
- 
- 
-Like - Reply - Ty
-a happy to share more! Let me know how | can best plug in
-Like - Reply - ly
-
- 
-
-ee ei : es ae ee —_
-
-Like - Reply « ly
-
-BI | t2 212 2 definition of iegitimacy somewhere’
-
-Like - Reply - ly Ov
+Hit
 
   
 
  
+
+ 
+ 
+   
+    
+
+ 
+ 
+ 
+  
+
+  
+ 
+  
+   
+
+  
+
+Procedural case pie 4
+“justice in _—-*FB is biased
+i against —
+
+bot Catia “Conservative:
+
+eames tut Concern: Policies
+
+yy Process "Or policies US- don't vary by _ pp
+—S centric = country laws ‘aa
+
+Cox
+Sta
+
+  
+         
+   
  
 
-note 2 (coming soon!) will cover this more in-depth but TL;DR:
+ 
 
-1) From a policing/government perspective, legitimacy Is the belief that an entity should be able to make and
-enforce rules and that people should follow these rules
+  
+ 
+  
 
-2) From an organizational perspective, legitimacy Is the belief that an organization's actions are appropriate and
-desirable within society's norms and values
+ 
 
-e We of course want people to believe (1) and want people to follow our Community Standards but we know from
-survey data and qualitative research insights most users already agree "yeah, you're a private company you can
-make your own rules/do what you want” so measuring (1) isn't super informative or valuable.
+CTED FOR
 
-e However, we know from research people don't tend to agree with our rules, how we enforce them, how we treat
-users, that what we do is effective etc. This is in line with definition (2) and thus, measuring these perceptions Is
-more impactful AND we can actually do something about these things.
+ 
 
-©:
+e needs and areas of concern —
 
-Like - Reply : ly - Formatted
+of content will be the most
 
-ae such powerful insights on how users perceive the legitimacy of our integrity systems
-QO:
+a
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+| i
+i! |
+
+TL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+will present the development of the LEGIT survey to measure progress with users and the
+
+general population as well as how we are tracking public sentiment with stakeholders.
+
+ 
+
+ 
+
+ 
+
+29 Comments ® Snares
+
+REDACTED FOR CONGRESS
+
+  
+a
+
+‘ Like J Comment ¢Y Share LJ
+
+Pret
+
+ 
+   
+  
+ 
+
+Like - Reply - ly
+
+one word: powerful
+
+© 1
+
+  
+  
+  
+ 
+  
+
+Like - Reply - ly
+
+@ *Cover photo is a participant's depiction of the current state of content regulation on FB. According to the
+participant, the dinosaur represents how angry users are and the person at the computer is FB's moderators completely
+
+overwhelmed *#
+OD* 5
+
+Like - Reply - ly
+
+thanks for the write ur for the stakeholder understanding, and the learning about lack of awareness, —
+with transparency hub vision, are we starting to look at how to distribute the info/trainings on more of a push model, finding
+
+forums that best work for them? Consolidating all info in the central transparency portal is a great first step, but we may
+need something more proactive to take it further O
+
+Like - Reply - ly
+
+7 a: Totally agree Having a centralized, understandable, and transparent (but passive) artifact Is Y)
+necessary but not sufficient. Currently, Y)
+
+there is no "one stop shop" for any interested parties to understand our
+approach to content regulation (e.g., CSs live on one site, advertiser rules on another, and Page/publisher rules onLL]
+another: important information about our efforts living in blog posts). If stakeholders even discover these pieces wey
+
+force them to put together their own narrative. (1
+
+We definitely plan to work with our internal policy and comms friends to understand the best push model and how
+
+maximize and scale impact. We also hope to build in different engagement models (e.g., maybe draft policy
+commentary opportunities, maybe a part of the portal that's only accessible to trusted stakeholders who can referC)
+
+additional stakeholders to us) to bring more people into the process. ©
+
+Like - Reply - 1y ,
+
+PE \.<:ecivly helpful write up! Regarding the table of stakeholders, can you point me to any resource that lists '®)
+the academic/ civil society groups we are referencing + how we prioritized them?
+
+   
+
+    
+
+Like - Reply - ly
+
+a --We are hoping to build out a more robust process to regularly gather and aggregate insights
+K
+
+at a more precise stakeholder level via employees who own these relationships. Aggregating the qualitative feedba
+employees across the company are gathering from stakeholders could be super valuable to understand where
+
+stakeholders stand and provide direction and strategy for integrity teams.
+
+ 
+
+ACTED°F
+
+For this quick pulse we relied on insights from our policy and comms partners who summarized the sentiment, top C)
+concerns, and points of confusion from the stakeholders their teams engage with. This included people from civil | | |
+
+society groups, policy folks, journalists/media, and academics but can't distill out exactly wh
+referencing. _ 3 Chats Y
+
+= i . .
+aii aa at le ee eel aca efecto z
+
+ 
+
+ 
+
+ 
+
+a= - = Se a
+
+ 
+ie !
+
+A
+
+Like - Reply ly
+
+i helpful write up! Regarding the table of stakeholders, can you point me to any resource that lists out
+the academic/ civil society groups we are referencing + how we prioritized them? O
+
+Like - Reply - ly
+
+ee are hoping to build out a more robust process to regularly gather and aggregate insights
+at a more precise stakeholder level via employees who own these relationships. Aggregating the qualitative feedback
+| here
+
+employees across the company are gathering from stakeholders could be super valuable to understand w
+
+  
+
+our policy and comms partners who summarized the sentiment, top
+rs their teams engage with. This included people from civil
+demics but can't distill out exactly which groups they are
+
+For this quick pulse we relied on insights from
+concerns, and points of confusion from the stakeholde
+
+society groups, policy folks, journalists/media, and aca
+
+referencing.
+
+Like - Reply - 1y - Edited
+
+- ee thanks so much! Long term, it would be really helpful to understand 1) the types of Civil
+Society Groups and academics that are the most vocal for each subtopic (ie: protecting ppl when we move to
+This info would
+
+encryption) + 2) where we as a company are most interested in moving the needle on perception.
+
+help us prioritize how we build solutions across problem types.
+
+ople of color are two key stakeholders that are most
+
+know want to shift their perception on this, that would help
+
+concerned about fairness in community standards + we
+human trafficking moving forward.
+
+us more effectively prioritize projects/programming around
+
+Happy to chat more about this if you have q's!
+
+nderstand these themes and target our work more effectively is super
+whose teams manage these stakeholder relationships would have the
+
+©?
+
+® Definitely agree being able tou
+
+    
+ 
+
+  
+
+important!
+most insight into your points (1) an
+
+Like - Reply - Ty
+
+- Write a reply... | or
+
+ 
+
+ee for R&R + Overall Support research
+Or
+
+Like - Reply - ly
+
+| 20: youl" this note! Really helpful for our work on the Oversight Board
 
 Like - Reply - ly
 
  
 
-this series has great inspiration for a campaign educating people on feed
+  
 
- 
-
-©:
-
-Like - Reply - ly
-
- 
-
-Like - Reply « ly
-
-. a
-ry a“ = - ee
+‘from.PEW: https://www.pewresearch,org/.../few-americans-are... is Chats
 
    
 
 REDACTED FOR CONGRESS
-
+- ee: R&R + Overall Support research
+Like - Reply - ly
+
+_ a 20: youl for this note! Really helpful for our work on the Oversight Board
+|
+
+Like - Reply : ly
+
+BE convenient timing from PEW: https://www.pewresearch.org/.../few-americans-are.../...
+
+ 
+
+ 
+
+lt
+ve",* @
+
+   
+
+Like Reply “ly
+
+Like - Reply - Ty
+
+e- Our global user base is never going to agree with all of our policies and enforcement decisions. Instead,
+we should empower users to improve their own experience by giving them more control over what they see (and don't see).
+Users agree we should take a stance and remove what is universally thought of as bad or illegal (e.g., CEI, terrorism,
+
+violence, harassment) but leave it up to them to decide the rest. This would take some of the strain off of creating a content
+regulation system that is agreed upon by everyone.
+
+ 
+
+ 
+
+this is quite reasonable. do you know if there is any appetite within the company for an approach like this?
+
+Like - Reply - ly - Edited
+
+ 
+
+ae > | think there's awareness of it (IX team has research on user controls) but I’m not sure if anything is
+being built at the moment. There's also warning screens to cover borderline graphic violence and misinfo labels.
+
+Like - Reply - ly
+
+* a what is —_ _ of as bad or illegal, while leaving the rest of moderation up to the users to decide?
+
+ 
+ 
+
+ok, so there's awareness. what about making it so that we take a stance and remove only
+
+Like - Reply - ly
+
+    
+  
+
+eee measurement focused on integrity/content
+
+Like - Reply - ty °
+
+REDACTED FOR CONGRESS
+LIAS Aopry ry
+ee. so there's awareness. what about making it so that we take a stance and rerrove only
+le leaving the rest of moderation up to the users to decide?
+
+what is universally thought of as bad or illegal, whi
+
+ 
+
+Like - Reply - ly
+
+re: US survey data from Pew weighted to be representative of the population strongly reinforce some of the
+qualitative research findings in the note
+
+e 74% express little or no confidence in tech companies like Facebook, Twitter and Google to prevent the misuse of their
+platforms to influence the 2020 presidential election
+° 78% say these companies have a responsibility to prevent misuse
+
+EY] measurement focused on integrity/content
+
+©:
+
+ 
+
+   
+
+See More
+
+ 
+
+Like - Reply - ly - Formatted
+
+ee this is such interesting research, thank you & It would be amazing to have a redux
+
+(summary or presentation) of this in one of our Cl all hands or perhaps a roadshow of it - selfishly - for integrity teams.
+While many of us intuit the difficult relationship between access to data (to enable integrity) and legitimacy (the perception
+this is ok, ok for us), | don't think many of us can delineate it in the context of the existing mistrust.
+
+   
+
+Like - Reply - ly
+
+- a heads up-- you tagged the wrong Emily o
+© 1
+
+Like - Reply - ly
+
+es
+
+Like - Reply - ly
+
+E200) to share more! Let me know how | can best plug in.
+
+Like - Reply - ly
+
+REDACTED FOR CONGRESS
+ESE
+
+EE happy to share more! Let me know how | can best plug in
+
+Like Reply
+
+ 
+
+ee ” eres _ “us =
+
+Like - Reply: ly
+
+ 
+
+a Is there a definition of legitimacy somewhere?
+
+Like - Reply - ly Oud :
+
+- ee «: 2 (coming soon!) will cover this more in- -depth but TL;DR:
+
+) From a policing/government perspective, legitimacy !s the belief that an entity should be able to make and
+enforce rules and that people should follow these rules
+
+2) From an organizational perspective, legitimacy is the belief that an organization's actions are appropriate and
+desirable within society's norms and values
+
+ 
+
+ 
+
+e We of course want people to believe (1) and want people to follow our Community Standards but we know from
+survey data and qualitative research insights most users already agree "yeah, you're a private company you Can
+make your own rules/do what you want" so measuring (1) isn't super informative or valuable.
+
+e However, we know from research people don't tend to agree with our rules, how we enforce them, how we treat
+users, that what we do is effective etc. This is in line with definition (2) and thus, measuring these perceptions is
+
+t more impactful AND we can actually do something about these things.
+
+Like - Reply - ly - Formatted
+
+ee such powerful insights on how users perceive the legitimacy of our integrity systems
+
+Like - Reply - ly
+
+ee series has great inspiration for a campaign educating people on feed
+controls and transparency
+
+©:
+
+Like - Reply - ly
+
+  
+
+Like - Reply - ly
+
+ 
+
+REDACTED FOR CONGRESS

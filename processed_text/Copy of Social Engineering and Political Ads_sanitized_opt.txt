@@ -1,11 +1,10 @@
-—_ » =
-
-ices team of dedicated product, engineering, and design Facebookers are tackling the most
-
-: glaring problems with what happened: increasing verification procedures for US political
+ao
+Acore team of dedicated product, engineering, and design Facebookers are tackling the most
+glaring problems with what happened: increasing verification procedures for US political
 advertisers, exposing the funding source of political ads, making active ads available
 regardless of targeting, and publicly archiving political ads as they run. We are taking initial
-steps to prioritize civility above other objectives in this space, but we can go even further—
+steps to prioritize civility above other objectives in this space, but we can go even further
+
 use the existing framework for how our ads system works to empower people with
 
 information:
@@ -14,75 +13,67 @@ information:
 funders to more clearly self-declare their
 financial support for specific messages.
 
- 
- 
-  
-   
- 
- 
+Version 1 of our political ad rendering has advertisers enter a “paid for by” on individual ads
+run by individual ad accounts. From our research thus far, most of the advertisers in this
+space are worried less about being identified with their strongly-held views and more about
+unintentionally running afoul of the law. How do we let organizations more visibly and
+consistently self-identify as campaign or independent expenditure organizations across
+entire campaigns or elections, and do so at the ad set, ad campaign or business level?
 
-1 of our political ad rendering has advertisers enter a “paid for by” on individual ads
-vidual ad accounts. From our research thus far, most of the advertisers in this
+REDACTED FOR CONGRESS
 
-ed less about being identified with their strongly-held views and more about
+2) Provide delivery advantages f ,...,
 
-ly running afoul of the law. How do we let organizations more visibly and
-
-  
- 
-
-FOR CONGRESS
-
-elivery advantages f 4...
-
-Se.ie >.
- 
+gae-6 2
+  
 
 Social Engineering and Political Ads
 
-How to use the influential power of ads to empower people to make better-informed
+Ye THURSDAY, MAY 10, 2018 - READING TIME: 4 MINUTES e
 
- 
+How to use the influential power of ads to empower people to make better-informed
 
 decisions about political ads, have well thought-out views and be more aware of dubious or
 
 unreliable sources.
 
 In the Facebook Ads world, we seek to make meaningful connections between people and
-businesses. And more specifically EEE publicly declared our advertising principles
+businesses. And more specifically JE publicly declared our advertising principles
 
 last November. One of those principles reads:
 Chats
 
+4
+
 REDACTED FOR CONGRESS
 
  
-   
- 
- 
-   
-        
+ae
 
 Advertising should be safe and
 civil; it should not divide or
 discriminate.
 
-e e same time, polarization is an important marketing strategy made manifest in the
-messaging, and targeting of ads. We don’t want to discourage segmentation
-ies on the part of our advertisers as a whole, which for many small and medium-sized q
-sses starting with a particular niche is a prerequisite for entering growth mode.
+At the same time, polarization is an important marketing strategy made manifest in the
+creative, messaging, and targeting of ads. We don’t want to discourage segmentation
+strategies on the part of our advertisers as a whole, which for many small and medium-sized
 
-to countenance these two realities in Business Integrity. We enforce ad policies for 3
-ebook and it’s users, while doing our best to at least provide and at best
-value. However, we've recently come into an intense amount of scrutiny
-- policies about political ads from both regulators and Facebook use
+businesses starting with a particular niche is a prerequisite for entering growth mode.
 
- 
-   
-   
+We have to countenance these two realities in Business Integrity. We enforce ad policies for
+the sake of Facebook and it’s users, while doing our best to at least provide and at best
+
+enhance advertiser value. However, we've recently come into an intense amount of scrutiny
+for the lack of specific policies about political ads from both regulators and Facebook users.
+
+Many articles have discussed how was how Russian online influence in US elections worked
+at least back in 2016 if not earlier: the use of “influence operations.” At its core, this was an
+abuse of the openness our our platform, on both the organic and Ads side, in order to divide
+and undermine confidence in the election process and American civil society more broadly.
+
+REDACTED FOR CONGRESS
 2) Provide delivery advantages for
 informative political ads over divisive and
-
 hateful ones.
 
 The challenge here is a technical and design challenge, but not an insurmountable one. How
@@ -94,33 +85,19 @@ political advertisers with high-quality content access to ad inventory and addre
 criticisms that divisive ad messages are cheap and easily spread.
 
 3) Start a recurring political ads
-
-_ transparency report to hold ourselves
+transparency report to hold ourselves
 accountable to the public, including product
+launches and global performance.
 
-_jaunches and global performance.
-
- 
- 
- 
-  
-  
- 
-
-J
-
-part of Facebook's optics problem with political ads is the lack of public and
-areness of proactive and reactive efforts taking place at the company. We can
-highlight major victories in political ad enforcement, good actors making our
+The largest part of Facebook's optics problem with political ads is the lack of public and
+regulatory awareness of proactive and reactive efforts taking place at the company. We can
+and should highlight major victories in political ad enforcement, good actors making our
+platform better and ongoing efforts we're committed to bringing on Chats
 
 REDACTED FOR CONGRESS
 
-rand ongoing efforts we're committed to bringing on Chats
-ieee
-   
  
-
-3) Start a recurring political ads
+3) Start a recurring political ads
 transparency report to hold ourselves
 accountable to the public, including product
 launches and global performance.
@@ -129,29 +106,29 @@ The largest part of Facebook's optics problem with political ads is the lack of 
 regulatory awareness of proactive and reactive efforts taking place at the company. We can
 and should highlight major victories in political ad enforcement, good actors making our
 platform better and ongoing efforts we're committed to bringing online. We have a
-transparency report— https://transparency.facebook.com/government/ —for exposing the
+transparency report— https: //transparency.facebook.com/government/ —for exposing the
 number of takedown requests we get from governments around the world, why not begin
+offering a public-facing, clear and sincere update on where we've succeeded and where we
 
-_ offering a public-facing, clear and sincere update on where we've succeeded and where we
+have to grow with political ads transparency?
 
-  
+REDACTED FOR CONGRESS
 
-ED FOR CONGRESS
+ 
  
 
-rs
+One step at a time
 
 We have started on the long journey to rebuild trust and have both users and governments
 regain confidence in the integrity of ads served on our platform. This is an opportunity to
 manifest our stated priorities, be transparent without penalizing good actors and help
-
 external observers properly scrutinize if we live up to our commitments or not.
 
-w Like © Comment @ Share A Save
+Ow.
+wo Like oO Comment a Share A Save
 
- 
+a Write a comment...
 
 REDACTED FOR CONGRESS
 
 ©
-
