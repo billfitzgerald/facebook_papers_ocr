@@ -1,0 +1,1061 @@
+uploaded a file in the group: MK + Youth Platform Data & Analytics ,,,
+FYI.
+February 19 - @
+
+Users Are Not Adding Quality Connections During Onboarding
+
+From New User Journey UXR studies, we have seen that our contact-selection process during
+onboarding does not set new users up for success, and users with few connections from
+onboarding churn early.
+
+TL;DR:
+
+© Our onboarding process is not helping users find quality connections: 42% users added
+no adult connections during onboarding, and 18% of the new users added zero adult or kid
+contacts during onboarding and land in the inbox with no connection other than their
+parents. AYA
+
+* Suggestion-based connections. added during onboarding are low quality: over two thirds
+contacts added during onboarding do not lead to a WAT in 7 days, and close to 90% of the
+contacts shown during onboarding are irrelevant.
+
+¢ User without connections from onboarding churn early: 30% of them were only active in
+the first week, and 40% are no longer MAU by Day 45. Helping these users find value can
+lead to a net gain of 10K US MAU per month.
+
+* We have an opportunity here to improve the contact-selection experience for new users:
+
+it's time to start rethinking about how to recommend and how to expand the contact
+inventory during onboarding.
+
+https://docs.google.com/.../1JiLN85Q61.../edit...
+Feedback and comments are welcomed!
+
+Redacted for Congress
+Users Are Not Adding Quality
+Connections During Onboarding
+
+ngress
+
+TL;DR
+
+e Our onboarding process is not helping users find quality connections: 42% users Oo
+added no adult connections during onboarding, and 17% of the new users added zero
+adult or kid contacts during onboarding and land in the inbox with no connection other
+than their parents.
+
+e Suggestion-based connections added are low quality: over two thirds contacts
+added during onboarding do not lead to a WAT in 7 days, and close to 90% of the
+contacts shown are irrelevant.
+
+e User without connections from onboarding churn early: 30% of them were only
+active in the first week, and 40% are no longer MAU by Day 45. Helping these users find
+
+value can lead to a net gain of 10K US MAU per month.
+
+We have an opportunity here to improve the contact-selection experience for new
+
+users: rethinking about how to recommend and how to expand the contact inventory
+o We can explicitly uprank inviter/inviters’ kids and allow parents to search for
+
+non-FB friends’ kids during onboarding.
+
+We can encourage parents to find and search for an adult contact for their kid to
+
+chat with, instead of recommending the parents’ FB friends
+
+The key here is to address the mismatch between parents’ and kids' graph.
+
+ted for C
+
+Redac
+
+———rrrrrrrr rrr
+Context
+
+First impression matters - for many, onboarding on MK is the users’ first encounter with the MK
+app and its setups (see Appendix for more info). The current flow can consist of three parts for
+parents: 1) set up the basic bio info 2) find possible contacts 3) opt-ins and privacy policy
+reviews.
+
+In addition to being a long process (40 screens from account creation to activation), various
+UXR studies have shown that the suggested contacts (adults and kids) are not relevant for new
+
+users (UXR Study b’ UXR Study by and parents have trouble finding specific
+
+contacts to add during onboarding.
+
+Data findings are consistent with the UXR sessions in the sense that the recommendation
+during onboarding is overwhelming and inconsistent for new users.
+
+No Relevant Contacts to Add for 17% Users,
+Resulting in the “KOAO” Kids
+
+Redacted for Congress
+¥
+
+10% CTR Means That 90% of the Suggested Contacts are
+Potentially Irrelevant
+
+We are showing too many suggested contacts than users wish to add: among the 152K users
+we looked at who joined MK recently, the CTR for suggested contacts on both the “Friends and
+Family” and “Kids” friending page is only fairly low: for adults, the average CTR is 13%, and for
+kid, 12%. *
+
+As a standard smartphone screen shows around 8-9 candidates on one screen without
+scrolling, the aforementioned CTR translates to roughly 1 user on every screen as
+relevant/worth adding. Here, CTR is used as a proxy measurement for suggestion quality (see
+more below for using connections with WAT as a measure for contact quality). While we do not
+have a benchmark for what constitutes an “ideal” CTR for suggested contacts in the MK
+onboarding use case, we risk at losing new MK parents’ trust if we suggest the “wrong” contact
+
+(which is very different from me sitting at home and scrolling through a long list of recommended Oo
+restaurants to order from on Doordash).
+
+for Congress
+
+1 in 6 Users Added No Connections During Onboarding
+
+UXR research shows that in general, parents are finding 0-5 “ # i
+onboarding. Data estimates that around 17% of the activated accounts did not send any “add”
+requests during onboarding to either the adult suggestions or the kid suggestions, meaning that
+these kids will land in their inbox with zero connections other than their parents. Further
+breakdown shows that close to half (42%) did not “add” any adult users during onboarding.
+
+Redacte
+as .
+
+A breakdown of the onboarded u:
+
+sers categorized by the types/counts of “Add” requests sent:
+
+% of New Users by # of Contacts Added During Onboarding
+
+KOAO
+* 16.7%
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+
+__KOA+
+
+7.5%
+
+ 
+
+ 
+
+   
+
+   
+   
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Kid/Adult Adds 1-5 Adults Added |6+ Adults Added = |Subtotal
+
+0 Kid Added 6% 2% 25%
+1-5 Kids Added 20% 23% 9% 52%
+6+ Kids Added 6% 9% 9% 24%
+Subtotal 42% 38% 19% 100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Redacted for Congress
+=
+
+The table shows that for the 42% users did not find any relevant adults to add during
+onboarding, and this is most likely because the suggested adult contacts consist primarily of the
+parents’ close FB friends. Quality adult connections for a kid user are likely a family member
+(grandpas, grandmas, older cousins etc), but they are either not on FB yet or somehow not
+surfaced during onboarding.
+
+What's even more concerning is that about 25% users did not add any kid connections during
+onboarding. It is possible that these are younger kids without many established kid connections
+
+already on MK or users who are coming to the MK organically, so the cold start problem for
+these users are even worse.
+
+Redacted for Congress
+7. - —
+KOAO Kids Are 28% Less Retained on Day 45
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Those who are KOAO (no adult or kid added during onboarding) retain significally worse than
+their counterparts, with at least one adult or at least one kid added during onboarding. The delta
+for retention between the KOAO and K+A+ (having at least one adult add and one kid add during
+onboarding) folks are close to 30% by Day 45.
+At Day 45 (about one month and half since activation), only 64% of the KOAO group remain
+MAU, suggesting that these users can churn easily because they have trouble expanding their
+network beyond Day 0 of activation.
+Looking at the table below, users with low connection networks on day 0 retain much worse
+than those who start off with some connections to chat with.
+% are MAU by
+Days Since Diff in K+A+
+Activation KOAO KOA+ K+A0 K+A+ and KOAO
+By Day 31 72% 92% 90% 95% 23%
+By Day 35 67% 91% 89% 93% 26%
+By Day 40 64% 90% 89% 91% 27%
+By Day 45 62% 89% 88% 90% 28%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Redacted for Congress
+One Third Users Without Connections From Onboarding Churn Early
+
+Kids with small social graphs have a hard time establishing themselves beyond Day 0 on MK.
+
+30% of them are only active during the first week.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+User Type KOAO KOA+ K+A0 K+At+
+% Only Active on First Day » 23% 6% 7% 3%
+‘% Only Active on First
+Active on First Week 31% 11% 12% 7%
+MAU Opportunity to Increase the Connection Experience During
+Onboarding
+If we were to improve the onboarding experience and help the KOAO users find connections
+during onboarding, then we will have a much higher chance of retaining them after one month,
+with the aim of converting KOAO users to K+A+, who retain 28% better by Day 45...
+Every month, 20% of the ~270K newly activated users would fall into the KOAO bucket: Based
+on the table above, even if we just help 50% of the KOAO users get one connection during
+onboarding, we can prevent 19K per month from churning.
+Help 50% KOAO Users | Help 100% KOAO Users
+Increase MAU Ret by 10% 3K 5K
+Increase MAU Ret by 20% 5K 11K
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Redacted for Congress
+Redacted for Congress
+
+=
+
+2 in 3 Contacts Added During Onboarding Do Not
+Lead to a WAT@7
+
+Even for the 80% users with some connections added during onboarding, the quality of these
+connections might not hold. Using WAT@Day7 as a proxy measure of connection quality, we
+saw that almost 2 in 3 contacts added during onboarding do not lead to a WAT@7. The % of
+added contacts not having a WAT is about 8% higher for the suggested kid contacts indicating
+that the
+
+This seems to suggest that parents, while going through onboarding, do not have a clear sense
+of whom their kids want to engage with.
+
+ 
+
+Connection Type During _| % of Connection Without a WAT @ Day 7
+
+Adult 58%
+
+ 
+
+ 
+
+Kid 66%
+
+ 
+
+ 
+
+ 
+
+ 
+=
+
+Addressing Cold Start During Onboarding
+
+For new users, If we believe that one of the main goals of onboarding should be helping users
+discover quality connections, then surfacing quality connections during onboarding is key.
+Assuming that we don’t completely change the onboarding flow for suggested contacts, how do
+we ensure that users have the right setup from the get-go?
+
+Explicitly Uprank Inviter/Inviter Kids + Let Parents Search for
+Non-FB Friends’ Kids During Onboarding
+
+Context:
+
+Current “Add Kids” page will only show MK kids of the source parents’ FB friends, which means
+that new MK parents will have a hard time finding the kids of their inviters’ kids (if they have
+been invited on the FB platform before) unless they are already FB friends with the target
+parent.
+
+Suggestion:
+
+1) We figure out a way to up!
+user received an invite in th
+parents are FB friends.
+
+2) We incorporate search to allow new parents to search for a specific kid and nudge them
+
+to do so, especially if the new users were invited offline (in the case that we don’t have
+data linking the inviter and invitee). Note here that compared to pre-Covid era,
+
+ 
+   
+   
+ 
+
+in the recommend list (if the new
+
+er or not the source and target
+
+ 
+
+), rega
+
+Option (2) might be subject to privacy concerns, but it is the best alternative for source parents
+
+to find a potential quality kid connection in the most common “BFF ios” (kit
+) scenarios” (ki
+friends, parents are not FB friends). (aes are best
+
+Redacted for Congress
+Additional notes: . . ; -
+1) Let's not overwhelm new parents with a long list of their coworkers'/FB friends’ kids. As
+Chloe pointed out, compared to the pre-COVID era, the number of “suggested kids” has
+increased. It might make more sense now to have a “search” feature.
+
+Encourage Parents to Search for the Adults Connections
+
+If 43% of the users onboarded have no adult connections on activation date, then we need to
+rethink how we define a “quality” adult connection for a young kid. Perhaps we should lean less
+on the parents’ FB graph to make a recommendation for kids.
+
+A radical approach would be to remove the suggested adult connections list and only show the
+search bar. Let's say that the parent has an adult contact in mind for the kid to chat with
+
+(perhaps family members, grandparents, etc), they can easily find those family members using
+Search, so that we still give them the impression that the app is “safe.”
+
+UXR sessions show that at the moment, parents are not using search during onboarding much,
+which is very likely given that we provide them with a long list of suggested connections to
+scroll. However, if we give parents more options to find the right contact from the
+
+Redacted for Congress
+I
+
+Discussion Points
+
+We would like to end this note with some philosophical questions around onboarding and what
+we want the users to get out of onboarding:
+
+14. For those coming to the app for the first time, how do we balance high-intent and
+low-intent friending/invites?”
+a. We know that kids’ graphs are different from their parents, so how can we help
+surface better connections?
+b. Do we/should we recommend so many adult connections?
+2. Different use cases for different parents, can we personalize the onboarding flow to
+match those different use cases?
+a. For instance, can we ask
+i. Parents to tell us whom they allow their kids to talk to?
+ii. Kids to tell us who they want to talk to?
+3. Can we make the onboarding process a shared experience between parents and kids so
+that more quality connections can be established from Day 0?
+
+Appendix
+
+Redacted for Congress
+‘What is “onboarding?”
+
+Most commonly, we use the word “onboarding” to refer to account creation to account activation
+flow. “Account creation” occurs when the parent creates a new kid account (on either PD on the
+FB app, or on the MK app), and “account activation” occurs when the kid lands in the inbox (see
+the thread tiles) and becomes a MAU for the remainder of that month.
+
+There are four main goals of the current onboarding flow that the users can take:
+1. Parent: basic info (name, birthday, add a photo)
+1. Parent: choose contacts:
+a. “Choose kid to chat with” (add another kid, then Parent B needs to approve; if
+with the same creator aka sibling kids, then automatically added)
+b. “Finds parents of their friends to chat with” (FB-MK parents not shown)
+c. “Choose adult to chat with” (Parent A’s FB friends, automatically added, less
+engagement)
+2. Parent: opt-ins
+a. FoF opt-in
+SF opt-in
+CMC opt-in
+. KC opt-in
+
+aes
+
+3. Kid:
+Agree with the guideline
+Take a picture
+
+Go through the four-part onboarding
+. Land in inbox
+
+aoop
+
+Redacted for Congress
+How the “add” friending works during onboarding
+
+Before the opt-in screens, parent users go through one “invites” screen and two “friending”
+screens to add relevant contacts for their kids (screenshots below).
+
+Suggested Kid Contacts: Kid users with the same account creator (such as siblings) are
+automatically added, whereas sending a request to other kids will need to target kids’ parental
+
+approval.
+
+Suggested Parent Contacts: Parent contact suggestions are only of the parent user's Facebook
+friends, and the target will be automatically added and show up in the kids’ inbox.
+
+“Invite” Screen “Add Kids” Screen “Add Adults” Screen
+
+956 -— 8 “ve ose ™-
+
+< Request Contacts < Choose Kids < Choose Adults
+
+Find Natalia's Friends by Sending an Choose Kids for Natalie to Chat With Choose Adults for Natalia to Chat
+Invite to Their Parents with
+You don't need to be Facebook friends with
+
+‘a parent to invite them. They'l be able to see
+Nataka's name and photo
+
+     
+
+ 
+
+Redacted for Congress
+9:56 _-
+
+< Request Contacts
+
+Find Natalia's Friends by Sending an
+Invite to Their Parents
+
+ 
+
+You don't need to be Facebook friends with
+@ parent to invite them. They'll be able to see
+Natalia’s name and photo.
+
+Search for parents
+
+ 
+
+13:14 wee
+
+< Choose Kids
+
+Choose Kids for Natalie to Chat With
+
+When you add someone, their parent or
+guardian will see Natalie's name and photo
+and needs to approve the request before
+your children can chat
+
+9:58
+
+Choose Adults
+
+Choose Adults for Natalia to Chat
+
+With
+
+ 
+
+Redacted for Congress
+Notes on Data Used
+
+1. CTR for suggested contact analysis looks at those who created an account on PD and
+went through the onboarding flow on PD (fb_client_event) .
+a. Suggested contacts (adult and kid) impression events are missing on mk_client
+events
+2. For the other analyses, we looked at users who onboarded on the MK device using an
+iOS device
+a. Created and activated on the same day (to ensure no dropoff and high intent)
+b. Between 12/01/2020 - 01/31/2021
+c. Excluding likely “adult” MK accounts (thanks iz for the analysis on possible
+Adult MK accounts)
+d. MK4A and Kindle logging of the MK events are missing the target_id (for
+requests sent info) for the connection requests sent during onboarding.
+
+Reference
+
+FY creation-to-action funnel analysis
+
+Redacted for Congress
+Like - Reply - 11w
+
+Like - Reply « 11w
+
+  
+   
+
+Like Reply 11w -
+
+Sobetoerareree
+
+Maybe this is obvious, but | do want to clearly spell it out:
+The main challenge for K2K connection is probably inventory not ranking.
+
+The connotation of the conclusion and recommendation here seems to be that we
+
+have a large inventory of kids to choose from, and we aren't surfacing the high-
+quality ones during onboarding.
+
+The "contact suggestions" during onboarding isn't so much "suggestions" as "the
+only kids whose existence you can see". Those are typically kids of your FB friends;
+
+and we know for a fact that parent's FB graph is distinctly different from their kid's
+friend graph.
+
+Redacted for Congress
+triena grapn.
+Fundamentally to solve the inventory problem, we need:
+
+1. Growth! Given our market penetration of ~25%, it's highly likely (75%) that your
+kid's friends simply aren't using the app.
+
+2. Visibility Expansion. Parents aren't FB friends. We need FoF, School and
+potentially other creative solutions.
+
+Those aren't really problems we can solve in onboarding.
+Our hands are tied in how much we can do in onboarding.
+
+Like Reply. 11w. Edited O5
+
+| would actually disagree here. We highly increased the volume of kids on MK
+in the past year (Some parents see 50+ kids in this list). Yes the kids in there
+are not ideal. But cousins are in there, friends thru parents. We should make it
+easier to find them so that kids can get s started on MK.
+
+Like - Reply - 11w eeees
+
+   
+
+eae ed
+He eedege
+ee ehal
+| ¢ ceed
+re:50+ PETI PETES
+That's not a valid. argument. , Having 50+ | kids. vee don't want your kid to talk to
+isn't real inventory. TELESSSS Toe a egy
+
+re: cousins and friends thru parents
+
+Yes, that is a good argument. The chance maybe higher than our market
+penetration (25%) because of networked growth.
+
+| agree that there are potentials here for search and ranking to be impactful.
+Like Reply 11w
+
+iY a a. we still rank the kid suggestions in onboarding? Any ML plans
+
+to work further on the ranking this half?
+
+Like Renly iw
+
+Redacted for Congress
+ 
+
+| did not mean to suggest that either ranking or inventory is broken here, and |
+agree that inventory is a problem for surfacing high-quality suggestions (or
+just cold start problem for new users). Plus in MK there is often privacy
+constraints on whom we can show.
+
+Disagree that our hands are tied during onboarding, and we should give
+parents the options to find those targets (if there are any) and not just simply
+rely on their FB network to keep recommending potential suggestions.
+
+A separate note on inventory: just because we have (or will have in the future)
+along list of MK users (kid suggestion) or FB users (adult suggestions) does
+not mean that we **should** start ranking them and try to decide whom we
+think the users might want to talk to. We position ourselves as a safe app
+(close network), so unlike recommendations on Netflix or IG (which is more
+about exploration and eres e our value prop should be clear from the
+start. ,
+
+Like Reply 1iw Edited 2
+
+We do and ML is working on connections foundations this half (training K2K
+and K2A models), which will impact kid suggestions across all surfaces
+beyond onboarding.
+
+Like - Reply 11w Os
+
+|| Write a reply... @Bpao
+
+Redacted for Congress
+|| We = Played around many different variations on Invite and Contact lists in
+
+onboarding in the past (some with suggestions, some without suggestions) ie
+Forced Search that can also add some color to this.
+
+iirc, while suggestions might have a lot of room for improvement, they still
+performed much better compared to not having them when it came to finding
+contacts to establish in the first place. cc Lin
+
+| totally agree on needing to satisfy high-intent cases, but that doesn't mean there
+isn't value in suggestions either.
+
+Like Reply tw oO
+
+a Thanks so that's a good context to keep in mind.
+
+Some potentially controversial take on this "recommendation/suggestion"
+topic:
+
+suggestions yield the highest value when we have data to know what we
+should recommend. For many apps, this means asking a question on what the
+user want during onboarding ("pick three genres of music or types of book
+you're interested", or Netflix "tell us what you like to watch"). Compared other
+apps' approach with MK's approach, we might be a bit too confident on what
+we can recommend to new users.
+
+Having more of a hybrid approach and asking users what they want from the
+start might help us in the long-run and result in the highest impact in
+retention. Maybe that's something we can keep in mind if we were to redesign
+the onboarding flow in the future.
+
+Like Reply. tiw o1
+
+Redacted for Congress
+Like Reply - Tw
+
+a mi. interesting, but i'm assuming that would be very hard when it
+
+mi, not, we are not allowed to use any kid related features for
+
+comes to friend suggestions. What makes a "good candidate friend" has
+nothing to do with your interests, but everything to do with your actual IRL
+social graph, which we have much fewer signals to start with (cold start
+friending problem).
+
+That's the main reason we rely on the parent graph as a major signal to start
+with right?
+
+That said, | don't remember, if a user was invited to the app, do we use the
+inviter kid's kid-graph as a big signal in ranking the invitee's contact
+suggestions? (Not just uprank the inviter/invitee, but actually use inviter's kid
+graph signals for invitee's ranking)
+
+Like - Reply - iw
+
+Yeah | agree it's a hard problem to solve. Applying the Netflix approach to MK
+will mean asking the users who they want to chat aka getting signals from
+them (not what their interests are, sorry if the comment above was a bit
+confusing) with during onboarding. e.g. ask the parents if they want their kids
+to chat with: grandparents, cousins, school friends, etc.
+
+[EE clo you know if we are allowed to use the inviter's kid's graph as
+signals for contact suggestions for the invitee?
+
+Like - Reply 1iw - Edited
+
+ 
+
+invites ranking
+Like Reply tw 2
+
+Redacted for Congress
+PY definitely agree there is value in the suggestions
+
+and in a high intent friending search. Since the data show the most friending
+happens at onboarding and is the most time efficient way for parents to add
+contacts for their child, | think there is value to get contacts added to the
+child's graph to get started but what I'm finding in the qualitative research is
+those contacts (mostly adults) are not on the kid's IRL friend graph. After a
+month of using the app, they churn from the app without IRL friends. BFF
+research shows those IRL friends are from school, church, neighborhood, and
+extracurricular activities (e.g., Girl Scouts, dance, soccer). Early insights from
+the New User Journey 2nd round of interviews is that users are using the
+suggested list to find target parents to invite to the app. The use case is that
+parents are already FB friends. The user experience to scroll through a long
+list of suggestions is not ideal becauses users are reporting its not organized
+in any systematic way. When scrolling through such a long list, target parent
+can easily be skipped, so we do need an easier way to add high intent
+friending cases (allow parents to filter down the list). If they are not FB friends
+with the other parent, the source parent does not initiate friending at all
+because of the common misconception you need to FB friends to make a k2k
+connection for their child.
+
+|How can parents’ participation in FB school/parenting groups
+be used to leverage higher quality kid suggestions? Would this still be
+considered a kid information?
+
+Like Reply Tw
+
+|| Write a reply... Bp aAO
+
+Redacted for Congress
+a I'm also curious to learn what the data "tradeoffs" in experience are for things we
+believe are "low quality". While there's obvious user quality / experience
+degradations for connecting "low quality" connections, does that interfere or come
+at the cost of something?
+
+Like Reply iw O1
+
+| | Curious about two things:
+
+1) How are high quality connections found now? Kid Codes? Does that happen in
+the first week? Do we find evidence that kids need any "placeholder" connections
+besides the parent between the time of account creator and the first high quality
+connection?
+
+2) If high quality connection is defined as WAT in the first 7 days, have we looked
+into prompts for WAT? Meaning conversation starters, games, question off the day,
+etc
+
+Like Reply Iw Edited
+
+) We are explicitely guarding against doing that on the
+connection side. We are using it a a signal. But working too close to the metric
+would be gaming it here.
+
+1) Kid Codes generates the highest value connections, but only a small share
+of our users use them.
+
+1) Agree that ideally onboarding connections who be a placeholder until they
+get more high value connections. In practice it is the only connections some of
+our users. We need to grow our connections outside of onboarding so we
+don't depend on these onboarding connections as much. See
+https://docs.google.com/.../1l4BtVxgGsGZsm7ZLKgPVZ56.../edit
+
+Redacted for Congress
+voyeur sory reign
+
+   
+
+GOOGLE DRIVE
+
+New users are very dependent on their onboarding
+connections to survive
+
+Like Reply 11w °
+
+| don't mean trying to game the metric, but more like if we know
+that people who have WAT in the first 7 days retain better, should we try to
+help them with it? Could they have a problem of not knowing what to talk
+about? Or how to get started?
+
+Like Reply 11w
+
+  
+ 
+
+Agree, we definitely should help kids get these conversations
+started. The retention gain is probably not as high as from adding the
+
+connection. But it should still have value.
+
+O2
+
+Like Reply iw
+
+Redacted for Congress
+Like Reply - 11w
+
+For some time period before we launched Privacy Policy v2, Growth retention
+focused on conversation starters (since we wanted to do connections work
+after privacy policy updated).
+
+Encouraging friends of new users to send them a sticker improved WAP by
++1.2878+0.9468% 3 weeks after the experiment ended:
+https://fb.workplace.com/groups/1 1915578688754773/permalink/2479216
+645724305
+
+When friends of new users have DGG (Draw-Guess-Game), WAP of the new
+users improved by +0.9510+0.5619
+
+(That being said, when new users have DGG, it actually hurts their WAP)
+https://fb.workplace. CATA Pee Toa pena ea
+469174622
+
+So yeah, the answer is that conversation starters can definitely help; but |
+agree with that gonhectarisys certainly the bigger lever and elephant in
+the room.
+
+ 
+
+ 
+
+That being said, in 2018, we usc orcad heavily on Connections, and we
+added a TON of connections without moving overall WAT. That led to an org-
+wide pivot away from connections work toward WAT, since we didn't believe
+our work was adding high-quality connection (partly validated again by our
+research and | data analysis here).
+
+During that period of time, we focused almost exclusively on parent's FB
+graph (well, since that was the only thing allowed by privacy policy). | believe
+that focus was the cause of the "low quality" connections.
+
+For connections to move retention, | believe we need to go beyond the
+parent's FB graph. | am excited to see where FoF can get us. | am also excited
+to see how far we can go with some of the other big bets like School which
+expands kid's visibility further.
+
+™,
+
+Redacted for Congress
+Suggestion-based connections added during onboarding are low quality: over
+two thirds contacts added during onboarding do not lead to a WAT in 7 days,
+and close to 90% of the contacts shown during onboarding are irrelevant.
+
+Another thought on this - we've heard from Research many times that parent's
+perception of who their kids' friends are can be very different from who the kids are
+actually wanting to chat with.
+
+So there's also a scenario where the suggestions might be high-quality as far as the
+PARENT is concerned, but low quality for the kid's likelihood of chatting. Of course
+it's still not great for K2KWAT purposes, but we should also think about how likely it
+can be for contact suggestions to lead to WAT is parents are the actors to begin
+with. FWIW, the parents are still intentionally sending those requests, so they're still
+"quality" from that perspective. (| am not at all arguing that we actually are good in
+quality now. Just stating that "quality" is definitionally dependent, so we should
+precise on what we consider quali: - | think this is your shared meta-purpose of
+the post anyway g) )
+
+The 90% shown being irrelevant number is a better judge of quality from the aoe
+“likelihood to act" perspective, but also a weird metric (ie. easy to manipulate that
+
+number by just showing more or less people in the list). One click deeper here can
+
+be interesting to see how many "high coefficient" suggestions we show, and what
+
+the "send rate" for those users are. (ie. are we ranking incorrectly, or don't have the
+appropriate people available to rank in the first place)
+
+PYMK for my personal FB account, for example, is pretty "bad" nowadays because |
+have a stable friend graph, so would have a low relevance rate for me. At most I
+might have 1 suggestion | would consider friending, so | might have 95%
+suggestions being irrelevant. Cold-start graphs have a same potential problem. But
+
+this looks very different for other people, and doesn't necessarily mean it's bad
+either.
+
+ 
+
+Redacted for Congress
+For high-reward, low-cost suggestion forms like friending that may often not yield
+with every suggestion being super valuable, it's more important to err on the side of
+having too many false-positives to guarantee chances of capturing as many true-
+positives. That said, the cost of "wrong suggestions" for MK may be different if we
+have a lot of fake accounts / adult accounts labeled as kids, which can degrade trust
+significantly. cc
+
+O2
+
+Like Reply Tw
+
+totally agree with the point on "relevance" and want to
+highlight that the the definition of "quality" for should be a fluid one and CTR
+is by no means a perfect proxy for suggestion quality. However, because we
+are seeing this link between quality connection --> retained users --> MAU,
+WAT becomes a component of that definition.
+PYMK might be the closest example here, but we should still bear in mind the
+differences between MK and FB/MSGR for the purpose of the comparison:
+adults have a much bigger graph and broader definition for "relevant" friends
+that they should add. On the contrary, kids have a much smaller circle and and
+thus the threshold for what can even be recommended should be higher as a
+result.
+
+Like Reply 11w O1
+
+Redacted for Congress
+From BFF research, we know that parents are aware of their
+child's best friends and know about their child's IRL friend graph. Parents do
+not add these connections because they are not offered as suggested kid or
+adult contacts so then parents make a best guess from the suggested
+contacts to guage who their child wants to talk to. | don't think we can say
+these connections are high quality from the parent perspective but just a good
+faith effort from parents to give their child someone to talk to on MK. | think
+the main point to hit home is that these irrelevant connections do not keep
+kids on the app and they churn when their friends are not using MK. From the
+New User Journey 2nd round interviews, we are seeing that these non-IRL
+friend connections do not keep kids on the platform. Kids keep telling | would
+use the app more if my friends were on it.
+
+FYI - Parents think adding contacts at onboarding is the most efficient way to
+add contacts for their child. They struggle to figure out how add friends for
+their child post-onboarding. CC:
+
+Like Reply tw
+
+ 
+
+oO:
+
+|_| Sorry for arriving late to the party here. Onboarding tries to solve two problems:
+high intent friending and low/medium intent friending. We're not doing a great job
+with either.
+
+High Intent: search is key. If they already know who they want to add, but we're
+having them go through a huge list, that’s not very motivating. Especially if they
+can't find that specific person.
+
+Low intent: what makes it particularly hard here is that we can’t use FoF in its pure
+form because the kid has no friends yet. We could increase the candidate set even
+more here by allowed friends of friends through the parent graph, but these are
+probably going to be even lower quality.
+
+Redacted for Congress
+propaply going to pe even lower quality.
+
+At the end of the day, this is a very tricky problem, because High Quality
+Connections usually are the ones in which parents are not connected (school for
+example), and during Onboarding, parents can only select kids through their graph.
+
+Long term, | think we should focus on:
+
+- Onboarding should nail High Intent Friending. When parents are creating new
+accounts, the kids they have in mind should be super easy to find and add.
+
+- Post Onboarding, we need to make high quality suggestions immediately to the
+kid, NOT the parent. That will likely happen mostly through School, not FoF. We
+should also upsell to kids that they can send a QR code to connect with their best
+friend, for High Intent.
+
+In other words, we shouldn't expect to get a ton of high quality connections in
+Onboarding itself because they'll be from the parent graph. We should do more post
+Onboarding so the kid is empowered to find friends for him/herself.
+
+Like Reply: 11w ris O52
+
+aE have we done a funnel analysis on the 40 steps of the onboarding flow itself? where
+
+ppl drop off or seem to get confused? are they sending invites and ppl just not
+accepting? etc etc
+
+  
+
+1
+Like. Reply - 11w o
+
+Fs can speak to this with the most recent onboarding
+
+churn presentation with designers last week!
+Like - Reply - 11w oO:
+
+ 
+
+Redacted for Congress
+Like Keply Yl
+
+| Are the data specific to MK onboarding or PD onboarding is also included?
+
+18% of the new users added zero adult or kid contacts during onboarding and
+land in the inbox with no connection other than their parents
+
+Wondering how many of the 18% are likely adults(https://fourl.com/qk8uznxa)?
+
+Agree there definitely room to improve but just want to make sure we are not
+focusing on people such as parents who are just checking out the app
+
+oO:
+
+Like Reply 11w Edited
+
+a | looked at MK onboarding and excluded the likely adults from the analysis.
+Yes - | think for the activation efforts for this half, it also makes sense to only
+target those who are more likely to be real kid accounts.
+2
+
+Like Reply 11w
+
+|_| Write a comment... @ <p a O
+
+ 
+
+New Test Recommendation for JavaScript Beta Release
+
+To follow up on the previous post, | have completed the development for new test
+recommendation on JavaScript
+Check out the recommendation for your team with bunnylol "trex new"
+
+More wi
+
+Chats
+
+Redacted for Congress
+
+ 
